@@ -1,0 +1,9 @@
+from . import gemini_generate_description, gemini_json_filters
+
+gerar_descricao = gemini_generate_description.gerar_descricao
+
+extrair_nome = gemini_json_filters.extrair_nome
+extrair_marca = gemini_json_filters.extrair_marca
+extrair_descricao = gemini_json_filters.extrair_descricao
+extrair_metadescricao = gemini_json_filters.extrair_metadescricao
+
