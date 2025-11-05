@@ -1,63 +1,35 @@
 
 def json_para_html(produto):
     html = f"""
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>{produto.get('nome', '')}</title>
-    <meta name="description" content="{produto.get('metadescricao', '')}">
-    <style>
-        body {{
-            font-family: Arial, sans-serif;
-            font-size: 16px;
-            color: #000;
-            margin: 40px;
-            line-height: 1.5;
-        }}
-        h1, h2, p, li, th, td {{
-            font-weight: normal;
-            font-size: 16px;
-            margin: 10px 0;
-        }}
-        ul {{
-            margin-left: 20px;
-            padding-left: 0;
-        }}
-        table {{
-            border-collapse: collapse;
-            margin-top: 10px;
-            width: 100%;
-        }}
-        th, td {{
-            border: 1px solid #000;
-            padding: 6px;
-            text-align: left;
-        }}
-    </style>
-</head>
-<body>
-    <h1>{produto.get('nome', '')}</h1>
-    <h2>Marca: {produto.get('marca', '')}</h2>
+    <p><strong>{produto.get('nome', '')}</p></strong>
+    <p>{produto.get('marca', '')}</p>
+    <p> <br></p>
     <p>{produto.get('descricao', '')}</p>
+    <p> <br></p>
 """
 
     # Escopos (lista)
-    if 'Escopos' in produto and isinstance(produto['Escopos'], list):
-        html += "<h2>Escopos de uso:</h2>\n<ul>\n"
-        for item in produto['Escopos']:
-            html += f"    <li>{item.lstrip('- ').strip()}</li>\n"
-        html += "</ul>\n"
+    if 'escopos' in produto and isinstance(produto['escopos'], list):
+        for item in produto['escopos']:
+            html += f"    <p>- {item}</p>\n"
+        html += "<p> <br></p>"
 
     # Ficha Técnica (dicionário)
-    if 'Ficha Técnica' in produto and isinstance(produto['Ficha Técnica'], dict):
-        html += "<h2>Ficha Técnica:</h2>\n<table>\n"
-        for chave, valor in produto['Ficha Técnica'].items():
-            html += f"    <tr><th>{chave}</th><td>{valor}</td></tr>\n"
-        html += "</table>\n"
+    if 'ficha_tecnica' in produto and isinstance(produto['ficha_tecnica'], dict):
+        html += "<p><strong>Ficha Técnica:</p></strong>\n<table border='1'><tbody>\n"
+        for chave, valor in produto['ficha_tecnica'].items():
+            html += f"    <tr><td><p>{chave}</p></td><td><p>{valor}</p></td></tr>\n"
+        html += "</tbody></table>\n<p> <br></p>"
+
+    # Sugestões de Uso  (lista)
+    if 'sugestoes_de_uso' in produto and isinstance(produto['sugestoes_de_uso'], list):
+        html += "<p><strong>Sugestões de Uso:</p></strong>"
+        for item in produto['sugestoes_de_uso']:
+            html += f"    <p>- {item}</p>\n"
+        html += "<p> <br></p>"
 
     # Mais sobre o produto (texto adicional)
-    if 'Mais sobre o produto' in produto:
-        html += f"<h2>Mais sobre o produto:</h2>\n<p>{produto['Mais sobre o produto']}</p>\n"
+    if 'mais_sobre_o_produto' in produto:
+        html += f"<p><strong>Mais sobre o produto:</p></strong>\n<p>{produto['mais_sobre_o_produto']}</p>\n"
 
-    html += "</body>\n</html>"
     return html
