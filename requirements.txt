@@ -1,6 +1,5 @@
-fastapi
-uvicorn[standard]
 google-generativeai
 requests
 pydantic-settings
 python-dotenv
+streamlit
