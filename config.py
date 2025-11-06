@@ -8,6 +8,9 @@ class Settings(BaseSettings):
     MELI_API_KEY: str
     ERP_API_KEY: Optional[str] = None
     GEMINI_API_KEY: str
+    AUTCOM_WS_AUTH: str
+    AUTCOM_GETPRODUCT_PATH: str
+    AUTCOM_PATCHPRODUCT_PATH: str
 
     # configurações gerais
     API_HOST: str = "0.0.0.0"
