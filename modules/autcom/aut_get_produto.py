@@ -1,4 +1,5 @@
 import requests
+import json
 from config import settings
 
 def get_produto(sku: str):
@@ -9,4 +10,5 @@ def get_produto(sku: str):
     'Authorization': f'Basic {settings.AUTCOM_WS_AUTH}'
     }
     response = requests.request("GET", url, headers=headers, data=payload)
-    return response
+    conteudo = json.loads(response.text)
+    return conteudo

@@ -2,37 +2,39 @@ import requests
 import json
 from config import settings
 
-
 def put_produto(
         sku: str,
-        altura,
-        aplicacao,
-        categorias,
-        dadosTecnicos,
-        descricao,
-        destaque,
-        i
+        nome: str = None,
+        descricao: str = None,
+        aplicacao: str = None,
+        dadosTecnicos: str = None,
+        itensInclusos: str = None,
+        altura: str = None,
+        largura: str = None,
+        profundidade: str = None
         ):
+
     url = f"{settings.AUTCOM_PATCHPRODUCT_PATH}{sku}"
 
-    payload = json.dumps({
-    "altura": 100,
-    "aplicacao": "teste arthur dnv aplicacao",
-    "categorias": "teste arthur categorias",
-    "dadosTecnicos": "teste arthur dados técnicos",
-    "descricao": "teste arthur descricao",
-    "destaque": False,
-    "itensInclusos": "teste arthur itens inclusos",
-    "largura": 99,
-    "nome": "teste arthur nome",
-    "profundidade": 98,
-    "urlImagem": "teste arthur url"
-    })
-    headers = {
-    'Content-Type': 'application/json',
-    'Authorization': f'Basic {settings.AUTCOM_WS_AUTH}'
+    # monta o payload só com o que foi informado
+    payload_dict = {
+        "nome": nome,
+        "descricao": descricao,
+        "aplicacao": aplicacao,
+        "dadosTecnicos": dadosTecnicos,
+        "itensInclusos": itensInclusos,
+        "altura": altura,
+        "largura": largura,
+        "profundidade": profundidade,
     }
 
-    response = requests.request("PATCH", url, headers=headers, data=payload)
+    # remove chaves com valor None
+    payload = json.dumps({k: v for k, v in payload_dict.items() if v is not None})
 
+    headers = {
+        'Content-Type': 'application/json',
+        'Authorization': f'Basic {settings.AUTCOM_WS_AUTH}'
+    }
+
+    response = requests.patch(url, headers=headers, data=payload)
     return response

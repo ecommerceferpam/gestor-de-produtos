@@ -1,132 +1,47 @@
 # app.py
-import time
-from typing import Dict, Any, Optional
+import copy
 import streamlit as st
+import interface
+import streamlit.components.v1 as components
+from config import settings
 
-# >>> CONEXÃO COM O MAGENTO
-from modules import magento  # magento.get_produto(sku) retorna JSON e existem os filters citados
+from modules import magento, autcom, ferramentas
 
-st.set_page_config(page_title="Product Editor", layout="wide")
-
-# ------- CSS (tema claro fiel) -------
-st.markdown("""
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
-:root{
-  --bg: #F5F7FB; --card: #FFFFFF; --border: #E5E7EB; --text: #0F172A; --muted: #6B7280;
-  --brand: #004ac2; --brand-600:#4287f5; --sidebar:#111827; --sidebar-text:#E5E7EB; --sidebar-active:#1F2937;
+DEFAULT_PRODUCT = {
+    "sku": "",
+    "name": "",
+    "brand": "",
+    "ean": "",
+    "mfg_code": "",          # padronize este nome na UI
+    "magento": {
+        "name":"",
+        "brand":"",
+        "ean":"",
+        "description": "",
+        "meta_description": "",
+        "package_content":"Esse não é para apagar"
+    },
+    "erp": {
+        "description": "",
+        "price": 0.0,
+        "stock": 0,
+        "status": "Disabled",
+    },
+    "meli": {
+        "description": "",
+        "price": 0.0,
+        "stock": 0,
+        "status": "Disabled",
+    },
 }
-html, body, .stApp { background: var(--bg) !important; color: var(--text) !important; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; }
-[data-testid="stSidebar"]{ background: var(--sidebar) !important; color: var(--sidebar-text) !important; border-right: 1px solid #0B1220; }
-[data-testid="stSidebar"] * { color: var(--sidebar-text) !important; }
-[data-testid="stSidebar"] .stButton>button{ background: var(--sidebar-active) !important; color: #fff !important; border: 1px solid #00000033; }
-header[data-testid="stHeader"]{ background: #fff !important; border-bottom: 1px solid var(--border); }
-.block-container { padding-top: 1rem; padding-bottom: 2rem; }
-.section { border: 1px solid var(--border); border-radius: 12px; padding: 16px; background: var(--card); }
-.section + .section { margin-top: 16px; }
-.section-title { font-weight: 600; color: var(--text); margin-bottom: 8px; }
-.subtle { color: var(--muted); font-size: 0.875rem; }
-textarea, .stTextInput>div>div>input, .stNumberInput input, .stSelectbox div[data-baseweb="select"]{
-  border-radius: 10px !important; border: 1px solid var(--border) !important; background: #fff !important; color:#000 !important;
-}
-.stTextInput:focus-within input, .stNumberInput:focus-within input, .stSelectbox:focus-within div[data-baseweb="select"], textarea:focus{
-  outline: none !important; border-color: var(--brand) !important; box-shadow: 0 0 0 3px rgba(91,91,214,.15) !important;
-}
-.stButton>button{ background: var(--brand) !important; color: #fff !important; border: 1px solid var(--brand) !important; border-radius: 10px; font-weight: 600; }
-.stButton>button:hover{ background: var(--brand-600) !important; border-color: var(--brand-600) !important; }
-.stTabs [data-baseweb="tab-list"] { gap: 16px; border-bottom: 1px solid var(--border); }
-.stTabs [data-baseweb="tab"]{ padding: 8px 14px; border-radius: 10px 10px 0 0; background: #F8FAFC; color:#1F2937; }
-.stTabs [data-baseweb="tab"][aria-selected="true"]{ background: #fff; color: var(--text); box-shadow: inset 0 -2px 0 0 var(--brand); }
-.stAlert { border-radius: 12px; }
-            
-.stFormSubmitButton>button{ background: var(--brand) !important; color: #fff !important; border: 1px solid var(--brand) !important; border-radius: 10px; font-weight: 600; }
 
-            .st-emotion-cache-qcpnpn{padding:0px !important; color: #000 !important;}
-            .st-emotion-cache-1weic72{color:#000 !important;}
-</style>
-""", unsafe_allow_html=True)
+st.set_page_config(page_title="Gestor de Produtos", layout="wide")
+interface.init(DEFAULT_PRODUCT)
+interface.load_css(".streamlit/style.css")
 
-# ---------------------- Helpers ----------------------
-def load_from_magento(sku: str) -> Optional[Dict[str, Any]]:
-    """
-    Busca no Magento e aplica filtros para campos principais.
-    magento.get_produto(sku) -> JSON
-    magento.filter_nome(json) -> str
-    magento.filter_marca(json) -> str
-    magento.filter_descricao(json) -> str
-    magento.filter_ean(json) -> str
-    """
-    if not sku:
-        return None
-    try:
-        raw = magento.get_produto(sku)
-    except Exception as e:
-        st.error(f"Erro ao consultar Magento: {e}")
-        return None
-
-    # Aplica filtros solicitados
-    try:
-        name = getattr(magento, "filter_nome")(raw)
-    except Exception:
-        name = ""
-    try:
-        brand = getattr(magento, "filter_marca")(raw)
-    except Exception:
-        brand = ""
-    try:
-        descricao = getattr(magento, "filter_descricao")(raw)
-    except Exception:
-        descricao = ""
-    try:
-        ean = getattr(magento, "filter_ean")(raw)
-    except Exception:
-        ean = ""
-    try:
-        meta_desc = getattr(magento, "filter_metaDescription")(raw)
-    except Exception:
-        meta_desc = ""
-
-
-    return {
-        "sku": sku,
-        "name": name or "",
-        "brand": brand or "",
-        "ean": ean or "",
-        "magento": {
-            "description": descricao or "",
-            "meta_description": meta_desc or "",
-        },
-        # Mantemos ERP/MELI intactos por enquanto
-        "erp": {},
-        "meli": {},
-    }
-
-def try_salvar_no_magento(sku: str, descricao: str, meta_descricao: str) -> bool:
-    """
-    Placeholder de salvamento. Se você tiver um método oficial (ex.: magento.update_produto),
-    troque aqui para a chamada real.
-    """
-    try:
-        if hasattr(magento, "salvar_descricao"):
-            magento.salvar_descricao(sku, descricao, meta_descricao)
-            return True
-        # Fallback: se não existir, apenas sinaliza que precisa implementar
-        st.info("Implemente `magento.salvar_descricao(sku, descricao, meta_descricao)` no módulo.")
-        return False
-    except Exception as e:
-        st.error(f"Erro ao salvar no Magento: {e}")
-        return False
-
-def try_gerar_com_gemini(sku: str, descricao_atual: str) -> str:
-    """
-    Placeholder para geração com Gemini. Substitua por sua integração real.
-    """
-    # Exemplo simples: devolve um texto simulado a partir do SKU
-    return f"[Gemini] Descrição otimizada para SKU {sku} baseada no conteúdo atual."
-
-# ---------------------- Estado ----------------------
-if "product" not in st.session_state:
-    st.session_state.product = None
+# # ---------------------- Estado ----------------------
+# if "product" not in st.session_state:
+#     st.session_state.product = None
 
 # ---------------------- Sidebar ----------------------
 st.sidebar.header("Painel")
@@ -139,116 +54,307 @@ if nav == "Logs / Insights":
     st.info("Espaço reservado para auditoria e métricas.")
     st.stop()
 
-# ---------------------- Topo ----------------------
-st.title("Editor de Produtos")
 
-# ---------------------- Buscar por SKU ----------------------
-with st.container():
-    st.markdown('<div class="section-title">Busque um produto por SKU</div>', unsafe_allow_html=True)
-    c1, c2 = st.columns([6, 1.3])
-    with c1:
-        sku_input = st.text_input("SKU", key="sku_input", label_visibility="collapsed", placeholder="Digite o SKU no formato 7 dígitos…")
-    with c2:
-        if st.button("Buscar", use_container_width=True):
-            data = load_from_magento(sku_input.strip())
-            if data:
-                st.session_state.product = data
-                st.toast(f"Produto '{data['sku']}' carregado do Magento.")
-            else:
-                st.toast("SKU inválido ou não encontrado.")
+left, main, right = st.columns([1, 3, 1])
 
-product = st.session_state.product
+with main:
+    st.title("Editor de Produtos")
+    # ---------------------- Buscar por SKU ----------------------
+    with st.container():
+        c1, c2 = st.columns([6, 1.3])
+        with c1:
+            sku_input = st.text_input("SKU", key="sku_input", label_visibility="collapsed", placeholder="Digite o SKU no formato 7 dígitos…")
+        with c2:
+            if st.button("Editar", use_container_width=True):
+                data = interface.buscar_produto(sku_input.strip())
+                if data:
+                    # Começa do DEFAULT para garantir todas as chaves
+                    new_product = copy.deepcopy(DEFAULT_PRODUCT)
+                    # Mescla o que veio do Magento
+                    interface.deep_merge(new_product, data)
+                    # Mantém valores locais que você não quer perder? (opcional)
+                    # deep_merge(new_product, st.session_state.product, prefer_left=False)
+                    st.session_state.product = new_product
+                else:
+                    st.toast("SKU inválido ou não encontrado.")
 
-# ---------------------- Header Card ----------------------
-if product:
-    st.subheader(product.get("name") or "—")
-    st.caption(product.get("sku") or "")
+    product = st.session_state.product
 
-    # ---------------------- Main Informations ----------------------
-    st.markdown('<div class="section-title">Dados Gerais</div>', unsafe_allow_html=True)
+    # ---------------------- Header Card ----------------------
+    if product.get("name"):
 
-    with st.form("main_info"):
-        col1, col2, col3 = st.columns([3, 2, 2])
+
+        # Linha 1: Nome
+        st.subheader("Nome")
+        st.write(product.get("name", ""))
+
+
+        # Linha 2: Marca | EAN | Cód. Fabricante
+        col1, col2, col3 = st.columns(3)
+
         with col1:
-            name = st.text_input("Nome", value=product.get("name", ""))
+            st.subheader("Marca")
+            st.write(product.get("brand", ""))
+
         with col2:
-            brand = st.text_input("Marca", value=product.get("brand", ""))
+            st.subheader("EAN")
+            st.write(product.get("ean", ""))
+
         with col3:
-            ean = st.text_input("EAN", value=product.get("ean", ""))
+            st.subheader("Cód. Fabricante")
+            st.write(product.get("mfg_code", ""))
 
-        # Mantive "Cod. Fab." se você usa; senão remova
-        mfg_code = st.text_input("Código de Fáb.", value=product.get("mfg_code", ""))
+        st.divider()
 
-        submitted = st.form_submit_button("Salvar Dados Gerais (Localmente)")
-        if submitted:
-            product.update({
-                "name": name,
-                "brand": brand,
-                "ean": ean,
-                "mfg_code": mfg_code
-            })
-            st.success("Informações principais salvas localmente.")
 
-    # ---------------------- Tabs ----------------------
-    tabs = st.tabs(["🛒 Magento", "📦 ERP", "🚀 MELI"])
 
-    # -------- Magento TAB (apenas Descrição e Meta-Descrição + botões solicitados) --------
-    with tabs[0]:
-        mag_data = product.get("magento", {}) if product else {}
-        with st.form("magento_form"):
-            descricao = st.text_area("Descrição", value=mag_data.get("description", ""), height=180, key="magento_desc")
-            meta_descricao = st.text_area("Meta-Descrição", value=mag_data.get("meta_description", ""), height=100, key="magento_meta")
+        # ---------------------- Tabs ----------------------
+        tabs = st.tabs(["🛒 Magento", "📦 ERP", "🚀 MELI"])
 
-            col_a, col_b = st.columns([1, 1])
-            gemini_clicked = col_a.form_submit_button("Gerar com Gemini")
-            salvar_clicked = col_a.form_submit_button("Salvar no Magento")
+        # -------- Magento TAB (apenas Descrição e Meta-Descrição + botões solicitados) --------
+        with tabs[0]:
+            mag_data = product.get("magento", {}) if product else {}
+            with st.form("magento_form"):
+                # descricao = st.text_area("Descrição", value=mag_data.get("description", ""), height=180, key="magento_desc")
+                # meta_descricao = st.text_area("Meta-Descrição", value=mag_data.get("meta_description", ""), height=100, key="magento_meta")
 
-            if salvar_clicked:
-                ok = try_salvar_no_magento(product["sku"], descricao, meta_descricao)
-                if ok:
-                    product["magento"] = {"description": descricao, "meta_description": meta_descricao}
-                    st.success("Descrição atualizada no Magento.")
-            if gemini_clicked:
-                novo_texto = try_gerar_com_gemini(product["sku"], descricao)
-                if novo_texto:
-                    # Atualiza apenas no UI; usuário decide salvar
-                    product.setdefault("magento", {})
-                    product["magento"]["description"] = novo_texto
-                    st.experimental_rerun()
+                # col_a, col_b = st.columns([1, 1])
+                # gemini_clicked = col_a.form_submit_button("Gerar com Gemini")
+                # salvar_clicked = col_a.form_submit_button("Salvar no Magento")
 
-    # -------- ERP TAB (mantido) --------
-    with tabs[1]:
-        erp = product.get("erp", {})
-        with st.form("erp_form"):
-            desc = st.text_area("Description", value=erp.get("description", ""), height=140)
-            c1, c2, c3 = st.columns(3)
-            with c1:
-                price = st.number_input("Price", value=float(erp.get("price") or 0.0), step=0.01, min_value=0.0)
-            with c2:
-                stock = st.number_input("Stock", value=int(erp.get("stock") or 0), step=1, min_value=0)
-            with c3:
-                status = st.selectbox("Status", ["Active", "Disabled"], index=0 if erp.get("status")=="Active" else 1)
-            if st.form_submit_button("Save ERP"):
-                product["erp"] = {"description": desc, "price": float(price), "stock": int(stock), "status": status}
-                st.success("ERP atualizado (local).")
+                # if salvar_clicked:
+                #     ok = try_salvar_no_magento(product["sku"], descricao, meta_descricao)
+                #     if ok:
+                #         product["magento"] = {"description": descricao, "meta_description": meta_descricao}
+                #         st.success("Descrição atualizada no Magento.")
+                # if gemini_clicked:
+                #     novo_texto = try_gerar_com_gemini(product["sku"], descricao)
+                #     if novo_texto:
+                #         # Atualiza apenas no UI; usuário decide salvar
+                #         product.setdefault("magento", {})
+                #         product["magento"]["description"] = novo_texto
+                #         st.experimental_rerun()
+                    # Linha 1 — Nome | Status (toggle Ativo/Inativo)
+                
+                c1, c2 = st.columns([3, 1])
+                with c1:
+                    nome = st.text_input("Nome", value=mag_data.get("name", ""), key="mag_nome")
+                with c2:
+                    status = st.toggle("Status", value=bool(product.get("active", True)), key="mag_status")
+                    st.caption("Ativo" if status else "Inativo")
 
-    # -------- MELI TAB (mantido) --------
-    with tabs[2]:
-        meli = product.get("meli", {})
-        with st.form("meli_form"):
-            desc = st.text_area("Description", value=meli.get("description", ""), height=140)
-            c1, c2, c3 = st.columns(3)
-            with c1:
-                price = st.number_input("Price", value=float(meli.get("price") or 0.0), step=0.01, min_value=0.0)
-            with c2:
-                stock = st.number_input("Stock", value=int(meli.get("stock") or 0), step=1, min_value=0)
-            with c3:
-                status = st.selectbox("Status", ["Active", "Disabled"], index=0 if meli.get("status")=="Active" else 1)
-            if st.form_submit_button("Save MELI"):
-                product["meli"] = {"description": desc, "price": float(price), "stock": int(stock), "status": status}
-                st.success("MELI atualizado (local).")
+                # Descrição
+                descricao = st.text_area(
+                    "Descrição",
+                    value=mag_data.get("description", ""),
+                    height=480,
+                    key="magento_desc",
+                )
 
-    st.markdown('</div>', unsafe_allow_html=True)
+                # Meta-descrição
+                meta_descricao = st.text_area(
+                    "Meta-Descrição",
+                    value=mag_data.get("meta_description", ""),
+                    height=120,
+                    key="magento_meta",
+                )
 
-else:
-    st.info("Carregue um SKU para começar.")
+                # Conteúdo da embalagem
+                conteudo_embalagem = st.text_area(
+                    "Conteúdo da Embalagem",
+                    value=mag_data.get("package_content", ""),
+                    height=70,
+                    key="mag_conteudo_embalagem",
+                )
+
+                # Linha 2 — Peso | Largura | Altura | Comprimento
+                ca, cb, cc, cd = st.columns(4)
+                with ca:
+                    peso = st.number_input("Peso (kg)", min_value=0.0, step=0.01, value=float(mag_data.get("weight", 0.0)), key="mag_peso")
+                with cb:
+                    largura = st.number_input("Largura (cm)", min_value=0.0, step=0.1, value=float(mag_data.get("width", 0.0)), key="mag_largura")
+                with cc:
+                    altura = st.number_input("Altura (cm)", min_value=0.0, step=0.1, value=float(mag_data.get("height", 0.0)), key="mag_altura")
+                with cd:
+                    comprimento = st.number_input("Comprimento (cm)", min_value=0.0, step=0.1, value=float(mag_data.get("length", 0.0)), key="mag_comprimento")
+
+                # Linha 3 — Google Merchant | Preço Boleto no Feed (toggles)
+                t1, t2 = st.columns(2)
+                with t1:
+                    google_merchant = st.toggle("Google Merchant", value=bool(mag_data.get("google_merchant", False)), key="mag_google_merchant")
+                with t2:
+                    preco_boleto_feed = st.toggle("Preço Boleto no Feed", value=bool(mag_data.get("preco_boleto_feed", False)), key="mag_preco_boleto_feed")
+
+                st.divider()
+
+                # Ações
+                col_a, col_b = st.columns([1, 1])
+                with col_a:
+                    gemini_clicked = st.form_submit_button("Gerar com Gemini")
+                with col_b:
+                    salvar_clicked = st.form_submit_button("Salvar no Magento")
+
+        # -------- ERP TAB (mantido) --------
+        with tabs[1]:
+            erp = product.get("erp", {})
+            with st.form("erp_form"):
+                desc = st.text_area("Description", value=erp.get("description", ""), height=140)
+                c1, c2, c3 = st.columns(3)
+                with c1:
+                    price = st.number_input("Price", value=float(erp.get("price") or 0.0), step=0.01, min_value=0.0)
+                with c2:
+                    stock = st.number_input("Stock", value=int(erp.get("stock") or 0), step=1, min_value=0)
+                with c3:
+                    status = st.selectbox("Status", ["Active", "Disabled"], index=0 if erp.get("status")=="Active" else 1)
+                if st.form_submit_button("Save ERP"):
+                    product["erp"] = {"description": desc, "price": float(price), "stock": int(stock), "status": status}
+                    st.success("ERP atualizado (local).")
+
+        # -------- MELI TAB (mantido) --------
+        with tabs[2]:
+            meli = product.get("meli", {})
+            with st.form("meli_form"):
+                meta_descricao = st.text_area(
+                    "Meta-Descrição",
+                    value=mag_data.get("meta_description", ""),
+                    height=100,
+                    key="meli_meta",
+                )
+
+                # ----- EDITOR TINYMCE (Descrição) + botões "Buscar" (GET) e "Enviar" (POST) -----
+                # Conteúdo inicial do editor = descrição vinda do Magento (ou última editada)
+                if "tiny_html" not in st.session_state:
+                    st.session_state.tiny_html = mag_data.get("description", "") or "<p>Comece a editar…</p>"
+
+                # Render do editor + botões (tudo no mesmo iframe p/ poder acessar tinymce.activeEditor)
+                import streamlit.components.v1 as components
+                editor_html = f"""
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="utf-8"/>
+            <script src="https://cdn.tiny.cloud/1/{settings.TINY_API_KEY}/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+            <style>
+            body {{ font-family: Arial, Helvetica, sans-serif; }}
+            .row {{ display:flex; gap:8px; margin:12px 0; }}
+            .btn {{
+                background:#004ac2; color:#fff; border:none; padding:10px 14px; border-radius:8px;
+                cursor:pointer; font-weight:600;
+            }}
+            .btn.secondary {{ background:#4287f5; }}
+            .msg {{ margin-top:8px; font-size:13px; }}
+            .input-inline input {{
+                width: 280px; padding:8px 10px; border:1px solid #E5E7EB; border-radius:8px; margin-right:8px;
+            }}
+            </style>
+        </head>
+        <body>
+            <!-- Campo editor -->
+            <textarea id="editor">{st.session_state.tiny_html}</textarea>
+
+            <!-- Barra de ações (dentro do mesmo iframe) -->
+            <div class="row">
+            <div class="input-inline">
+                <input id="skuField" placeholder="SKU (opcional)" value="{product.get("sku","")}"/>
+            </div>
+            <button class="btn" onclick="buscarHtmlExterno()">🔎 Buscar HTML externo</button>
+            <button class="btn secondary" onclick="enviarHtml()">📤 Enviar HTML para API</button>
+            </div>
+            <div id="status" class="msg"></div>
+
+            <script>
+            const API_GET_URL  = "";
+            const API_POST_URL = "";
+
+            tinymce.init({{
+                selector: '#editor',
+                height: 420,
+                plugins: [
+                'advlist', 'autolink', 'lists', 'link', 'image', 'charmap', 'preview',
+                'anchor', 'searchreplace', 'visualblocks', 'code', 'fullscreen',
+                'insertdatetime', 'media', 'table', 'code', 'help', 'wordcount'
+                ],
+                toolbar:
+                'undo redo | bold italic underline | forecolor backcolor | ' +
+                'alignleft aligncenter alignright alignjustify | ' +
+                'bullist numlist outdent indent | table | link image media | code preview',
+                menubar: 'file edit view insert format tools table help',
+                promotion: false,
+                branding: false,
+                automatic_uploads: true,
+                content_style: 'body {{ font-family:Arial,Helvetica,sans-serif; font-size:16px }}',
+            }});
+
+            function setStatus(msg, ok=true) {{
+                const el = document.getElementById('status');
+                el.textContent = msg;
+                el.style.color = ok ? '#0f766e' : '#b91c1c';
+            }}
+
+            async function buscarHtmlExterno() {{
+                try {{
+                const sku = document.getElementById('skuField').value || '';
+                const url = sku ? (API_GET_URL + encodeURIComponent(sku)) : API_GET_URL;
+
+                setStatus('Buscando conteúdo…');
+                const res = await fetch(url, {{ method: 'GET' }});
+                if (!res.ok) throw new Error('GET falhou: ' + res.status);
+                const contentType = res.headers.get('content-type') || '';
+                let html = '';
+                if (contentType.includes('application/json')) {{
+                    const data = await res.json();
+                    // tenta campos comuns
+                    html = data.html || data.descricao || data.description || '';
+                }} else {{
+                    html = await res.text();
+                }}
+                if (!html) throw new Error('Resposta sem HTML');
+                tinymce.activeEditor.setContent(html);
+                setStatus('Conteúdo inserido no editor ✔');
+                }} catch (e) {{
+                console.error(e);
+                setStatus('Erro ao buscar HTML: ' + e.message, false);
+                }}
+            }}
+
+            async function enviarHtml() {{
+                try {{
+                const sku = document.getElementById('skuField').value || '';
+                const html = tinymce.activeEditor.getContent();
+
+                setStatus('Enviando conteúdo…');
+                const res = await fetch(API_POST_URL, {{
+                    method: 'POST',
+                    headers: {{
+                    'Content-Type': 'application/json'
+                    }},
+                    body: JSON.stringify({{ sku, html }})
+                }});
+                if (!res.ok) throw new Error('POST falhou: ' + res.status);
+                setStatus('HTML enviado com sucesso ✔');
+                }} catch (e) {{
+                console.error(e);
+                setStatus('Erro ao enviar HTML: ' + e.message, false);
+                }}
+            }}
+            </script>
+        </body>
+        </html>
+        """
+                components.html(editor_html, height=560, scrolling=True)
+
+                # Botão de submit do form (apenas para meta-descrição aqui no backend)
+                # A descrição (HTML) fica no TinyMCE; salve-a no Magento via seu endpoint JS (Enviar HTML) acima.
+                col_inline = st.container()
+                with col_inline:
+                    st.write("")  # apenas para espaçar um pouco
+                salvar_clicked = st.form_submit_button("Salvar Meta-Descrição no Magento")
+                if salvar_clicked:
+                    # Se você também quiser salvar a meta_descrição no mesmo endpoint do Magento:
+                    # try_salvar_no_magento(product["sku"], descricao_html, meta_descricao)
+                    st.toast("Meta-Descrição pronta para envio (implemente a chamada no seu módulo).", icon="🧩")
+
+            st.markdown('</div>', unsafe_allow_html=True)
+
+    else:
+        st.info("Carregue um SKU para começar.")

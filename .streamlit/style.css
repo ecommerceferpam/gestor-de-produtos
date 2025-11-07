@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root{
+  --bg: #F5F7FB; 
+  --card: #FFFFFF; 
+  --border: #ededed; 
+  --text: #0F172A; 
+  --muted: #6B7280;
+  --brand: #004ac2; 
+  --brand-600:#4287f5; 
+  --sidebar:#111827; 
+  --sidebar-text:#E5E7EB; 
+  --sidebar-active:#1F2937;
+}
+
+*{
+  font-family: Poppins !important;
+}
+
+[data-testid="stSidebar"]{
+   background: var(--sidebar) !important;
+   color: var(--sidebar-text) !important;
+   border-right: 1px solid #0B1220;
+}
+
+[data-testid="stSidebar"] * {
+   color: var(--sidebar-text) !important;
+}
+
+[data-testid="stSidebar"] .stButton>button{
+   background: var(--sidebar-active) !important;
+   color: #fff !important;
+   border: 1px solid #00000033;
+}
+
+header[data-testid="stHeader"]{
+   background: #fff !important;
+   border-bottom: 1px solid #ededed;
+}
+
+.stButton>button{
+   background: var(--brand) !important;
+   color: #fff !important;
+   border: 1px solid var(--brand) !important;
+   border-radius: 10px;
+   font-weight: 600;
+}
+
+.stButton>button:hover{
+   background: var(--brand-600) !important;
+   border-color: var(--brand-600) !important;
+}
+
+.stAlert {
+   border-radius: 12px;
+}
+
+.stFormSubmitButton>button{
+   background: var(--brand) !important;
+   color: #fff !important;
+   border: 1px solid var(--brand) !important;
+   border-radius: 10px;
+   font-weight: 600;
+}

@@ -1,0 +1,19 @@
+from . import aut_get_produto, aut_patch_produto, aut_json_filters
+
+get_produto = aut_get_produto.get_produto
+put_produto = aut_patch_produto.put_produto
+
+filter_descricao_aba14 = aut_json_filters.get_descricao
+filter_dados_tecnicos_aba14 = aut_json_filters.get_dados_tecnicos
+filter_aplicacao_aba14 = aut_json_filters.get_aplicacao
+filter_altura_aba14 = aut_json_filters.get_altura
+filter_largura_aba14 = aut_json_filters.get_largura
+filter_profundidade_aba14 = aut_json_filters.get_profundidade
+filter_itens_inclusos_aba14 = aut_json_filters.get_itens_inclusos
+filter_nome_aba14 = aut_json_filters.get_nome
+filter_codigo_barra = aut_json_filters.get_codigo_barra
+filter_nome = aut_json_filters.get_descricao_cadastro
+filter_ncm = aut_json_filters.get_classificacao_ipi
+filter_ativo = aut_json_filters.get_ativo
+filter_marca = aut_json_filters.get_marca_descricao
+filter_cod_fab = aut_json_filters.get_cod_fab
