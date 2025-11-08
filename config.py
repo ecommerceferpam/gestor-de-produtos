@@ -5,6 +5,7 @@ from typing import Optional
 class Settings(BaseSettings):
     # credenciais sensíveis
     MAGENTO_API_KEY: str
+    MAGENTO_GETPRODUCT_PATH: str
     MELI_API_KEY: Optional[str] = None
     ERP_API_KEY: Optional[str] = None
     GEMINI_API_KEY: str

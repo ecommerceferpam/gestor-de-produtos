@@ -17,3 +17,4 @@ filter_ncm = aut_json_filters.get_classificacao_ipi
 filter_ativo = aut_json_filters.get_ativo
 filter_marca = aut_json_filters.get_marca_descricao
 filter_cod_fab = aut_json_filters.get_cod_fab
+filter_peso_aba14 = aut_json_filters.get_peso

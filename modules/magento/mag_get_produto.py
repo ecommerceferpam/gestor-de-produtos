@@ -3,15 +3,12 @@ import json
 from config import settings
 
 def buscar_dados_produto(sku):
-
     """
     Busca os dados de um produto no Magento via API REST.
     Retorna um dict com os dados do produto ou um dict de erro.
     """
 
-    # url = f"https://www.ferpam.com.br/rest/V1/products?searchCriteria[filter_groups][0][filters][0][field]=sku&searchCriteria[filter_groups][0][filters][0][value]={sku}&searchCriteria[filter_groups][0][filters][0][condition_type]=eq"
-
-    url = f"https://www.ferpam.com.br/rest/V1/products/{sku}"
+    url = f"{settings.MAGENTO_GETPRODUCT_PATH}{sku}"
     headers = {
     'Content-Type': 'application/json',
     'Authorization': f'Bearer {settings.MAGENTO_API_KEY}',

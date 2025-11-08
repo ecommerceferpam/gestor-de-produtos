@@ -59,3 +59,6 @@ def get_marca_descricao(produto: dict) -> str:
 
 def get_cod_fab(produto: dict) -> str:
     return get_field(produto, "codigoFabrica")
+
+def get_peso(produto: dict) -> str:
+    return get_field(produto, "pesoBruto")
