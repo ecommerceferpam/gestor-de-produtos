@@ -5,7 +5,6 @@ import interface
 import streamlit.components.v1 as components
 from config import settings
 
-from modules import magento, autcom, ferramentas
 
 DEFAULT_PRODUCT = {
     "sku": "",
@@ -180,19 +179,19 @@ with main:
                     </html>
                     """  
                     components.html(editor_html, height=560, scrolling=True)
-                    components.html("""
-                    <script>
-                    window.addEventListener("message", (event) => {
-                        if (event.data.tiny_value !== undefined) {
-                            const streamlitMsg = {
-                                type: "streamlit:setComponentValue",
-                                value: event.data.tiny_value
-                            };
-                            window.parent.postMessage(streamlitMsg, "*");
-                        }
-                    });
-                    </script>
-                    """)
+                    # components.html("""
+                    # <script>
+                    # window.addEventListener("message", (event) => {
+                    #     if (event.data.tiny_value !== undefined) {
+                    #         const streamlitMsg = {
+                    #             type: "streamlit:setComponentValue",
+                    #             value: event.data.tiny_value
+                    #         };
+                    #         window.parent.postMessage(streamlitMsg, "*");
+                    #     }
+                    # });
+                    # </script>
+                    # """)
 
                     # Meta-descrição
                     meta_descricao = st.text_area(
