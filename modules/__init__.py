@@ -1,5 +1,1 @@
-from . import magento
-from . import meli
-from . import gemini
-from . import buscar_produto
-from . import filtrar_dado
+from . import magento, meli, gemini, buscar_produto, filtrar_dado, nuvemshop, categorias

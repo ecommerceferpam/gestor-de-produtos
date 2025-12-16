@@ -14,6 +14,10 @@ class Settings(BaseSettings):
     AUTCOM_PATCHPRODUCT_PATH: str
     MERCOS_COMPANY_TOKEN: Optional[str] = None
     TINY_API_KEY: str
+    NUVEM_PRODUCTS_API: str
+    NUVEM_BEARER: str
+    NUVEM_USER_AGENT: str
+    NUVEM_CATEGORIES_API: str
 
     # configurações gerais
     API_HOST: str = "0.0.0.0"
