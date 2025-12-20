@@ -22,7 +22,7 @@
           "Trituradores"
         ],
         "level": 1,
-        "id_nuvemshop": 35704934
+        "id_nuvemshop": 35714790
       },
       {
         "id": "f0235",
@@ -39,7 +39,7 @@
           "Motocultivadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35704936
+        "id_nuvemshop": 35714791
       },
       {
         "id": "f0242",
@@ -57,7 +57,7 @@
           "Debulhador de Milho"
         ],
         "level": 1,
-        "id_nuvemshop": 35704937
+        "id_nuvemshop": 35714793
       },
       {
         "id": "f0243",
@@ -75,7 +75,7 @@
           "Derriçador de Café"
         ],
         "level": 1,
-        "id_nuvemshop": 35704940
+        "id_nuvemshop": 35714794
       },
       {
         "id": "f0246",
@@ -93,7 +93,7 @@
           "Engenhos"
         ],
         "level": 1,
-        "id_nuvemshop": 35704941
+        "id_nuvemshop": 35714795
       },
       {
         "id": "f0247",
@@ -110,7 +110,7 @@
           "Ensiladeiras"
         ],
         "level": 1,
-        "id_nuvemshop": 35704942
+        "id_nuvemshop": 35714796
       },
       {
         "id": "f0257",
@@ -128,7 +128,7 @@
           "Máquinas de Ralar"
         ],
         "level": 1,
-        "id_nuvemshop": 35704943
+        "id_nuvemshop": 35714797
       },
       {
         "id": "f0271",
@@ -145,7 +145,7 @@
           "Sementes"
         ],
         "level": 1,
-        "id_nuvemshop": 35704944
+        "id_nuvemshop": 35714798
       },
       {
         "id": "f0343",
@@ -160,7 +160,7 @@
           "Fertilizantes"
         ],
         "level": 1,
-        "id_nuvemshop": 35704945
+        "id_nuvemshop": 35714799
       },
       {
         "id": "f0389",
@@ -178,7 +178,7 @@
           "Máquinas de Moer"
         ],
         "level": 1,
-        "id_nuvemshop": 35704946
+        "id_nuvemshop": 35714800
       },
       {
         "id": "f0409",
@@ -195,14 +195,14 @@
           "Bateias"
         ],
         "level": 1,
-        "id_nuvemshop": 35704947
+        "id_nuvemshop": 35714801
       }
     ],
     "path": [
       "Agro"
     ],
     "level": 0,
-    "id_nuvemshop": 35704920
+    "id_nuvemshop": 35714776
   },
   {
     "id": "2",
@@ -238,7 +238,7 @@
               "Ventiladores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705209
+            "id_nuvemshop": 35715070
           },
           {
             "id": "f0228",
@@ -256,7 +256,7 @@
               "Climatizadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705210
+            "id_nuvemshop": 35715072
           },
           {
             "id": "f0269",
@@ -274,7 +274,7 @@
               "Exaustores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705213
+            "id_nuvemshop": 35715073
           }
         ],
         "path": [
@@ -282,7 +282,7 @@
           "Ventilação e Climatização"
         ],
         "level": 1,
-        "id_nuvemshop": 35704948
+        "id_nuvemshop": 35714802
       },
       {
         "id": "11",
@@ -309,7 +309,7 @@
               "Prateleiras e Cantoneiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705214
+            "id_nuvemshop": 35715074
           },
           {
             "id": "f0236",
@@ -328,7 +328,7 @@
               "Containers de Lixo"
             ],
             "level": 2,
-            "id_nuvemshop": 35705215
+            "id_nuvemshop": 35715075
           },
           {
             "id": "f0249",
@@ -346,7 +346,7 @@
               "Estantes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705216
+            "id_nuvemshop": 35715076
           },
           {
             "id": "f0251",
@@ -364,7 +364,7 @@
               "Lixeiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705217
+            "id_nuvemshop": 35715077
           },
           {
             "id": "f0296",
@@ -382,7 +382,7 @@
               "Gaveteiros e Caixas Organizadoras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705218
+            "id_nuvemshop": 35715078
           },
           {
             "id": "f0359",
@@ -400,7 +400,7 @@
               "Cestos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705219
+            "id_nuvemshop": 35715079
           },
           {
             "id": "f0360",
@@ -419,7 +419,7 @@
               "Painéis de Ferramentas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705220
+            "id_nuvemshop": 35715081
           },
           {
             "id": "f0368",
@@ -437,7 +437,7 @@
               "Bandejas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705221
+            "id_nuvemshop": 35715082
           }
         ],
         "path": [
@@ -445,7 +445,7 @@
           "Organização e Limpeza do Ambiente"
         ],
         "level": 1,
-        "id_nuvemshop": 35704949
+        "id_nuvemshop": 35714803
       },
       {
         "id": "45",
@@ -472,7 +472,7 @@
               "Grama Sintética"
             ],
             "level": 2,
-            "id_nuvemshop": 35705222
+            "id_nuvemshop": 35715083
           },
           {
             "id": "f0413",
@@ -491,7 +491,7 @@
               "Enrolador de Mangueira"
             ],
             "level": 2,
-            "id_nuvemshop": 35705223
+            "id_nuvemshop": 35715084
           },
           {
             "id": "f0416",
@@ -509,7 +509,7 @@
               "Pás para Jardinagem"
             ],
             "level": 2,
-            "id_nuvemshop": 35705224
+            "id_nuvemshop": 35715088
           },
           {
             "id": "f0417",
@@ -529,7 +529,7 @@
               "Cultivadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705225
+            "id_nuvemshop": 35715090
           },
           {
             "id": "f0418",
@@ -548,7 +548,7 @@
               "Irrigadores para Jardim"
             ],
             "level": 2,
-            "id_nuvemshop": 35705226
+            "id_nuvemshop": 35715091
           },
           {
             "id": "f0419",
@@ -567,7 +567,7 @@
               "Ancinhos para Jardinagem"
             ],
             "level": 2,
-            "id_nuvemshop": 35705227
+            "id_nuvemshop": 35715092
           },
           {
             "id": "f0420",
@@ -586,7 +586,7 @@
               "Cercas para Jardim"
             ],
             "level": 2,
-            "id_nuvemshop": 35705228
+            "id_nuvemshop": 35715093
           },
           {
             "id": "f0421",
@@ -602,7 +602,7 @@
               "Temporizadores e Controladores de Irrigação"
             ],
             "level": 2,
-            "id_nuvemshop": 35705229
+            "id_nuvemshop": 35715095
           }
         ],
         "path": [
@@ -610,7 +610,7 @@
           "Utensílios para Jardinagem"
         ],
         "level": 1,
-        "id_nuvemshop": 35704950
+        "id_nuvemshop": 35714804
       },
       {
         "id": "46",
@@ -640,7 +640,7 @@
               "Chuveiros e Duchas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705230
+            "id_nuvemshop": 35715096
           },
           {
             "id": "f0330",
@@ -659,7 +659,7 @@
               "Assentos Sanitários"
             ],
             "level": 2,
-            "id_nuvemshop": 35705231
+            "id_nuvemshop": 35715097
           },
           {
             "id": "f0361",
@@ -677,7 +677,7 @@
               "Desentupidores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705232
+            "id_nuvemshop": 35715098
           },
           {
             "id": "f0434",
@@ -693,7 +693,7 @@
               "Acessórios para Banheiro"
             ],
             "level": 2,
-            "id_nuvemshop": 35705233
+            "id_nuvemshop": 35715099
           }
         ],
         "path": [
@@ -701,7 +701,7 @@
           "Utilidades para Banheiro"
         ],
         "level": 1,
-        "id_nuvemshop": 35704951
+        "id_nuvemshop": 35714806
       },
       {
         "id": "f0045",
@@ -719,7 +719,7 @@
           "Caixa de Correios"
         ],
         "level": 1,
-        "id_nuvemshop": 35704953
+        "id_nuvemshop": 35714807
       },
       {
         "id": "f0046",
@@ -738,7 +738,7 @@
           "Churrasqueiras, Fogões e Fogareiros"
         ],
         "level": 1,
-        "id_nuvemshop": 35704955
+        "id_nuvemshop": 35714808
       },
       {
         "id": "f0209",
@@ -767,7 +767,7 @@
           "Facas, Facões e Amoladores"
         ],
         "level": 1,
-        "id_nuvemshop": 35704957
+        "id_nuvemshop": 35714809
       },
       {
         "id": "f0231",
@@ -785,7 +785,7 @@
           "Bolsas e Caixas Térmicas"
         ],
         "level": 1,
-        "id_nuvemshop": 35704959
+        "id_nuvemshop": 35714810
       },
       {
         "id": "f0248",
@@ -803,7 +803,7 @@
           "Estações de Energia"
         ],
         "level": 1,
-        "id_nuvemshop": 35704961
+        "id_nuvemshop": 35714811
       },
       {
         "id": "f0273",
@@ -820,7 +820,7 @@
           "Rodos"
         ],
         "level": 1,
-        "id_nuvemshop": 35704962
+        "id_nuvemshop": 35714813
       },
       {
         "id": "f0286",
@@ -837,7 +837,7 @@
           "Varais"
         ],
         "level": 1,
-        "id_nuvemshop": 35704963
+        "id_nuvemshop": 35714814
       },
       {
         "id": "f0287",
@@ -854,7 +854,7 @@
           "Tapetes"
         ],
         "level": 1,
-        "id_nuvemshop": 35704964
+        "id_nuvemshop": 35714815
       },
       {
         "id": "f0292",
@@ -874,7 +874,7 @@
           "Garrafas e Copos Térmicos"
         ],
         "level": 1,
-        "id_nuvemshop": 35704965
+        "id_nuvemshop": 35714817
       },
       {
         "id": "f0295",
@@ -891,7 +891,7 @@
           "Tratamento de Piscinas"
         ],
         "level": 1,
-        "id_nuvemshop": 35704966
+        "id_nuvemshop": 35714818
       },
       {
         "id": "f0331",
@@ -908,7 +908,7 @@
           "Panelas"
         ],
         "level": 1,
-        "id_nuvemshop": 35704968
+        "id_nuvemshop": 35714819
       },
       {
         "id": "f0358",
@@ -925,7 +925,7 @@
           "Antenas e Conversores"
         ],
         "level": 1,
-        "id_nuvemshop": 35704971
+        "id_nuvemshop": 35714820
       },
       {
         "id": "f0367",
@@ -940,7 +940,7 @@
           "[excluir] Peneiras e Cloro para Piscinas"
         ],
         "level": 1,
-        "id_nuvemshop": 35704972
+        "id_nuvemshop": 35714822
       },
       {
         "id": "f0379",
@@ -955,14 +955,14 @@
           "Ferramentas de Limpeza"
         ],
         "level": 1,
-        "id_nuvemshop": 35704973
+        "id_nuvemshop": 35714823
       }
     ],
     "path": [
       "Casa e Manutenção"
     ],
     "level": 0,
-    "id_nuvemshop": 35704921
+    "id_nuvemshop": 35714777
   },
   {
     "id": "4",
@@ -991,7 +991,7 @@
           "Botas e Calçados"
         ],
         "level": 1,
-        "id_nuvemshop": 35704974
+        "id_nuvemshop": 35714824
       },
       {
         "id": "f0050",
@@ -1009,7 +1009,7 @@
           "Camisas, Coletes e Capas"
         ],
         "level": 1,
-        "id_nuvemshop": 35704975
+        "id_nuvemshop": 35714825
       },
       {
         "id": "f0051",
@@ -1028,7 +1028,7 @@
           "Luvas de Proteção"
         ],
         "level": 1,
-        "id_nuvemshop": 35704976
+        "id_nuvemshop": 35714826
       },
       {
         "id": "f0052",
@@ -1052,7 +1052,7 @@
           "Cintos e Cinturões"
         ],
         "level": 1,
-        "id_nuvemshop": 35704977
+        "id_nuvemshop": 35714827
       },
       {
         "id": "f0053",
@@ -1070,7 +1070,7 @@
           "Capacetes, Toucas e Bonés"
         ],
         "level": 1,
-        "id_nuvemshop": 35704979
+        "id_nuvemshop": 35714828
       },
       {
         "id": "f0054",
@@ -1089,7 +1089,7 @@
           "Máscaras e Protetores Faciais"
         ],
         "level": 1,
-        "id_nuvemshop": 35704980
+        "id_nuvemshop": 35714829
       },
       {
         "id": "f0055",
@@ -1108,7 +1108,7 @@
           "Cremes e Protetores"
         ],
         "level": 1,
-        "id_nuvemshop": 35704981
+        "id_nuvemshop": 35714830
       },
       {
         "id": "f0056",
@@ -1127,7 +1127,7 @@
           "Óculos e Viseiras de Proteção"
         ],
         "level": 1,
-        "id_nuvemshop": 35704982
+        "id_nuvemshop": 35714831
       },
       {
         "id": "f0057",
@@ -1146,7 +1146,7 @@
           "Proteção Auricular"
         ],
         "level": 1,
-        "id_nuvemshop": 35704983
+        "id_nuvemshop": 35714832
       },
       {
         "id": "f0250",
@@ -1163,7 +1163,7 @@
           "Jaquetas de Proteção"
         ],
         "level": 1,
-        "id_nuvemshop": 35704987
+        "id_nuvemshop": 35714833
       },
       {
         "id": "f0268",
@@ -1180,7 +1180,7 @@
           "Cintas, Talabartes e Trava-Quedas"
         ],
         "level": 1,
-        "id_nuvemshop": 35704988
+        "id_nuvemshop": 35714834
       },
       {
         "id": "f0282",
@@ -1197,7 +1197,7 @@
           "Repelentes"
         ],
         "level": 1,
-        "id_nuvemshop": 35704990
+        "id_nuvemshop": 35714835
       },
       {
         "id": "f0283",
@@ -1216,7 +1216,7 @@
           "Higienie Pessoal"
         ],
         "level": 1,
-        "id_nuvemshop": 35704991
+        "id_nuvemshop": 35714836
       },
       {
         "id": "f0291",
@@ -1233,7 +1233,7 @@
           "Calças e Macacões"
         ],
         "level": 1,
-        "id_nuvemshop": 35704992
+        "id_nuvemshop": 35714837
       },
       {
         "id": "f0316",
@@ -1251,7 +1251,7 @@
           "Máscaras de Solda"
         ],
         "level": 1,
-        "id_nuvemshop": 35704993
+        "id_nuvemshop": 35714839
       },
       {
         "id": "f0329",
@@ -1266,7 +1266,7 @@
           "Jalecos e Aventais"
         ],
         "level": 1,
-        "id_nuvemshop": 35704997
+        "id_nuvemshop": 35714840
       },
       {
         "id": "f0344",
@@ -1281,14 +1281,14 @@
           "Conjuntos de Proteção"
         ],
         "level": 1,
-        "id_nuvemshop": 35704998
+        "id_nuvemshop": 35714842
       }
     ],
     "path": [
       "EPIs"
     ],
     "level": 0,
-    "id_nuvemshop": 35704922
+    "id_nuvemshop": 35714778
   },
   {
     "id": "5",
@@ -1315,7 +1315,7 @@
           "Fechaduras e Maçanetas"
         ],
         "level": 1,
-        "id_nuvemshop": 35704999
+        "id_nuvemshop": 35714843
       },
       {
         "id": "f0059",
@@ -1339,7 +1339,7 @@
           "Parafusos e Rebites"
         ],
         "level": 1,
-        "id_nuvemshop": 35705000
+        "id_nuvemshop": 35714844
       },
       {
         "id": "f0060",
@@ -1359,7 +1359,7 @@
           "Porcas e Arruelas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705001
+        "id_nuvemshop": 35714845
       },
       {
         "id": "f0061",
@@ -1380,7 +1380,7 @@
           "Buchas e Chumbadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705002
+        "id_nuvemshop": 35714846
       },
       {
         "id": "f0062",
@@ -1406,7 +1406,7 @@
           "Sargentos, Pregos e Grampos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705003
+        "id_nuvemshop": 35714847
       },
       {
         "id": "f0063",
@@ -1426,7 +1426,7 @@
           "Suportes e Ganchos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705004
+        "id_nuvemshop": 35714849
       },
       {
         "id": "f0064",
@@ -1447,7 +1447,7 @@
           "Correntes, Cordas e Cintas de Amarração"
         ],
         "level": 1,
-        "id_nuvemshop": 35705006
+        "id_nuvemshop": 35714851
       },
       {
         "id": "f0065",
@@ -1464,7 +1464,7 @@
           "Cadeados e Acessórios"
         ],
         "level": 1,
-        "id_nuvemshop": 35705009
+        "id_nuvemshop": 35714852
       },
       {
         "id": "f0066",
@@ -1484,7 +1484,7 @@
           "Lonas e Lençóis de Borracha"
         ],
         "level": 1,
-        "id_nuvemshop": 35705011
+        "id_nuvemshop": 35714853
       },
       {
         "id": "f0067",
@@ -1502,7 +1502,7 @@
           "Abraçadeiras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705014
+        "id_nuvemshop": 35714854
       },
       {
         "id": "f0068",
@@ -1524,7 +1524,7 @@
           "Sinalização e Proteção"
         ],
         "level": 1,
-        "id_nuvemshop": 35705015
+        "id_nuvemshop": 35714855
       },
       {
         "id": "f0069",
@@ -1544,7 +1544,7 @@
           "Cabos de Aço e Acessórios"
         ],
         "level": 1,
-        "id_nuvemshop": 35705016
+        "id_nuvemshop": 35714856
       },
       {
         "id": "f0070",
@@ -1561,7 +1561,7 @@
           "Dobradiças"
         ],
         "level": 1,
-        "id_nuvemshop": 35705017
+        "id_nuvemshop": 35714857
       },
       {
         "id": "f0298",
@@ -1578,7 +1578,7 @@
           "Grades"
         ],
         "level": 1,
-        "id_nuvemshop": 35705020
+        "id_nuvemshop": 35714858
       },
       {
         "id": "f0313",
@@ -1597,7 +1597,7 @@
           "Fitas Diversas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705022
+        "id_nuvemshop": 35714859
       },
       {
         "id": "f0328",
@@ -1612,7 +1612,7 @@
           "Espaçadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705024
+        "id_nuvemshop": 35714865
       },
       {
         "id": "f0335",
@@ -1627,7 +1627,7 @@
           "Ferragens e Acessórios para Móveis"
         ],
         "level": 1,
-        "id_nuvemshop": 35705025
+        "id_nuvemshop": 35714866
       },
       {
         "id": "f0339",
@@ -1645,7 +1645,7 @@
           "Mosquetões e Manilhas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705026
+        "id_nuvemshop": 35714867
       },
       {
         "id": "f0350",
@@ -1663,7 +1663,7 @@
           "Protetor de Pontas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705028
+        "id_nuvemshop": 35714868
       },
       {
         "id": "f0351",
@@ -1680,7 +1680,7 @@
           "Trilhos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705030
+        "id_nuvemshop": 35714869
       },
       {
         "id": "f0354",
@@ -1698,7 +1698,7 @@
           "Polias e Roldanas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705031
+        "id_nuvemshop": 35714870
       },
       {
         "id": "f0363",
@@ -1716,7 +1716,7 @@
           "Placas de Junção"
         ],
         "level": 1,
-        "id_nuvemshop": 35705033
+        "id_nuvemshop": 35714871
       },
       {
         "id": "f0370",
@@ -1731,7 +1731,7 @@
           "Fios e Barbantes de Amarração"
         ],
         "level": 1,
-        "id_nuvemshop": 35705034
+        "id_nuvemshop": 35714873
       },
       {
         "id": "f0384",
@@ -1749,7 +1749,7 @@
           "Barras Roscadas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705035
+        "id_nuvemshop": 35714874
       },
       {
         "id": "f0407",
@@ -1766,14 +1766,14 @@
           "Filmes de Cobertura"
         ],
         "level": 1,
-        "id_nuvemshop": 35705036
+        "id_nuvemshop": 35714875
       }
     ],
     "path": [
       "Ferragens, Fixação e Cobertura"
     ],
     "level": 0,
-    "id_nuvemshop": 35704923
+    "id_nuvemshop": 35714779
   },
   {
     "id": "6",
@@ -1822,7 +1822,7 @@
                   "Serras Circulares"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705544
+                "id_nuvemshop": 35715358
               },
               {
                 "id": "f0262",
@@ -1844,7 +1844,7 @@
                   "Serras Sabre"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705545
+                "id_nuvemshop": 35715360
               },
               {
                 "id": "f0263",
@@ -1866,7 +1866,7 @@
                   "Serras Policorte"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705546
+                "id_nuvemshop": 35715361
               },
               {
                 "id": "f0264",
@@ -1888,7 +1888,7 @@
                   "Serras Fita"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705547
+                "id_nuvemshop": 35715362
               },
               {
                 "id": "f0265",
@@ -1911,7 +1911,7 @@
                   "Serras Tico-Tico"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705549
+                "id_nuvemshop": 35715363
               },
               {
                 "id": "f0266",
@@ -1933,7 +1933,7 @@
                   "Serras de Mesa"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705551
+                "id_nuvemshop": 35715365
               },
               {
                 "id": "f0267",
@@ -1955,7 +1955,7 @@
                   "Serras Mármore"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705553
+                "id_nuvemshop": 35715366
               },
               {
                 "id": "f0381",
@@ -1975,7 +1975,7 @@
                   "Serras de Broca"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705554
+                "id_nuvemshop": 35715368
               },
               {
                 "id": "f0395",
@@ -1995,7 +1995,7 @@
                   "Mini Serras"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705556
+                "id_nuvemshop": 35715369
               },
               {
                 "id": "f0406",
@@ -2014,7 +2014,7 @@
                   "Multicortadoras"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705557
+                "id_nuvemshop": 35715370
               }
             ],
             "path": [
@@ -2023,7 +2023,7 @@
               "Serras Elétricas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705234
+            "id_nuvemshop": 35715100
           },
           {
             "id": "f0001",
@@ -2059,7 +2059,7 @@
               "Chaves de Impacto"
             ],
             "level": 2,
-            "id_nuvemshop": 35705235
+            "id_nuvemshop": 35715101
           },
           {
             "id": "f0002",
@@ -2095,7 +2095,7 @@
               "Esmerilhadeiras e Politrizes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705236
+            "id_nuvemshop": 35715102
           },
           {
             "id": "f0003",
@@ -2132,7 +2132,7 @@
               "Furadeiras e Parafusadeiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705238
+            "id_nuvemshop": 35715104
           },
           {
             "id": "f0004",
@@ -2161,7 +2161,7 @@
               "Lixadeiras Elétricas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705239
+            "id_nuvemshop": 35715105
           },
           {
             "id": "f0005",
@@ -2192,7 +2192,7 @@
               "Marteletes Perfuradores e Rompedores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705240
+            "id_nuvemshop": 35715106
           },
           {
             "id": "f0006",
@@ -2221,7 +2221,7 @@
               "Martelos Demolidores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705241
+            "id_nuvemshop": 35715107
           },
           {
             "id": "f0007",
@@ -2254,7 +2254,7 @@
               "Micro Retífica e Multiferramenta"
             ],
             "level": 2,
-            "id_nuvemshop": 35705247
+            "id_nuvemshop": 35715108
           },
           {
             "id": "f0009",
@@ -2282,7 +2282,7 @@
               "Plainas Elétricas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705248
+            "id_nuvemshop": 35715110
           },
           {
             "id": "f0010",
@@ -2310,7 +2310,7 @@
               "Sopradores Térmicos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705249
+            "id_nuvemshop": 35715111
           },
           {
             "id": "f0404",
@@ -2329,7 +2329,7 @@
               "Tesouras Elétricas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705250
+            "id_nuvemshop": 35715112
           }
         ],
         "path": [
@@ -2337,7 +2337,7 @@
           "Ferramentas Elétricas e à Bateria"
         ],
         "level": 1,
-        "id_nuvemshop": 35705037
+        "id_nuvemshop": 35714876
       },
       {
         "id": "15",
@@ -2375,7 +2375,7 @@
               "Eletrodos e Carretéis"
             ],
             "level": 2,
-            "id_nuvemshop": 35705251
+            "id_nuvemshop": 35715114
           },
           {
             "id": "f0071",
@@ -2399,7 +2399,7 @@
               "Acessórios para Solda"
             ],
             "level": 2,
-            "id_nuvemshop": 35705252
+            "id_nuvemshop": 35715115
           },
           {
             "id": "f0072",
@@ -2425,7 +2425,7 @@
               "Máquinas de Solda"
             ],
             "level": 2,
-            "id_nuvemshop": 35705253
+            "id_nuvemshop": 35715116
           },
           {
             "id": "f0073",
@@ -2445,7 +2445,7 @@
               "Acessórios para Oxiacetileno"
             ],
             "level": 2,
-            "id_nuvemshop": 35705254
+            "id_nuvemshop": 35715117
           },
           {
             "id": "f0221",
@@ -2464,7 +2464,7 @@
               "Arames de Solda"
             ],
             "level": 2,
-            "id_nuvemshop": 35705256
+            "id_nuvemshop": 35715118
           },
           {
             "id": "f0311",
@@ -2484,7 +2484,7 @@
               "Tochas e Bicos de Contato"
             ],
             "level": 2,
-            "id_nuvemshop": 35705257
+            "id_nuvemshop": 35715120
           },
           {
             "id": "f0312",
@@ -2505,7 +2505,7 @@
               "Ferros de Solda"
             ],
             "level": 2,
-            "id_nuvemshop": 35705258
+            "id_nuvemshop": 35715121
           }
         ],
         "path": [
@@ -2513,7 +2513,7 @@
           "Máquinas de Solda e Consumíveis"
         ],
         "level": 1,
-        "id_nuvemshop": 35705038
+        "id_nuvemshop": 35714877
       },
       {
         "id": "16",
@@ -2563,7 +2563,7 @@
                   "Misturadores de Tinta e Argamassa"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705558
+                "id_nuvemshop": 35715371
               },
               {
                 "id": "f0109",
@@ -2583,7 +2583,7 @@
                   "Pistolas para Pintura"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705559
+                "id_nuvemshop": 35715372
               },
               {
                 "id": "f0110",
@@ -2613,7 +2613,7 @@
                   "Acessórios para Pisos"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705560
+                "id_nuvemshop": 35715373
               },
               {
                 "id": "f0111",
@@ -2638,7 +2638,7 @@
                   "Cortadoras de Piso"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705561
+                "id_nuvemshop": 35715375
               },
               {
                 "id": "f0218",
@@ -2658,7 +2658,7 @@
                   "Alinhador de Monobloco"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705563
+                "id_nuvemshop": 35715376
               },
               {
                 "id": "f0255",
@@ -2678,7 +2678,7 @@
                   "Máquinas de Pintura"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705564
+                "id_nuvemshop": 35715377
               },
               {
                 "id": "f0256",
@@ -2699,7 +2699,7 @@
                   "Máquinas de Assentar Piso"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705566
+                "id_nuvemshop": 35715379
               },
               {
                 "id": "f0301",
@@ -2721,7 +2721,7 @@
                   "Pincéis, Broxas e Rolos para Pintura"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705567
+                "id_nuvemshop": 35715380
               },
               {
                 "id": "f0382",
@@ -2740,7 +2740,7 @@
                   "Ventosas para Piso"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705568
+                "id_nuvemshop": 35715381
               }
             ],
             "path": [
@@ -2749,7 +2749,7 @@
               "Piso, Pintura e Acabamento"
             ],
             "level": 2,
-            "id_nuvemshop": 35705259
+            "id_nuvemshop": 35715122
           },
           {
             "id": "f0028",
@@ -2798,7 +2798,7 @@
               "Cabos e Forcados"
             ],
             "level": 2,
-            "id_nuvemshop": 35705260
+            "id_nuvemshop": 35715123
           },
           {
             "id": "f0029",
@@ -2819,7 +2819,7 @@
               "Desempenadeiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705261
+            "id_nuvemshop": 35715124
           },
           {
             "id": "f0030",
@@ -2840,7 +2840,7 @@
               "Espátulas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705262
+            "id_nuvemshop": 35715125
           },
           {
             "id": "f0031",
@@ -2862,7 +2862,7 @@
               "Machados e Foices"
             ],
             "level": 2,
-            "id_nuvemshop": 35705263
+            "id_nuvemshop": 35715126
           },
           {
             "id": "f0032",
@@ -2888,7 +2888,7 @@
               "Pás e Enxadas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705265
+            "id_nuvemshop": 35715127
           },
           {
             "id": "f0033",
@@ -2912,7 +2912,7 @@
               "Réguas e Peneiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705266
+            "id_nuvemshop": 35715128
           },
           {
             "id": "f0034",
@@ -2933,7 +2933,7 @@
               "Talhas e Guinchos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705267
+            "id_nuvemshop": 35715129
           },
           {
             "id": "f0035",
@@ -2951,7 +2951,7 @@
               "Betoneiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705268
+            "id_nuvemshop": 35715131
           },
           {
             "id": "f0036",
@@ -2976,7 +2976,7 @@
               "Baldes e Masseiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705270
+            "id_nuvemshop": 35715132
           },
           {
             "id": "f0037",
@@ -2995,7 +2995,7 @@
               "Carrinhos de Mão"
             ],
             "level": 2,
-            "id_nuvemshop": 35705271
+            "id_nuvemshop": 35715133
           },
           {
             "id": "f0038",
@@ -3015,7 +3015,7 @@
               "Cavaletes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705272
+            "id_nuvemshop": 35715134
           },
           {
             "id": "f0039",
@@ -3035,7 +3035,7 @@
               "Pé de Cabra, Barras e Alavancas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705273
+            "id_nuvemshop": 35715135
           },
           {
             "id": "f0040",
@@ -3054,7 +3054,7 @@
               "Perfuradores de Solo"
             ],
             "level": 2,
-            "id_nuvemshop": 35705274
+            "id_nuvemshop": 35715136
           },
           {
             "id": "f0041",
@@ -3073,7 +3073,7 @@
               "Prumos e Colheres"
             ],
             "level": 2,
-            "id_nuvemshop": 35705275
+            "id_nuvemshop": 35715137
           },
           {
             "id": "f0042",
@@ -3093,7 +3093,7 @@
               "Vibradores de Concreto e Imersão"
             ],
             "level": 2,
-            "id_nuvemshop": 35705276
+            "id_nuvemshop": 35715138
           },
           {
             "id": "f0139",
@@ -3113,7 +3113,7 @@
               "Escadas Extensíveis e Profissionais"
             ],
             "level": 2,
-            "id_nuvemshop": 35705278
+            "id_nuvemshop": 35715139
           },
           {
             "id": "f0219",
@@ -3132,7 +3132,7 @@
               "Alisadora de Concreto"
             ],
             "level": 2,
-            "id_nuvemshop": 35705279
+            "id_nuvemshop": 35715140
           },
           {
             "id": "f0230",
@@ -3152,7 +3152,7 @@
               "Compactadores de Solo"
             ],
             "level": 2,
-            "id_nuvemshop": 35705280
+            "id_nuvemshop": 35715141
           },
           {
             "id": "f0258",
@@ -3172,7 +3172,7 @@
               "Máquinas para Cortar Vergalhão"
             ],
             "level": 2,
-            "id_nuvemshop": 35705281
+            "id_nuvemshop": 35715142
           },
           {
             "id": "f0308",
@@ -3191,7 +3191,7 @@
               "Placas Vibratórias"
             ],
             "level": 2,
-            "id_nuvemshop": 35705282
+            "id_nuvemshop": 35715143
           },
           {
             "id": "f0325",
@@ -3210,7 +3210,7 @@
               "Picaretas e Cavadeiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705283
+            "id_nuvemshop": 35715144
           },
           {
             "id": "f0345",
@@ -3226,7 +3226,7 @@
               "Chapas e Chaves de Dobrar Ferro"
             ],
             "level": 2,
-            "id_nuvemshop": 35705284
+            "id_nuvemshop": 35715145
           },
           {
             "id": "f0452",
@@ -3242,7 +3242,7 @@
               "Linhas e Marcadores para Pedreiro"
             ],
             "level": 2,
-            "id_nuvemshop": 35705285
+            "id_nuvemshop": 35715146
           }
         ],
         "path": [
@@ -3250,7 +3250,7 @@
           "Ferramentas Para Construção"
         ],
         "level": 1,
-        "id_nuvemshop": 35705039
+        "id_nuvemshop": 35714878
       },
       {
         "id": "17",
@@ -3277,7 +3277,7 @@
               "Conexões e Acessórios de Compressor"
             ],
             "level": 2,
-            "id_nuvemshop": 35705286
+            "id_nuvemshop": 35715148
           },
           {
             "id": "f0075",
@@ -3295,7 +3295,7 @@
               "Compressores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705287
+            "id_nuvemshop": 35715149
           },
           {
             "id": "f0076",
@@ -3313,7 +3313,7 @@
               "Geradores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705289
+            "id_nuvemshop": 35715150
           },
           {
             "id": "f0260",
@@ -3331,7 +3331,7 @@
               "Motores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705292
+            "id_nuvemshop": 35715151
           },
           {
             "id": "f0376",
@@ -3350,7 +3350,7 @@
               "Prensas Hidráulicas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705293
+            "id_nuvemshop": 35715152
           },
           {
             "id": "f0438",
@@ -3369,7 +3369,7 @@
               "Motor de Popa"
             ],
             "level": 2,
-            "id_nuvemshop": 35705294
+            "id_nuvemshop": 35715153
           },
           {
             "id": "f0442",
@@ -3388,7 +3388,7 @@
               "Máquina Recicladora"
             ],
             "level": 2,
-            "id_nuvemshop": 35705297
+            "id_nuvemshop": 35715154
           }
         ],
         "path": [
@@ -3396,7 +3396,7 @@
           "Máquinas Elétricas e Equipamentos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705040
+        "id_nuvemshop": 35714879
       },
       {
         "id": "18",
@@ -3427,7 +3427,7 @@
               "Chaves de Impacto Pneumáticas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705299
+            "id_nuvemshop": 35715155
           },
           {
             "id": "f0078",
@@ -3446,7 +3446,7 @@
               "Parafusadeiras Pneumáticas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705300
+            "id_nuvemshop": 35715156
           },
           {
             "id": "f0079",
@@ -3465,7 +3465,7 @@
               "Esmerilhadeiras Pneumáticas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705301
+            "id_nuvemshop": 35715157
           },
           {
             "id": "f0080",
@@ -3484,7 +3484,7 @@
               "Lixadeiras Pneumáticas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705302
+            "id_nuvemshop": 35715158
           }
         ],
         "path": [
@@ -3492,7 +3492,7 @@
           "Ferramentas Pneumáticas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705041
+        "id_nuvemshop": 35714880
       },
       {
         "id": "19",
@@ -3522,7 +3522,7 @@
               "Alicates"
             ],
             "level": 2,
-            "id_nuvemshop": 35705303
+            "id_nuvemshop": 35715159
           },
           {
             "id": "f0014",
@@ -3549,7 +3549,7 @@
               "Chaves Allen e Torx"
             ],
             "level": 2,
-            "id_nuvemshop": 35705304
+            "id_nuvemshop": 35715160
           },
           {
             "id": "f0015",
@@ -3573,7 +3573,7 @@
               "Chaves Combinadas e Catracadas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705305
+            "id_nuvemshop": 35715161
           },
           {
             "id": "f0016",
@@ -3595,7 +3595,7 @@
               "Chaves de Fenda e Philips"
             ],
             "level": 2,
-            "id_nuvemshop": 35705306
+            "id_nuvemshop": 35715162
           },
           {
             "id": "f0017",
@@ -3617,7 +3617,7 @@
               "Chaves Fixas e Estrelas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705308
+            "id_nuvemshop": 35715163
           },
           {
             "id": "f0018",
@@ -3640,7 +3640,7 @@
               "Chaves Inglesas e Grifo"
             ],
             "level": 2,
-            "id_nuvemshop": 35705309
+            "id_nuvemshop": 35715164
           },
           {
             "id": "f0019",
@@ -3662,7 +3662,7 @@
               "Chaves Philips"
             ],
             "level": 2,
-            "id_nuvemshop": 35705311
+            "id_nuvemshop": 35715165
           },
           {
             "id": "f0020",
@@ -3699,7 +3699,7 @@
               "Estiletes, Canivetes e Lâminas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705312
+            "id_nuvemshop": 35715166
           },
           {
             "id": "f0021",
@@ -3721,7 +3721,7 @@
               "Formões e Limas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705313
+            "id_nuvemshop": 35715168
           },
           {
             "id": "f0022",
@@ -3750,7 +3750,7 @@
               "Martelos e Marretas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705314
+            "id_nuvemshop": 35715169
           },
           {
             "id": "f0024",
@@ -3776,7 +3776,7 @@
               "Tornos e Morsas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705315
+            "id_nuvemshop": 35715170
           },
           {
             "id": "f0025",
@@ -3847,7 +3847,7 @@
               "Serras e Serrotes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705317
+            "id_nuvemshop": 35715171
           },
           {
             "id": "f0026",
@@ -3869,7 +3869,7 @@
               "Soquetes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705328
+            "id_nuvemshop": 35715172
           },
           {
             "id": "f0027",
@@ -3895,7 +3895,7 @@
               "Tesouras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705329
+            "id_nuvemshop": 35715173
           },
           {
             "id": "f0318",
@@ -3914,7 +3914,7 @@
               "Chaves de Roda"
             ],
             "level": 2,
-            "id_nuvemshop": 35705330
+            "id_nuvemshop": 35715174
           },
           {
             "id": "f0319",
@@ -3933,7 +3933,7 @@
               "Chaves Canhão"
             ],
             "level": 2,
-            "id_nuvemshop": 35705331
+            "id_nuvemshop": 35715175
           },
           {
             "id": "f0320",
@@ -3953,7 +3953,7 @@
               "Chaves L e Biela"
             ],
             "level": 2,
-            "id_nuvemshop": 35705332
+            "id_nuvemshop": 35715176
           },
           {
             "id": "f0321",
@@ -3972,7 +3972,7 @@
               "Chaves Meia-Lua"
             ],
             "level": 2,
-            "id_nuvemshop": 35705333
+            "id_nuvemshop": 35715177
           },
           {
             "id": "f0327",
@@ -3988,7 +3988,7 @@
               "Arco de Pua e Acessórios"
             ],
             "level": 2,
-            "id_nuvemshop": 35705334
+            "id_nuvemshop": 35715179
           },
           {
             "id": "f0337",
@@ -4007,7 +4007,7 @@
               "Jogo de Ferramentas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705335
+            "id_nuvemshop": 35715180
           },
           {
             "id": "f0342",
@@ -4023,7 +4023,7 @@
               "Lixadeira Manual"
             ],
             "level": 2,
-            "id_nuvemshop": 35705336
+            "id_nuvemshop": 35715181
           },
           {
             "id": "f0346",
@@ -4039,7 +4039,7 @@
               "Chaves Especiais"
             ],
             "level": 2,
-            "id_nuvemshop": 35705337
+            "id_nuvemshop": 35715182
           },
           {
             "id": "f0347",
@@ -4055,7 +4055,7 @@
               "Jogo de Chaves"
             ],
             "level": 2,
-            "id_nuvemshop": 35705338
+            "id_nuvemshop": 35715183
           },
           {
             "id": "f0353",
@@ -4074,7 +4074,7 @@
               "Tassos, Cunhas e Punções"
             ],
             "level": 2,
-            "id_nuvemshop": 35705339
+            "id_nuvemshop": 35715184
           },
           {
             "id": "f0428",
@@ -4093,7 +4093,7 @@
               "Furadeiras de Peito"
             ],
             "level": 2,
-            "id_nuvemshop": 35705340
+            "id_nuvemshop": 35715185
           },
           {
             "id": "f0451",
@@ -4111,7 +4111,7 @@
               "Pegadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705341
+            "id_nuvemshop": 35715186
           }
         ],
         "path": [
@@ -4119,7 +4119,7 @@
           "Ferramentas Manuais Gerais"
         ],
         "level": 1,
-        "id_nuvemshop": 35705042
+        "id_nuvemshop": 35714881
       },
       {
         "id": "20",
@@ -4146,7 +4146,7 @@
               "Furadeiras de Bancada"
             ],
             "level": 2,
-            "id_nuvemshop": 35705342
+            "id_nuvemshop": 35715188
           },
           {
             "id": "f0082",
@@ -4165,7 +4165,7 @@
               "Moto Esmeris"
             ],
             "level": 2,
-            "id_nuvemshop": 35705344
+            "id_nuvemshop": 35715189
           }
         ],
         "path": [
@@ -4173,7 +4173,7 @@
           "Ferramentas de Oficina"
         ],
         "level": 1,
-        "id_nuvemshop": 35705043
+        "id_nuvemshop": 35714882
       },
       {
         "id": "21",
@@ -4202,7 +4202,7 @@
               "Brocas e Kits"
             ],
             "level": 2,
-            "id_nuvemshop": 35705345
+            "id_nuvemshop": 35715190
           },
           {
             "id": "f0084",
@@ -4221,7 +4221,7 @@
               "Serras Copo"
             ],
             "level": 2,
-            "id_nuvemshop": 35705346
+            "id_nuvemshop": 35715191
           },
           {
             "id": "f0085",
@@ -4240,7 +4240,7 @@
               "Discos Diamantados"
             ],
             "level": 2,
-            "id_nuvemshop": 35705347
+            "id_nuvemshop": 35715192
           },
           {
             "id": "f0086",
@@ -4259,7 +4259,7 @@
               "Discos de Corte"
             ],
             "level": 2,
-            "id_nuvemshop": 35705349
+            "id_nuvemshop": 35715193
           },
           {
             "id": "f0087",
@@ -4278,7 +4278,7 @@
               "Folhas de Lixa"
             ],
             "level": 2,
-            "id_nuvemshop": 35705350
+            "id_nuvemshop": 35715194
           },
           {
             "id": "f0088",
@@ -4305,7 +4305,7 @@
               "Baterias e Carregadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705351
+            "id_nuvemshop": 35715196
           },
           {
             "id": "f0090",
@@ -4324,7 +4324,7 @@
               "Escovas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705354
+            "id_nuvemshop": 35715197
           },
           {
             "id": "f0091",
@@ -4345,7 +4345,7 @@
               "Discos para Serras Circulares"
             ],
             "level": 2,
-            "id_nuvemshop": 35705356
+            "id_nuvemshop": 35715200
           },
           {
             "id": "f0092",
@@ -4364,7 +4364,7 @@
               "Ponteiros e Talhadeiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705357
+            "id_nuvemshop": 35715201
           },
           {
             "id": "f0093",
@@ -4385,7 +4385,7 @@
               "Discos de Desbaste e Acabamento"
             ],
             "level": 2,
-            "id_nuvemshop": 35705358
+            "id_nuvemshop": 35715202
           },
           {
             "id": "f0094",
@@ -4405,7 +4405,7 @@
               "Discos de Borracha e Boinas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705359
+            "id_nuvemshop": 35715203
           },
           {
             "id": "f0095",
@@ -4426,7 +4426,7 @@
               "Lâminas, Correntes e Facas para Ferramentas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705360
+            "id_nuvemshop": 35715204
           },
           {
             "id": "f0096",
@@ -4445,7 +4445,7 @@
               "Discos Flap"
             ],
             "level": 2,
-            "id_nuvemshop": 35705361
+            "id_nuvemshop": 35715205
           },
           {
             "id": "f0097",
@@ -4463,7 +4463,7 @@
               "Mandris e Acessórios"
             ],
             "level": 2,
-            "id_nuvemshop": 35705362
+            "id_nuvemshop": 35715206
           },
           {
             "id": "f0098",
@@ -4488,7 +4488,7 @@
               "Químicos de Manutenção"
             ],
             "level": 2,
-            "id_nuvemshop": 35705364
+            "id_nuvemshop": 35715207
           },
           {
             "id": "f0099",
@@ -4506,7 +4506,7 @@
               "Rebolos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705365
+            "id_nuvemshop": 35715209
           },
           {
             "id": "f0100",
@@ -4524,7 +4524,7 @@
               "Fresas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705366
+            "id_nuvemshop": 35715210
           },
           {
             "id": "f0199",
@@ -4544,7 +4544,7 @@
               "Fios de Corte"
             ],
             "level": 2,
-            "id_nuvemshop": 35705367
+            "id_nuvemshop": 35715211
           },
           {
             "id": "f0241",
@@ -4562,7 +4562,7 @@
               "Cremalheiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705369
+            "id_nuvemshop": 35715212
           },
           {
             "id": "f0306",
@@ -4581,7 +4581,7 @@
               "Rodas de Lixa"
             ],
             "level": 2,
-            "id_nuvemshop": 35705373
+            "id_nuvemshop": 35715213
           },
           {
             "id": "f0315",
@@ -4600,7 +4600,7 @@
               "Pontas e Bits"
             ],
             "level": 2,
-            "id_nuvemshop": 35705375
+            "id_nuvemshop": 35715214
           },
           {
             "id": "f0326",
@@ -4619,7 +4619,7 @@
               "Cintas de Lixa"
             ],
             "level": 2,
-            "id_nuvemshop": 35705376
+            "id_nuvemshop": 35715215
           },
           {
             "id": "f0341",
@@ -4635,7 +4635,7 @@
               "Pontas para Micro Retífica"
             ],
             "level": 2,
-            "id_nuvemshop": 35705377
+            "id_nuvemshop": 35715216
           },
           {
             "id": "f0366",
@@ -4655,7 +4655,7 @@
               "Mantas e Espumas Abrasivas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705378
+            "id_nuvemshop": 35715217
           },
           {
             "id": "f0374",
@@ -4674,7 +4674,7 @@
               "Filtros de Ar"
             ],
             "level": 2,
-            "id_nuvemshop": 35705379
+            "id_nuvemshop": 35715218
           }
         ],
         "path": [
@@ -4682,7 +4682,7 @@
           "Consumíveis para Ferramentas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705044
+        "id_nuvemshop": 35714887
       },
       {
         "id": "23",
@@ -4725,7 +4725,7 @@
                   "Rodas e Rodízios"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705569
+                "id_nuvemshop": 35715382
               },
               {
                 "id": "f0107",
@@ -4752,7 +4752,7 @@
                   "Carrinhos"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705570
+                "id_nuvemshop": 35715384
               },
               {
                 "id": "f0108",
@@ -4772,7 +4772,7 @@
                   "Pneus e Câmaras"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705571
+                "id_nuvemshop": 35715386
               },
               {
                 "id": "f0307",
@@ -4792,7 +4792,7 @@
                   "Transpallets e Empilhadeiras"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705572
+                "id_nuvemshop": 35715387
               },
               {
                 "id": "f0371",
@@ -4812,7 +4812,7 @@
                   "Carretinhas"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705573
+                "id_nuvemshop": 35715388
               }
             ],
             "path": [
@@ -4821,7 +4821,7 @@
               "Carrinhos de Carga e Rodas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705381
+            "id_nuvemshop": 35715219
           },
           {
             "id": "f0103",
@@ -4841,7 +4841,7 @@
               "Caixas de Ferramentas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705383
+            "id_nuvemshop": 35715220
           },
           {
             "id": "f0104",
@@ -4863,7 +4863,7 @@
               "Bolsas e Mochilas para Ferramentas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705384
+            "id_nuvemshop": 35715221
           },
           {
             "id": "f0227",
@@ -4882,7 +4882,7 @@
               "Baú de Ferramentas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705386
+            "id_nuvemshop": 35715222
           }
         ],
         "path": [
@@ -4890,7 +4890,7 @@
           "Armazenagem e Transporte"
         ],
         "level": 1,
-        "id_nuvemshop": 35705045
+        "id_nuvemshop": 35714888
       },
       {
         "id": "24",
@@ -4931,7 +4931,7 @@
               "Tupias e Plainas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705387
+            "id_nuvemshop": 35715223
           },
           {
             "id": "f0023",
@@ -4957,7 +4957,7 @@
               "Rebitadeiras e Grampeadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705390
+            "id_nuvemshop": 35715224
           },
           {
             "id": "f0112",
@@ -4976,7 +4976,7 @@
               "Tarrachas e Cossinetes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705392
+            "id_nuvemshop": 35715225
           },
           {
             "id": "f0113",
@@ -4997,7 +4997,7 @@
               "Tesouras e Cortadores de Tubos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705393
+            "id_nuvemshop": 35715226
           },
           {
             "id": "f0114",
@@ -5016,7 +5016,7 @@
               "Finca Pinos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705396
+            "id_nuvemshop": 35715227
           },
           {
             "id": "f0115",
@@ -5035,7 +5035,7 @@
               "Alargadores e Flangeadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705398
+            "id_nuvemshop": 35715228
           },
           {
             "id": "f0239",
@@ -5055,7 +5055,7 @@
               "Cortador de Pedra e Ferro"
             ],
             "level": 2,
-            "id_nuvemshop": 35705400
+            "id_nuvemshop": 35715229
           },
           {
             "id": "f0240",
@@ -5074,7 +5074,7 @@
               "Cortadora de Parede"
             ],
             "level": 2,
-            "id_nuvemshop": 35705401
+            "id_nuvemshop": 35715230
           },
           {
             "id": "f0305",
@@ -5093,7 +5093,7 @@
               "Sacadores e Extratores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705403
+            "id_nuvemshop": 35715231
           },
           {
             "id": "f0373",
@@ -5112,7 +5112,7 @@
               "Pistolas de Ar e Jateamento"
             ],
             "level": 2,
-            "id_nuvemshop": 35705404
+            "id_nuvemshop": 35715232
           },
           {
             "id": "f0423",
@@ -5131,7 +5131,7 @@
               "Pistolas de Calafetagem"
             ],
             "level": 2,
-            "id_nuvemshop": 35705407
+            "id_nuvemshop": 35715233
           },
           {
             "id": "f0436",
@@ -5149,7 +5149,7 @@
               "Termofusores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705408
+            "id_nuvemshop": 35715234
           },
           {
             "id": "f0439",
@@ -5165,7 +5165,7 @@
               "Abafador de Incêndio"
             ],
             "level": 2,
-            "id_nuvemshop": 35705409
+            "id_nuvemshop": 35715236
           },
           {
             "id": "f0455",
@@ -5181,7 +5181,7 @@
               "Gravadores Elétricos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705410
+            "id_nuvemshop": 35715237
           }
         ],
         "path": [
@@ -5189,7 +5189,7 @@
           "Ferramentas do Especialista"
         ],
         "level": 1,
-        "id_nuvemshop": 35705046
+        "id_nuvemshop": 35714889
       },
       {
         "id": "25",
@@ -5229,7 +5229,7 @@
               "Trenas e Níveis a Laser"
             ],
             "level": 2,
-            "id_nuvemshop": 35705411
+            "id_nuvemshop": 35715238
           },
           {
             "id": "f0116",
@@ -5248,7 +5248,7 @@
               "Escalas de Aço"
             ],
             "level": 2,
-            "id_nuvemshop": 35705412
+            "id_nuvemshop": 35715239
           },
           {
             "id": "f0117",
@@ -5267,7 +5267,7 @@
               "Multímetros e Detectores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705413
+            "id_nuvemshop": 35715240
           },
           {
             "id": "f0118",
@@ -5286,7 +5286,7 @@
               "Equipamentos de Precisão"
             ],
             "level": 2,
-            "id_nuvemshop": 35705415
+            "id_nuvemshop": 35715241
           },
           {
             "id": "f0119",
@@ -5304,7 +5304,7 @@
               "Esquadros"
             ],
             "level": 2,
-            "id_nuvemshop": 35705416
+            "id_nuvemshop": 35715242
           },
           {
             "id": "f0120",
@@ -5322,7 +5322,7 @@
               "Níveis"
             ],
             "level": 2,
-            "id_nuvemshop": 35705417
+            "id_nuvemshop": 35715243
           },
           {
             "id": "f0121",
@@ -5340,7 +5340,7 @@
               "Trenas e Níveis"
             ],
             "level": 2,
-            "id_nuvemshop": 35705418
+            "id_nuvemshop": 35715245
           },
           {
             "id": "f0217",
@@ -5359,7 +5359,7 @@
               "Alicates Amperímetro"
             ],
             "level": 2,
-            "id_nuvemshop": 35705420
+            "id_nuvemshop": 35715246
           },
           {
             "id": "f0220",
@@ -5377,7 +5377,7 @@
               "Anemômetro"
             ],
             "level": 2,
-            "id_nuvemshop": 35705421
+            "id_nuvemshop": 35715247
           },
           {
             "id": "f0224",
@@ -5395,7 +5395,7 @@
               "Balanças"
             ],
             "level": 2,
-            "id_nuvemshop": 35705422
+            "id_nuvemshop": 35715248
           },
           {
             "id": "f0233",
@@ -5414,7 +5414,7 @@
               "Câmeras Térmicas e de Inspeção"
             ],
             "level": 2,
-            "id_nuvemshop": 35705425
+            "id_nuvemshop": 35715249
           },
           {
             "id": "f0276",
@@ -5432,7 +5432,7 @@
               "Termômetros"
             ],
             "level": 2,
-            "id_nuvemshop": 35705426
+            "id_nuvemshop": 35715250
           },
           {
             "id": "f0290",
@@ -5451,7 +5451,7 @@
               "Instrumentos de Teste"
             ],
             "level": 2,
-            "id_nuvemshop": 35705427
+            "id_nuvemshop": 35715253
           },
           {
             "id": "f0309",
@@ -5471,7 +5471,7 @@
               "Rodas de Medição de Distância"
             ],
             "level": 2,
-            "id_nuvemshop": 35705429
+            "id_nuvemshop": 35715254
           },
           {
             "id": "f0310",
@@ -5490,7 +5490,7 @@
               "Réguas de Medição"
             ],
             "level": 2,
-            "id_nuvemshop": 35705430
+            "id_nuvemshop": 35715255
           },
           {
             "id": "f0348",
@@ -5506,7 +5506,7 @@
               "Acessórios para Instrumentos de Medição"
             ],
             "level": 2,
-            "id_nuvemshop": 35705432
+            "id_nuvemshop": 35715256
           },
           {
             "id": "f0352",
@@ -5522,7 +5522,7 @@
               "Trilhos e Guias"
             ],
             "level": 2,
-            "id_nuvemshop": 35705433
+            "id_nuvemshop": 35715257
           },
           {
             "id": "f0369",
@@ -5541,7 +5541,7 @@
               "Calibradores de Folga"
             ],
             "level": 2,
-            "id_nuvemshop": 35705435
+            "id_nuvemshop": 35715258
           },
           {
             "id": "f0415",
@@ -5559,7 +5559,7 @@
               "Megômetros"
             ],
             "level": 2,
-            "id_nuvemshop": 35705436
+            "id_nuvemshop": 35715259
           }
         ],
         "path": [
@@ -5567,7 +5567,7 @@
           "Instrumentos de Medição e Precisão"
         ],
         "level": 1,
-        "id_nuvemshop": 35705047
+        "id_nuvemshop": 35714890
       },
       {
         "id": "26",
@@ -5591,7 +5591,7 @@
               "Lavadoras e Aspiradores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705437
+            "id_nuvemshop": 35715260
           },
           {
             "id": "f0044",
@@ -5612,7 +5612,7 @@
               "Cortadores de Grama"
             ],
             "level": 2,
-            "id_nuvemshop": 35705438
+            "id_nuvemshop": 35715262
           },
           {
             "id": "f0101",
@@ -5630,7 +5630,7 @@
               "Lavadoras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705439
+            "id_nuvemshop": 35715263
           },
           {
             "id": "f0102",
@@ -5648,7 +5648,7 @@
               "Aspiradores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705440
+            "id_nuvemshop": 35715265
           },
           {
             "id": "f0122",
@@ -5669,7 +5669,7 @@
               "Motosserras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705441
+            "id_nuvemshop": 35715266
           },
           {
             "id": "f0123",
@@ -5687,7 +5687,7 @@
               "Aparadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705443
+            "id_nuvemshop": 35715267
           },
           {
             "id": "f0124",
@@ -5705,7 +5705,7 @@
               "Pulverizadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705444
+            "id_nuvemshop": 35715269
           },
           {
             "id": "f0125",
@@ -5723,7 +5723,7 @@
               "Roçadeiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705445
+            "id_nuvemshop": 35715272
           },
           {
             "id": "f0126",
@@ -5741,7 +5741,7 @@
               "Sopradores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705446
+            "id_nuvemshop": 35715275
           },
           {
             "id": "f0127",
@@ -5763,7 +5763,7 @@
               "Rastelos e Vassouras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705449
+            "id_nuvemshop": 35715276
           },
           {
             "id": "f0238",
@@ -5784,7 +5784,7 @@
               "Cortador de Galhos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705451
+            "id_nuvemshop": 35715277
           },
           {
             "id": "f0259",
@@ -5803,7 +5803,7 @@
               "Motopodas e Podadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705452
+            "id_nuvemshop": 35715278
           },
           {
             "id": "f0349",
@@ -5821,7 +5821,7 @@
               "Sachos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705453
+            "id_nuvemshop": 35715279
           },
           {
             "id": "f0405",
@@ -5840,7 +5840,7 @@
               "Tesouras de Poda"
             ],
             "level": 2,
-            "id_nuvemshop": 35705454
+            "id_nuvemshop": 35715281
           },
           {
             "id": "f0460",
@@ -5858,7 +5858,7 @@
               "Varredoras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705455
+            "id_nuvemshop": 35715282
           }
         ],
         "path": [
@@ -5866,14 +5866,14 @@
           "Ferramentas para Exteriores e Limpeza"
         ],
         "level": 1,
-        "id_nuvemshop": 35705048
+        "id_nuvemshop": 35714891
       }
     ],
     "path": [
       "Ferramentas e Máquinas"
     ],
     "level": 0,
-    "id_nuvemshop": 35704925
+    "id_nuvemshop": 35714781
   },
   {
     "id": "7",
@@ -5899,7 +5899,7 @@
           "Fitas e Painéis de LED"
         ],
         "level": 1,
-        "id_nuvemshop": 35705051
+        "id_nuvemshop": 35714892
       },
       {
         "id": "f0129",
@@ -5916,7 +5916,7 @@
           "Plafons"
         ],
         "level": 1,
-        "id_nuvemshop": 35705053
+        "id_nuvemshop": 35714893
       },
       {
         "id": "f0130",
@@ -5933,7 +5933,7 @@
           "Lâmpadas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705056
+        "id_nuvemshop": 35714894
       },
       {
         "id": "f0131",
@@ -5950,7 +5950,7 @@
           "Luminárias"
         ],
         "level": 1,
-        "id_nuvemshop": 35705057
+        "id_nuvemshop": 35714895
       },
       {
         "id": "f0132",
@@ -5967,7 +5967,7 @@
           "Spots"
         ],
         "level": 1,
-        "id_nuvemshop": 35705058
+        "id_nuvemshop": 35714897
       },
       {
         "id": "f0133",
@@ -5984,7 +5984,7 @@
           "Refletores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705059
+        "id_nuvemshop": 35714898
       },
       {
         "id": "f0134",
@@ -6004,7 +6004,7 @@
           "Tartarugas e Balizadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705060
+        "id_nuvemshop": 35714899
       },
       {
         "id": "f0135",
@@ -6021,7 +6021,7 @@
           "Arandelas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705061
+        "id_nuvemshop": 35714903
       },
       {
         "id": "f0136",
@@ -6038,7 +6038,7 @@
           "Pendentes"
         ],
         "level": 1,
-        "id_nuvemshop": 35705062
+        "id_nuvemshop": 35714904
       },
       {
         "id": "f0317",
@@ -6055,7 +6055,7 @@
           "Lanternas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705063
+        "id_nuvemshop": 35714906
       },
       {
         "id": "f0386",
@@ -6070,14 +6070,14 @@
           "Bocais"
         ],
         "level": 1,
-        "id_nuvemshop": 35705064
+        "id_nuvemshop": 35714907
       }
     ],
     "path": [
       "Iluminação"
     ],
     "level": 0,
-    "id_nuvemshop": 35704926
+    "id_nuvemshop": 35714782
   },
   {
     "id": "8",
@@ -6112,7 +6112,7 @@
               "Telas para Cerca"
             ],
             "level": 2,
-            "id_nuvemshop": 35705456
+            "id_nuvemshop": 35715283
           },
           {
             "id": "f0141",
@@ -6131,7 +6131,7 @@
               "Telas Tapume"
             ],
             "level": 2,
-            "id_nuvemshop": 35705457
+            "id_nuvemshop": 35715284
           },
           {
             "id": "f0142",
@@ -6150,7 +6150,7 @@
               "Telas de Sinalização"
             ],
             "level": 2,
-            "id_nuvemshop": 35705458
+            "id_nuvemshop": 35715285
           },
           {
             "id": "f0143",
@@ -6169,7 +6169,7 @@
               "Telas Mosquiteiro"
             ],
             "level": 2,
-            "id_nuvemshop": 35705459
+            "id_nuvemshop": 35715286
           },
           {
             "id": "f0356",
@@ -6188,7 +6188,7 @@
               "Telas de Sombreamento"
             ],
             "level": 2,
-            "id_nuvemshop": 35705460
+            "id_nuvemshop": 35715287
           },
           {
             "id": "f0357",
@@ -6207,7 +6207,7 @@
               "Telas Estruturantes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705462
+            "id_nuvemshop": 35715288
           }
         ],
         "path": [
@@ -6215,7 +6215,7 @@
           "Telas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705065
+        "id_nuvemshop": 35714908
       },
       {
         "id": "f0137",
@@ -6237,7 +6237,7 @@
           "Arames e Cordoalhas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705066
+        "id_nuvemshop": 35714909
       },
       {
         "id": "f0138",
@@ -6252,7 +6252,7 @@
           "Estrutura Metálica"
         ],
         "level": 1,
-        "id_nuvemshop": 35705067
+        "id_nuvemshop": 35714910
       },
       {
         "id": "f0254",
@@ -6270,7 +6270,7 @@
           "Mantas Térmicas e Asfálticas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705068
+        "id_nuvemshop": 35714916
       },
       {
         "id": "f0435",
@@ -6289,14 +6289,14 @@
           "Perfis de Borracha e Limitadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705069
+        "id_nuvemshop": 35714917
       }
     ],
     "path": [
       "Materiais de Construção"
     ],
     "level": 0,
-    "id_nuvemshop": 35704928
+    "id_nuvemshop": 35714783
   },
   {
     "id": "9",
@@ -6331,7 +6331,7 @@
               "Cabos Flexíveis"
             ],
             "level": 2,
-            "id_nuvemshop": 35705463
+            "id_nuvemshop": 35715289
           },
           {
             "id": "f0145",
@@ -6350,7 +6350,7 @@
               "Cabos Atox"
             ],
             "level": 2,
-            "id_nuvemshop": 35705464
+            "id_nuvemshop": 35715290
           },
           {
             "id": "f0146",
@@ -6370,7 +6370,7 @@
               "Cabos PP e Múltiplos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705465
+            "id_nuvemshop": 35715291
           },
           {
             "id": "f0147",
@@ -6388,7 +6388,7 @@
               "Eletrofitas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705466
+            "id_nuvemshop": 35715292
           },
           {
             "id": "f0148",
@@ -6407,7 +6407,7 @@
               "Cabos Paralelos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705467
+            "id_nuvemshop": 35715294
           },
           {
             "id": "f0149",
@@ -6426,7 +6426,7 @@
               "Cobre Nu"
             ],
             "level": 2,
-            "id_nuvemshop": 35705469
+            "id_nuvemshop": 35715295
           },
           {
             "id": "f0377",
@@ -6445,7 +6445,7 @@
               "Cabos com Plugue"
             ],
             "level": 2,
-            "id_nuvemshop": 35705470
+            "id_nuvemshop": 35715296
           },
           {
             "id": "f0402",
@@ -6464,7 +6464,7 @@
               "Cabos Para Energia Solar"
             ],
             "level": 2,
-            "id_nuvemshop": 35705471
+            "id_nuvemshop": 35715297
           },
           {
             "id": "f0443",
@@ -6483,7 +6483,7 @@
               "Alças Preformadas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705472
+            "id_nuvemshop": 35715298
           }
         ],
         "path": [
@@ -6491,7 +6491,7 @@
           "Fios e Cabos Elétricos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705070
+        "id_nuvemshop": 35714918
       },
       {
         "id": "31",
@@ -6520,7 +6520,7 @@
               "Eletrodutos e Conexões"
             ],
             "level": 2,
-            "id_nuvemshop": 35705473
+            "id_nuvemshop": 35715300
           },
           {
             "id": "f0151",
@@ -6538,7 +6538,7 @@
               "Conduletes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705474
+            "id_nuvemshop": 35715301
           },
           {
             "id": "f0152",
@@ -6561,7 +6561,7 @@
               "Caixinhas de Embutir"
             ],
             "level": 2,
-            "id_nuvemshop": 35705475
+            "id_nuvemshop": 35715302
           },
           {
             "id": "f0153",
@@ -6579,7 +6579,7 @@
               "Canaletas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705476
+            "id_nuvemshop": 35715303
           }
         ],
         "path": [
@@ -6587,7 +6587,7 @@
           "Infraestrutura Elétrica"
         ],
         "level": 1,
-        "id_nuvemshop": 35705071
+        "id_nuvemshop": 35714919
       },
       {
         "id": "32",
@@ -6615,7 +6615,7 @@
               "Botões e Sinalizadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705477
+            "id_nuvemshop": 35715304
           },
           {
             "id": "f0157",
@@ -6638,7 +6638,7 @@
               "Chaves Comutadoras e de Partida"
             ],
             "level": 2,
-            "id_nuvemshop": 35705478
+            "id_nuvemshop": 35715305
           },
           {
             "id": "f0158",
@@ -6656,7 +6656,7 @@
               "Relés"
             ],
             "level": 2,
-            "id_nuvemshop": 35705480
+            "id_nuvemshop": 35715306
           },
           {
             "id": "f0159",
@@ -6674,7 +6674,7 @@
               "Contatores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705483
+            "id_nuvemshop": 35715309
           },
           {
             "id": "f0160",
@@ -6692,7 +6692,7 @@
               "Fusíveis"
             ],
             "level": 2,
-            "id_nuvemshop": 35705484
+            "id_nuvemshop": 35715310
           },
           {
             "id": "f0161",
@@ -6713,7 +6713,7 @@
               "Aterramento"
             ],
             "level": 2,
-            "id_nuvemshop": 35705487
+            "id_nuvemshop": 35715311
           },
           {
             "id": "f0162",
@@ -6731,7 +6731,7 @@
               "Disjuntores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705489
+            "id_nuvemshop": 35715312
           }
         ],
         "path": [
@@ -6739,7 +6739,7 @@
           "Proteção Elétrica"
         ],
         "level": 1,
-        "id_nuvemshop": 35705072
+        "id_nuvemshop": 35714921
       },
       {
         "id": "33",
@@ -6765,7 +6765,7 @@
               "Terminais"
             ],
             "level": 2,
-            "id_nuvemshop": 35705490
+            "id_nuvemshop": 35715313
           },
           {
             "id": "f0164",
@@ -6784,7 +6784,7 @@
               "Fitas Isolantes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705491
+            "id_nuvemshop": 35715314
           },
           {
             "id": "f0165",
@@ -6803,7 +6803,7 @@
               "Passa Fio"
             ],
             "level": 2,
-            "id_nuvemshop": 35705492
+            "id_nuvemshop": 35715315
           },
           {
             "id": "f0166",
@@ -6824,7 +6824,7 @@
               "Fixa Fios e Organizadores para Cabo"
             ],
             "level": 2,
-            "id_nuvemshop": 35705495
+            "id_nuvemshop": 35715317
           },
           {
             "id": "f0167",
@@ -6843,7 +6843,7 @@
               "Prensa Cabos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705498
+            "id_nuvemshop": 35715318
           },
           {
             "id": "f0168",
@@ -6862,7 +6862,7 @@
               "Identificador de Cabos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705499
+            "id_nuvemshop": 35715319
           },
           {
             "id": "f0355",
@@ -6880,7 +6880,7 @@
               "Espaguetes Isolantes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705507
+            "id_nuvemshop": 35715320
           }
         ],
         "path": [
@@ -6888,7 +6888,7 @@
           "Acessórios para Cabos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705073
+        "id_nuvemshop": 35714922
       },
       {
         "id": "34",
@@ -6919,7 +6919,7 @@
               "Plugues e Tomadas Móveis"
             ],
             "level": 2,
-            "id_nuvemshop": 35705508
+            "id_nuvemshop": 35715321
           },
           {
             "id": "f0170",
@@ -6938,7 +6938,7 @@
               "Extensões e Multi Tomadas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705509
+            "id_nuvemshop": 35715322
           },
           {
             "id": "f0171",
@@ -6957,7 +6957,7 @@
               "Filtros de Linha e Protetores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705512
+            "id_nuvemshop": 35715327
           },
           {
             "id": "f0172",
@@ -6978,7 +6978,7 @@
               "Adaptadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705513
+            "id_nuvemshop": 35715328
           },
           {
             "id": "f0173",
@@ -6996,7 +6996,7 @@
               "Transformadores e Autotransformadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705514
+            "id_nuvemshop": 35715330
           }
         ],
         "path": [
@@ -7004,7 +7004,7 @@
           "Plugues, Adaptadores, Extensões e Filtros de Linha"
         ],
         "level": 1,
-        "id_nuvemshop": 35705074
+        "id_nuvemshop": 35714924
       },
       {
         "id": "35",
@@ -7031,7 +7031,7 @@
               "Sensores de Presença"
             ],
             "level": 2,
-            "id_nuvemshop": 35705515
+            "id_nuvemshop": 35715331
           },
           {
             "id": "f0175",
@@ -7050,7 +7050,7 @@
               "Relés Fotoelétricos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705516
+            "id_nuvemshop": 35715332
           },
           {
             "id": "f0176",
@@ -7068,7 +7068,7 @@
               "Minuterias"
             ],
             "level": 2,
-            "id_nuvemshop": 35705518
+            "id_nuvemshop": 35715333
           },
           {
             "id": "f0177",
@@ -7086,7 +7086,7 @@
               "Dimmers"
             ],
             "level": 2,
-            "id_nuvemshop": 35705519
+            "id_nuvemshop": 35715334
           }
         ],
         "path": [
@@ -7094,7 +7094,7 @@
           "Dimmers e Sensores de Presença"
         ],
         "level": 1,
-        "id_nuvemshop": 35705075
+        "id_nuvemshop": 35714925
       },
       {
         "id": "36",
@@ -7121,7 +7121,7 @@
               "Tomadas Industriais"
             ],
             "level": 2,
-            "id_nuvemshop": 35705521
+            "id_nuvemshop": 35715335
           },
           {
             "id": "f0179",
@@ -7140,7 +7140,7 @@
               "Plugues Industriais"
             ],
             "level": 2,
-            "id_nuvemshop": 35705522
+            "id_nuvemshop": 35715336
           },
           {
             "id": "f0180",
@@ -7159,7 +7159,7 @@
               "Acoplamentos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705523
+            "id_nuvemshop": 35715337
           }
         ],
         "path": [
@@ -7167,7 +7167,7 @@
           "Plugues, Tomadas Industriais e Acoplamentos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705076
+        "id_nuvemshop": 35714927
       },
       {
         "id": "f0154",
@@ -7188,7 +7188,7 @@
           "Interruptores e Tomadas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705077
+        "id_nuvemshop": 35714928
       },
       {
         "id": "f0155",
@@ -7214,7 +7214,7 @@
           "Caixas, Painéis e Quadros de Comando"
         ],
         "level": 1,
-        "id_nuvemshop": 35705078
+        "id_nuvemshop": 35714929
       },
       {
         "id": "f0181",
@@ -7234,7 +7234,7 @@
           "Pilhas e Baterias"
         ],
         "level": 1,
-        "id_nuvemshop": 35705079
+        "id_nuvemshop": 35714930
       },
       {
         "id": "f0182",
@@ -7254,7 +7254,7 @@
           "Painéis Solares"
         ],
         "level": 1,
-        "id_nuvemshop": 35705080
+        "id_nuvemshop": 35714931
       },
       {
         "id": "f0252",
@@ -7274,7 +7274,7 @@
           "Inversores de Tensão e Frequência"
         ],
         "level": 1,
-        "id_nuvemshop": 35705081
+        "id_nuvemshop": 35714932
       },
       {
         "id": "f0385",
@@ -7291,7 +7291,7 @@
           "Conectores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705082
+        "id_nuvemshop": 35714933
       },
       {
         "id": "f0393",
@@ -7308,7 +7308,7 @@
           "Componentes Elétricos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705083
+        "id_nuvemshop": 35714934
       },
       {
         "id": "f0422",
@@ -7326,14 +7326,14 @@
           "Controladores de Carga"
         ],
         "level": 1,
-        "id_nuvemshop": 35705084
+        "id_nuvemshop": 35714935
       }
     ],
     "path": [
       "Materiais Elétricos"
     ],
     "level": 0,
-    "id_nuvemshop": 35704929
+    "id_nuvemshop": 35714784
   },
   {
     "id": "10",
@@ -7369,7 +7369,7 @@
               "Extintores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705524
+            "id_nuvemshop": 35715339
           },
           {
             "id": "f0187",
@@ -7387,7 +7387,7 @@
               "Hidrantes e Acessórios"
             ],
             "level": 2,
-            "id_nuvemshop": 35705525
+            "id_nuvemshop": 35715340
           },
           {
             "id": "f0188",
@@ -7405,7 +7405,7 @@
               "Sprinklers"
             ],
             "level": 2,
-            "id_nuvemshop": 35705526
+            "id_nuvemshop": 35715342
           }
         ],
         "path": [
@@ -7413,7 +7413,7 @@
           "Combate a Incêndio"
         ],
         "level": 1,
-        "id_nuvemshop": 35705085
+        "id_nuvemshop": 35714936
       },
       {
         "id": "38",
@@ -7448,7 +7448,7 @@
               "Caixas D'Água e Tanques"
             ],
             "level": 2,
-            "id_nuvemshop": 35705527
+            "id_nuvemshop": 35715343
           },
           {
             "id": "f0190",
@@ -7466,7 +7466,7 @@
               "Torneiras Boia"
             ],
             "level": 2,
-            "id_nuvemshop": 35705528
+            "id_nuvemshop": 35715344
           },
           {
             "id": "f0191",
@@ -7484,7 +7484,7 @@
               "Cisternas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705529
+            "id_nuvemshop": 35715345
           },
           {
             "id": "f0192",
@@ -7505,7 +7505,7 @@
               "Biodigestores e Fossas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705530
+            "id_nuvemshop": 35715346
           },
           {
             "id": "f0383",
@@ -7521,7 +7521,7 @@
               "Ralos e Caixas Sifonadas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705531
+            "id_nuvemshop": 35715347
           }
         ],
         "path": [
@@ -7529,7 +7529,7 @@
           "Reservatórios"
         ],
         "level": 1,
-        "id_nuvemshop": 35705086
+        "id_nuvemshop": 35714937
       },
       {
         "id": "39",
@@ -7575,7 +7575,7 @@
               "Bombas, Bombeadores e Motobombas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705535
+            "id_nuvemshop": 35715348
           },
           {
             "id": "f0194",
@@ -7593,7 +7593,7 @@
               "Pressurizadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705536
+            "id_nuvemshop": 35715350
           },
           {
             "id": "f0195",
@@ -7617,7 +7617,7 @@
               "Acessórios para Bombas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705537
+            "id_nuvemshop": 35715351
           }
         ],
         "path": [
@@ -7625,7 +7625,7 @@
           "Bombas Hidráulicas e para Fluidos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705087
+        "id_nuvemshop": 35714938
       },
       {
         "id": "f0184",
@@ -7647,7 +7647,7 @@
           "Tubos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705091
+        "id_nuvemshop": 35714939
       },
       {
         "id": "f0185",
@@ -7665,7 +7665,7 @@
           "Aquecedores de Água"
         ],
         "level": 1,
-        "id_nuvemshop": 35705092
+        "id_nuvemshop": 35714940
       },
       {
         "id": "f0203",
@@ -7686,7 +7686,7 @@
           "Mangueiras em Geral"
         ],
         "level": 1,
-        "id_nuvemshop": 35705093
+        "id_nuvemshop": 35714941
       },
       {
         "id": "f0215",
@@ -7705,7 +7705,7 @@
           "Torneiras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705094
+        "id_nuvemshop": 35714942
       },
       {
         "id": "f0222",
@@ -7722,7 +7722,7 @@
           "Aspersores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705095
+        "id_nuvemshop": 35714944
       },
       {
         "id": "f0237",
@@ -7745,7 +7745,7 @@
           "Controle e Automação"
         ],
         "level": 1,
-        "id_nuvemshop": 35705096
+        "id_nuvemshop": 35714945
       },
       {
         "id": "f0270",
@@ -7767,7 +7767,7 @@
           "Filtros"
         ],
         "level": 1,
-        "id_nuvemshop": 35705097
+        "id_nuvemshop": 35714946
       },
       {
         "id": "f0279",
@@ -7784,7 +7784,7 @@
           "Válvulas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705100
+        "id_nuvemshop": 35714947
       },
       {
         "id": "f0280",
@@ -7837,7 +7837,7 @@
           "Conexões e Acessórios"
         ],
         "level": 1,
-        "id_nuvemshop": 35705102
+        "id_nuvemshop": 35714948
       },
       {
         "id": "f0281",
@@ -7854,7 +7854,7 @@
           "Tampas e Tampões"
         ],
         "level": 1,
-        "id_nuvemshop": 35705103
+        "id_nuvemshop": 35714949
       },
       {
         "id": "f0297",
@@ -7871,7 +7871,7 @@
           "Gotejadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705104
+        "id_nuvemshop": 35714950
       },
       {
         "id": "f0324",
@@ -7888,7 +7888,7 @@
           "Reguladores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705105
+        "id_nuvemshop": 35714951
       },
       {
         "id": "f0432",
@@ -7905,7 +7905,7 @@
           "Esguichos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705106
+        "id_nuvemshop": 35714952
       },
       {
         "id": "f0453",
@@ -7922,14 +7922,14 @@
           "Microtubos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705107
+        "id_nuvemshop": 35714953
       }
     ],
     "path": [
       "Materiais Hidráulicos e Pneumáticos"
     ],
     "level": 0,
-    "id_nuvemshop": 35704930
+    "id_nuvemshop": 35714785
   },
   {
     "id": "13",
@@ -7956,7 +7956,7 @@
           "Vernizes"
         ],
         "level": 1,
-        "id_nuvemshop": 35705108
+        "id_nuvemshop": 35714954
       },
       {
         "id": "f0212",
@@ -7974,7 +7974,7 @@
           "Tintas Spray"
         ],
         "level": 1,
-        "id_nuvemshop": 35705109
+        "id_nuvemshop": 35714955
       },
       {
         "id": "f0216",
@@ -7994,7 +7994,7 @@
           "Thinners e Removedores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705110
+        "id_nuvemshop": 35714956
       },
       {
         "id": "f0277",
@@ -8013,7 +8013,7 @@
           "Tintas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705111
+        "id_nuvemshop": 35714957
       },
       {
         "id": "f0278",
@@ -8040,7 +8040,7 @@
           "Vedantes, Impermeabilizantes e Aditivos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705112
+        "id_nuvemshop": 35714958
       },
       {
         "id": "f0284",
@@ -8058,7 +8058,7 @@
           "Colas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705113
+        "id_nuvemshop": 35714959
       },
       {
         "id": "f0285",
@@ -8075,7 +8075,7 @@
           "Vaselinas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705114
+        "id_nuvemshop": 35714960
       },
       {
         "id": "f0288",
@@ -8092,7 +8092,7 @@
           "Silicones e Espumas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705115
+        "id_nuvemshop": 35714961
       },
       {
         "id": "f0289",
@@ -8111,7 +8111,7 @@
           "Adesivos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705116
+        "id_nuvemshop": 35714962
       },
       {
         "id": "f0293",
@@ -8128,7 +8128,7 @@
           "Corantes"
         ],
         "level": 1,
-        "id_nuvemshop": 35705117
+        "id_nuvemshop": 35714963
       },
       {
         "id": "f0299",
@@ -8145,7 +8145,7 @@
           "Grafite"
         ],
         "level": 1,
-        "id_nuvemshop": 35705118
+        "id_nuvemshop": 35714964
       },
       {
         "id": "f0333",
@@ -8162,7 +8162,7 @@
           "Esmaltes e Selantes"
         ],
         "level": 1,
-        "id_nuvemshop": 35705119
+        "id_nuvemshop": 35714965
       },
       {
         "id": "f0408",
@@ -8179,7 +8179,7 @@
           "Primers e Soluções Preparadoras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705120
+        "id_nuvemshop": 35714967
       },
       {
         "id": "f0414",
@@ -8198,14 +8198,14 @@
           "Massas Plásticas e de Calafetagem"
         ],
         "level": 1,
-        "id_nuvemshop": 35705121
+        "id_nuvemshop": 35714968
       }
     ],
     "path": [
       "Tintas, Adesivos e Compostos Químicos"
     ],
     "level": 0,
-    "id_nuvemshop": 35704931
+    "id_nuvemshop": 35714786
   },
   {
     "id": "41",
@@ -8232,7 +8232,7 @@
           "Correias Automotivas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705122
+        "id_nuvemshop": 35714969
       },
       {
         "id": "f0197",
@@ -8255,7 +8255,7 @@
           "Correias Industriais"
         ],
         "level": 1,
-        "id_nuvemshop": 35705123
+        "id_nuvemshop": 35714970
       },
       {
         "id": "f0198",
@@ -8273,7 +8273,7 @@
           "Correias Laminadas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705124
+        "id_nuvemshop": 35714971
       },
       {
         "id": "f0272",
@@ -8291,7 +8291,7 @@
           "Rolamentos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705127
+        "id_nuvemshop": 35714972
       },
       {
         "id": "f0274",
@@ -8308,7 +8308,7 @@
           "Reparos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705128
+        "id_nuvemshop": 35714974
       },
       {
         "id": "f0303",
@@ -8326,7 +8326,7 @@
           "Induzidos e Estatores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705129
+        "id_nuvemshop": 35714977
       },
       {
         "id": "f0314",
@@ -8344,7 +8344,7 @@
           "Acessórios para Trituradores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705130
+        "id_nuvemshop": 35714978
       },
       {
         "id": "f0322",
@@ -8359,7 +8359,7 @@
           "Acessórios para Betoneira"
         ],
         "level": 1,
-        "id_nuvemshop": 35705131
+        "id_nuvemshop": 35714979
       },
       {
         "id": "f0323",
@@ -8374,7 +8374,7 @@
           "Peças para Betoneira"
         ],
         "level": 1,
-        "id_nuvemshop": 35705132
+        "id_nuvemshop": 35714980
       },
       {
         "id": "f0336",
@@ -8389,7 +8389,7 @@
           "Eixos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705133
+        "id_nuvemshop": 35714981
       },
       {
         "id": "f0364",
@@ -8404,7 +8404,7 @@
           "Interruptores para Ferramentas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705134
+        "id_nuvemshop": 35714982
       },
       {
         "id": "f0365",
@@ -8419,7 +8419,7 @@
           "Anéis para Ferramentas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705135
+        "id_nuvemshop": 35714984
       },
       {
         "id": "f0372",
@@ -8437,7 +8437,7 @@
           "Acessórios para Furadeiras e Parafusadeiras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705136
+        "id_nuvemshop": 35714985
       },
       {
         "id": "f0375",
@@ -8454,7 +8454,7 @@
           "Engrenagens"
         ],
         "level": 1,
-        "id_nuvemshop": 35705137
+        "id_nuvemshop": 35714986
       },
       {
         "id": "f0380",
@@ -8469,7 +8469,7 @@
           "Acessórios para Lavadoras, Aspiradores e Sopradores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705138
+        "id_nuvemshop": 35714987
       },
       {
         "id": "f0388",
@@ -8484,7 +8484,7 @@
           "Porcas e Arruelas para Ferramentas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705139
+        "id_nuvemshop": 35714989
       },
       {
         "id": "f0390",
@@ -8499,7 +8499,7 @@
           "Ganchos para Talhas e Guinchos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705141
+        "id_nuvemshop": 35714990
       },
       {
         "id": "f0392",
@@ -8516,7 +8516,7 @@
           "Capas e Carcaças"
         ],
         "level": 1,
-        "id_nuvemshop": 35705142
+        "id_nuvemshop": 35714993
       },
       {
         "id": "f0394",
@@ -8531,7 +8531,7 @@
           "Parafusos para Ferramentas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705143
+        "id_nuvemshop": 35714994
       },
       {
         "id": "f0397",
@@ -8549,7 +8549,7 @@
           "Juntas e Cabeçotes"
         ],
         "level": 1,
-        "id_nuvemshop": 35705144
+        "id_nuvemshop": 35714995
       },
       {
         "id": "f0398",
@@ -8566,7 +8566,7 @@
           "Sabres para Serra"
         ],
         "level": 1,
-        "id_nuvemshop": 35705145
+        "id_nuvemshop": 35714996
       },
       {
         "id": "f0399",
@@ -8583,7 +8583,7 @@
           "Flanges para Ferramentas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705146
+        "id_nuvemshop": 35714997
       },
       {
         "id": "f0400",
@@ -8598,7 +8598,7 @@
           "Punhos e Cabos para Ferramentas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705147
+        "id_nuvemshop": 35714998
       },
       {
         "id": "f0403",
@@ -8616,7 +8616,7 @@
           "Protetor de Cabos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705148
+        "id_nuvemshop": 35714999
       },
       {
         "id": "f0411",
@@ -8633,7 +8633,7 @@
           "Acoplamentos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705149
+        "id_nuvemshop": 35715001
       },
       {
         "id": "f0412",
@@ -8650,7 +8650,7 @@
           "Chapas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705150
+        "id_nuvemshop": 35715002
       },
       {
         "id": "f0424",
@@ -8665,7 +8665,7 @@
           "Acessórios para Serras Elétricas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705151
+        "id_nuvemshop": 35715003
       },
       {
         "id": "f0425",
@@ -8683,7 +8683,7 @@
           "Buchas e Mancais"
         ],
         "level": 1,
-        "id_nuvemshop": 35705152
+        "id_nuvemshop": 35715006
       },
       {
         "id": "f0426",
@@ -8698,7 +8698,7 @@
           "Peças para Furadeiras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705153
+        "id_nuvemshop": 35715007
       },
       {
         "id": "f0427",
@@ -8713,7 +8713,7 @@
           "Acessórios para Motosserra"
         ],
         "level": 1,
-        "id_nuvemshop": 35705155
+        "id_nuvemshop": 35715008
       },
       {
         "id": "f0429",
@@ -8728,7 +8728,7 @@
           "Peças para Bomba"
         ],
         "level": 1,
-        "id_nuvemshop": 35705156
+        "id_nuvemshop": 35715009
       },
       {
         "id": "f0430",
@@ -8745,7 +8745,7 @@
           "Retentores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705157
+        "id_nuvemshop": 35715010
       },
       {
         "id": "f0431",
@@ -8762,7 +8762,7 @@
           "Gaxetas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705158
+        "id_nuvemshop": 35715011
       },
       {
         "id": "f0433",
@@ -8780,7 +8780,7 @@
           "Breques e Roletes"
         ],
         "level": 1,
-        "id_nuvemshop": 35705159
+        "id_nuvemshop": 35715013
       },
       {
         "id": "f0444",
@@ -8795,7 +8795,7 @@
           "Acessórios para Vibradores de Concreto"
         ],
         "level": 1,
-        "id_nuvemshop": 35705161
+        "id_nuvemshop": 35715014
       },
       {
         "id": "f0447",
@@ -8810,7 +8810,7 @@
           "Peças para Marteletes"
         ],
         "level": 1,
-        "id_nuvemshop": 35705163
+        "id_nuvemshop": 35715015
       },
       {
         "id": "f0454",
@@ -8825,7 +8825,7 @@
           "Acessórios para Micro Retífica"
         ],
         "level": 1,
-        "id_nuvemshop": 35705164
+        "id_nuvemshop": 35715016
       },
       {
         "id": "f0456",
@@ -8840,7 +8840,7 @@
           "Peças para Motosserras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705165
+        "id_nuvemshop": 35715017
       },
       {
         "id": "f0457",
@@ -8855,7 +8855,7 @@
           "Peças para Roçadeiras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705166
+        "id_nuvemshop": 35715018
       },
       {
         "id": "f0458",
@@ -8870,7 +8870,7 @@
           "Acessórios para Motocultivadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705167
+        "id_nuvemshop": 35715019
       },
       {
         "id": "f0459",
@@ -8885,7 +8885,7 @@
           "Acessórios para Motopodas e Podadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705169
+        "id_nuvemshop": 35715021
       },
       {
         "id": "f0461",
@@ -8900,7 +8900,7 @@
           "Peças para Sopradores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705170
+        "id_nuvemshop": 35715034
       },
       {
         "id": "f0462",
@@ -8915,7 +8915,7 @@
           "Peças para Esmerilhadeiras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705171
+        "id_nuvemshop": 35715037
       },
       {
         "id": "f0463",
@@ -8930,7 +8930,7 @@
           "Peças para Serras Elétricas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705172
+        "id_nuvemshop": 35715038
       },
       {
         "id": "f0464",
@@ -8945,7 +8945,7 @@
           "Velas de Ignição"
         ],
         "level": 1,
-        "id_nuvemshop": 35705174
+        "id_nuvemshop": 35715039
       },
       {
         "id": "f0465",
@@ -8960,14 +8960,14 @@
           "Peças para Rompedor"
         ],
         "level": 1,
-        "id_nuvemshop": 35705177
+        "id_nuvemshop": 35715040
       }
     ],
     "path": [
       "Peças de Reposição e Acessórios"
     ],
     "level": 0,
-    "id_nuvemshop": 35704932
+    "id_nuvemshop": 35714787
   },
   {
     "id": "42",
@@ -8999,7 +8999,7 @@
               "Aromatizantes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705538
+            "id_nuvemshop": 35715352
           },
           {
             "id": "f0396",
@@ -9018,7 +9018,7 @@
               "Ceras e Polidores Automotivos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705539
+            "id_nuvemshop": 35715353
           },
           {
             "id": "f0445",
@@ -9037,7 +9037,7 @@
               "Shampoos e Desincrustantes Automotivos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705540
+            "id_nuvemshop": 35715354
           },
           {
             "id": "f0446",
@@ -9055,7 +9055,7 @@
               "Luvas e Toalhas para Limpeza Automotiva"
             ],
             "level": 2,
-            "id_nuvemshop": 35705541
+            "id_nuvemshop": 35715355
           },
           {
             "id": "f0449",
@@ -9071,7 +9071,7 @@
               "Outros Químicos para Limpeza Automotiva"
             ],
             "level": 2,
-            "id_nuvemshop": 35705542
+            "id_nuvemshop": 35715356
           },
           {
             "id": "f0450",
@@ -9087,7 +9087,7 @@
               "Utensílios para Limpeza Automotiva"
             ],
             "level": 2,
-            "id_nuvemshop": 35705543
+            "id_nuvemshop": 35715357
           }
         ],
         "path": [
@@ -9095,7 +9095,7 @@
           "Limpeza Automotiva"
         ],
         "level": 1,
-        "id_nuvemshop": 35705178
+        "id_nuvemshop": 35715041
       },
       {
         "id": "f0204",
@@ -9116,7 +9116,7 @@
           "Mangueiras Automotivas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705179
+        "id_nuvemshop": 35715042
       },
       {
         "id": "f0210",
@@ -9133,7 +9133,7 @@
           "Vulcanizadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705180
+        "id_nuvemshop": 35715043
       },
       {
         "id": "f0223",
@@ -9151,7 +9151,7 @@
           "Auxiliar de Partida"
         ],
         "level": 1,
-        "id_nuvemshop": 35705181
+        "id_nuvemshop": 35715045
       },
       {
         "id": "f0225",
@@ -9169,7 +9169,7 @@
           "Banqueta"
         ],
         "level": 1,
-        "id_nuvemshop": 35705182
+        "id_nuvemshop": 35715046
       },
       {
         "id": "f0226",
@@ -9189,7 +9189,7 @@
           "Mesas e Bancadas de Trabalho"
         ],
         "level": 1,
-        "id_nuvemshop": 35705183
+        "id_nuvemshop": 35715047
       },
       {
         "id": "f0229",
@@ -9207,7 +9207,7 @@
           "Coletor de Óleo"
         ],
         "level": 1,
-        "id_nuvemshop": 35705185
+        "id_nuvemshop": 35715048
       },
       {
         "id": "f0232",
@@ -9224,7 +9224,7 @@
           "Calibradores e Bombas de Encher"
         ],
         "level": 1,
-        "id_nuvemshop": 35705186
+        "id_nuvemshop": 35715049
       },
       {
         "id": "f0244",
@@ -9243,7 +9243,7 @@
           "Descolador de Pneus"
         ],
         "level": 1,
-        "id_nuvemshop": 35705187
+        "id_nuvemshop": 35715050
       },
       {
         "id": "f0245",
@@ -9260,7 +9260,7 @@
           "Desforcímetro"
         ],
         "level": 1,
-        "id_nuvemshop": 35705189
+        "id_nuvemshop": 35715051
       },
       {
         "id": "f0253",
@@ -9277,7 +9277,7 @@
           "Macacos para Oficina"
         ],
         "level": 1,
-        "id_nuvemshop": 35705190
+        "id_nuvemshop": 35715053
       },
       {
         "id": "f0294",
@@ -9294,7 +9294,7 @@
           "Estopas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705191
+        "id_nuvemshop": 35715054
       },
       {
         "id": "f0334",
@@ -9309,7 +9309,7 @@
           "Propulsoras para Graxa e Óleo"
         ],
         "level": 1,
-        "id_nuvemshop": 35705194
+        "id_nuvemshop": 35715056
       },
       {
         "id": "f0340",
@@ -9327,7 +9327,7 @@
           "Scanners Automotivos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705196
+        "id_nuvemshop": 35715057
       },
       {
         "id": "f0362",
@@ -9345,7 +9345,7 @@
           "Remendos para Câmara de Ar"
         ],
         "level": 1,
-        "id_nuvemshop": 35705197
+        "id_nuvemshop": 35715058
       },
       {
         "id": "f0387",
@@ -9363,7 +9363,7 @@
           "Bicos Infladores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705198
+        "id_nuvemshop": 35715059
       },
       {
         "id": "f0391",
@@ -9378,7 +9378,7 @@
           "Carrinhos para Oficina"
         ],
         "level": 1,
-        "id_nuvemshop": 35705199
+        "id_nuvemshop": 35715061
       },
       {
         "id": "f0401",
@@ -9393,7 +9393,7 @@
           "Cabos de Transferência de Carga"
         ],
         "level": 1,
-        "id_nuvemshop": 35705200
+        "id_nuvemshop": 35715062
       },
       {
         "id": "f0410",
@@ -9410,7 +9410,7 @@
           "Acessórios para Carros"
         ],
         "level": 1,
-        "id_nuvemshop": 35705202
+        "id_nuvemshop": 35715064
       },
       {
         "id": "f0437",
@@ -9427,7 +9427,7 @@
           "Galões, Jarras e Funis"
         ],
         "level": 1,
-        "id_nuvemshop": 35705203
+        "id_nuvemshop": 35715065
       },
       {
         "id": "f0440",
@@ -9444,7 +9444,7 @@
           "Funis"
         ],
         "level": 1,
-        "id_nuvemshop": 35705204
+        "id_nuvemshop": 35715066
       },
       {
         "id": "f0441",
@@ -9462,7 +9462,7 @@
           "Esticador Hidráulico"
         ],
         "level": 1,
-        "id_nuvemshop": 35705205
+        "id_nuvemshop": 35715068
       },
       {
         "id": "f0466",
@@ -9477,13 +9477,13 @@
           "Automotiva Bosch"
         ],
         "level": 1,
-        "id_nuvemshop": 35705207
+        "id_nuvemshop": 35715069
       }
     ],
     "path": [
       "Oficina Mecânica"
     ],
     "level": 0,
-    "id_nuvemshop": 35704933
+    "id_nuvemshop": 35714788
   }
 ]

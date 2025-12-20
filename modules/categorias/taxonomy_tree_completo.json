@@ -22,7 +22,7 @@
           "Trituradores"
         ],
         "level": 1,
-        "id_nuvemshop": 35704934,
+        "id_nuvemshop": 35714790,
         "id_magento": "365"
       },
       {
@@ -40,7 +40,7 @@
           "Motocultivadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35704936,
+        "id_nuvemshop": 35714791,
         "id_magento": "577"
       },
       {
@@ -59,7 +59,7 @@
           "Debulhador de Milho"
         ],
         "level": 1,
-        "id_nuvemshop": 35704937,
+        "id_nuvemshop": 35714793,
         "id_magento": "572"
       },
       {
@@ -78,7 +78,7 @@
           "Derriçador de Café"
         ],
         "level": 1,
-        "id_nuvemshop": 35704940,
+        "id_nuvemshop": 35714794,
         "id_magento": "573"
       },
       {
@@ -97,7 +97,7 @@
           "Engenhos"
         ],
         "level": 1,
-        "id_nuvemshop": 35704941,
+        "id_nuvemshop": 35714795,
         "id_magento": "522"
       },
       {
@@ -115,7 +115,7 @@
           "Ensiladeiras"
         ],
         "level": 1,
-        "id_nuvemshop": 35704942,
+        "id_nuvemshop": 35714796,
         "id_magento": "521"
       },
       {
@@ -134,7 +134,7 @@
           "Máquinas de Ralar"
         ],
         "level": 1,
-        "id_nuvemshop": 35704943,
+        "id_nuvemshop": 35714797,
         "id_magento": "576"
       },
       {
@@ -152,7 +152,7 @@
           "Sementes"
         ],
         "level": 1,
-        "id_nuvemshop": 35704944,
+        "id_nuvemshop": 35714798,
         "id_magento": "578"
       },
       {
@@ -168,7 +168,7 @@
           "Fertilizantes"
         ],
         "level": 1,
-        "id_nuvemshop": 35704945,
+        "id_nuvemshop": 35714799,
         "id_magento": "574"
       },
       {
@@ -187,7 +187,7 @@
           "Máquinas de Moer"
         ],
         "level": 1,
-        "id_nuvemshop": 35704946,
+        "id_nuvemshop": 35714800,
         "id_magento": "575"
       },
       {
@@ -205,7 +205,7 @@
           "Bateias"
         ],
         "level": 1,
-        "id_nuvemshop": 35704947,
+        "id_nuvemshop": 35714801,
         "id_magento": "571"
       }
     ],
@@ -213,7 +213,7 @@
       "Agro"
     ],
     "level": 0,
-    "id_nuvemshop": 35704920,
+    "id_nuvemshop": 35714776,
     "id_magento": ""
   },
   {
@@ -250,7 +250,7 @@
               "Ventiladores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705209,
+            "id_nuvemshop": 35715070,
             "id_magento": "791"
           },
           {
@@ -269,7 +269,7 @@
               "Climatizadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705210,
+            "id_nuvemshop": 35715072,
             "id_magento": "789"
           },
           {
@@ -288,7 +288,7 @@
               "Exaustores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705213,
+            "id_nuvemshop": 35715073,
             "id_magento": "790"
           }
         ],
@@ -297,7 +297,7 @@
           "Ventilação e Climatização"
         ],
         "level": 1,
-        "id_nuvemshop": 35704948,
+        "id_nuvemshop": 35714802,
         "id_magento": ""
       },
       {
@@ -325,7 +325,7 @@
               "Prateleiras e Cantoneiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705214,
+            "id_nuvemshop": 35715074,
             "id_magento": "112"
           },
           {
@@ -345,7 +345,7 @@
               "Containers de Lixo"
             ],
             "level": 2,
-            "id_nuvemshop": 35705215,
+            "id_nuvemshop": 35715075,
             "id_magento": "553"
           },
           {
@@ -364,7 +364,7 @@
               "Estantes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705216,
+            "id_nuvemshop": 35715076,
             "id_magento": "794"
           },
           {
@@ -383,7 +383,7 @@
               "Lixeiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705217,
+            "id_nuvemshop": 35715077,
             "id_magento": "796"
           },
           {
@@ -402,7 +402,7 @@
               "Gaveteiros e Caixas Organizadoras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705218,
+            "id_nuvemshop": 35715078,
             "id_magento": "795"
           },
           {
@@ -421,7 +421,7 @@
               "Cestos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705219,
+            "id_nuvemshop": 35715079,
             "id_magento": "793"
           },
           {
@@ -441,7 +441,7 @@
               "Painéis de Ferramentas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705220,
+            "id_nuvemshop": 35715081,
             "id_magento": "797"
           },
           {
@@ -460,7 +460,7 @@
               "Bandejas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705221,
+            "id_nuvemshop": 35715082,
             "id_magento": "792"
           }
         ],
@@ -469,7 +469,7 @@
           "Organização e Limpeza do Ambiente"
         ],
         "level": 1,
-        "id_nuvemshop": 35704949,
+        "id_nuvemshop": 35714803,
         "id_magento": ""
       },
       {
@@ -497,7 +497,7 @@
               "Grama Sintética"
             ],
             "level": 2,
-            "id_nuvemshop": 35705222,
+            "id_nuvemshop": 35715083,
             "id_magento": "385"
           },
           {
@@ -517,7 +517,7 @@
               "Enrolador de Mangueira"
             ],
             "level": 2,
-            "id_nuvemshop": 35705223,
+            "id_nuvemshop": 35715084,
             "id_magento": "801"
           },
           {
@@ -536,7 +536,7 @@
               "Pás para Jardinagem"
             ],
             "level": 2,
-            "id_nuvemshop": 35705224,
+            "id_nuvemshop": 35715088,
             "id_magento": "803"
           },
           {
@@ -557,7 +557,7 @@
               "Cultivadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705225,
+            "id_nuvemshop": 35715090,
             "id_magento": "800"
           },
           {
@@ -577,7 +577,7 @@
               "Irrigadores para Jardim"
             ],
             "level": 2,
-            "id_nuvemshop": 35705226,
+            "id_nuvemshop": 35715091,
             "id_magento": "802"
           },
           {
@@ -597,7 +597,7 @@
               "Ancinhos para Jardinagem"
             ],
             "level": 2,
-            "id_nuvemshop": 35705227,
+            "id_nuvemshop": 35715092,
             "id_magento": "798"
           },
           {
@@ -617,7 +617,7 @@
               "Cercas para Jardim"
             ],
             "level": 2,
-            "id_nuvemshop": 35705228,
+            "id_nuvemshop": 35715093,
             "id_magento": "799"
           },
           {
@@ -634,7 +634,7 @@
               "Temporizadores e Controladores de Irrigação"
             ],
             "level": 2,
-            "id_nuvemshop": 35705229,
+            "id_nuvemshop": 35715095,
             "id_magento": ""
           }
         ],
@@ -643,7 +643,7 @@
           "Utensílios para Jardinagem"
         ],
         "level": 1,
-        "id_nuvemshop": 35704950,
+        "id_nuvemshop": 35714804,
         "id_magento": ""
       },
       {
@@ -674,7 +674,7 @@
               "Chuveiros e Duchas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705230,
+            "id_nuvemshop": 35715096,
             "id_magento": "111"
           },
           {
@@ -694,7 +694,7 @@
               "Assentos Sanitários"
             ],
             "level": 2,
-            "id_nuvemshop": 35705231,
+            "id_nuvemshop": 35715097,
             "id_magento": "786"
           },
           {
@@ -713,7 +713,7 @@
               "Desentupidores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705232,
+            "id_nuvemshop": 35715098,
             "id_magento": "787"
           },
           {
@@ -730,7 +730,7 @@
               "Acessórios para Banheiro"
             ],
             "level": 2,
-            "id_nuvemshop": 35705233,
+            "id_nuvemshop": 35715099,
             "id_magento": "788"
           }
         ],
@@ -739,7 +739,7 @@
           "Utilidades para Banheiro"
         ],
         "level": 1,
-        "id_nuvemshop": 35704951,
+        "id_nuvemshop": 35714806,
         "id_magento": ""
       },
       {
@@ -758,7 +758,7 @@
           "Caixa de Correios"
         ],
         "level": 1,
-        "id_nuvemshop": 35704953,
+        "id_nuvemshop": 35714807,
         "id_magento": "115"
       },
       {
@@ -778,7 +778,7 @@
           "Churrasqueiras, Fogões e Fogareiros"
         ],
         "level": 1,
-        "id_nuvemshop": 35704955,
+        "id_nuvemshop": 35714808,
         "id_magento": "116"
       },
       {
@@ -808,7 +808,7 @@
           "Facas, Facões e Amoladores"
         ],
         "level": 1,
-        "id_nuvemshop": 35704957,
+        "id_nuvemshop": 35714809,
         "id_magento": "583"
       },
       {
@@ -827,7 +827,7 @@
           "Bolsas e Caixas Térmicas"
         ],
         "level": 1,
-        "id_nuvemshop": 35704959,
+        "id_nuvemshop": 35714810,
         "id_magento": "581"
       },
       {
@@ -846,7 +846,7 @@
           "Estações de Energia"
         ],
         "level": 1,
-        "id_nuvemshop": 35704961,
+        "id_nuvemshop": 35714811,
         "id_magento": "582"
       },
       {
@@ -864,7 +864,7 @@
           "Rodos"
         ],
         "level": 1,
-        "id_nuvemshop": 35704962,
+        "id_nuvemshop": 35714813,
         "id_magento": "783"
       },
       {
@@ -882,7 +882,7 @@
           "Varais"
         ],
         "level": 1,
-        "id_nuvemshop": 35704963,
+        "id_nuvemshop": 35714814,
         "id_magento": "785"
       },
       {
@@ -900,7 +900,7 @@
           "Tapetes"
         ],
         "level": 1,
-        "id_nuvemshop": 35704964,
+        "id_nuvemshop": 35714815,
         "id_magento": "784"
       },
       {
@@ -921,7 +921,7 @@
           "Garrafas e Copos Térmicos"
         ],
         "level": 1,
-        "id_nuvemshop": 35704965,
+        "id_nuvemshop": 35714817,
         "id_magento": "584"
       },
       {
@@ -939,7 +939,7 @@
           "Tratamento de Piscinas"
         ],
         "level": 1,
-        "id_nuvemshop": 35704966,
+        "id_nuvemshop": 35714818,
         "id_magento": "558"
       },
       {
@@ -957,7 +957,7 @@
           "Panelas"
         ],
         "level": 1,
-        "id_nuvemshop": 35704968,
+        "id_nuvemshop": 35714819,
         "id_magento": "585"
       },
       {
@@ -975,7 +975,7 @@
           "Antenas e Conversores"
         ],
         "level": 1,
-        "id_nuvemshop": 35704971,
+        "id_nuvemshop": 35714820,
         "id_magento": "580"
       },
       {
@@ -991,7 +991,7 @@
           "[excluir] Peneiras e Cloro para Piscinas"
         ],
         "level": 1,
-        "id_nuvemshop": 35704972,
+        "id_nuvemshop": 35714822,
         "id_magento": ""
       },
       {
@@ -1007,7 +1007,7 @@
           "Ferramentas de Limpeza"
         ],
         "level": 1,
-        "id_nuvemshop": 35704973,
+        "id_nuvemshop": 35714823,
         "id_magento": "782"
       }
     ],
@@ -1015,7 +1015,7 @@
       "Casa e Manutenção"
     ],
     "level": 0,
-    "id_nuvemshop": 35704921,
+    "id_nuvemshop": 35714777,
     "id_magento": ""
   },
   {
@@ -1045,7 +1045,7 @@
           "Botas e Calçados"
         ],
         "level": 1,
-        "id_nuvemshop": 35704974,
+        "id_nuvemshop": 35714824,
         "id_magento": "91"
       },
       {
@@ -1064,7 +1064,7 @@
           "Camisas, Coletes e Capas"
         ],
         "level": 1,
-        "id_nuvemshop": 35704975,
+        "id_nuvemshop": 35714825,
         "id_magento": "93"
       },
       {
@@ -1084,7 +1084,7 @@
           "Luvas de Proteção"
         ],
         "level": 1,
-        "id_nuvemshop": 35704976,
+        "id_nuvemshop": 35714826,
         "id_magento": "87"
       },
       {
@@ -1109,7 +1109,7 @@
           "Cintos e Cinturões"
         ],
         "level": 1,
-        "id_nuvemshop": 35704977,
+        "id_nuvemshop": 35714827,
         "id_magento": "680"
       },
       {
@@ -1128,7 +1128,7 @@
           "Capacetes, Toucas e Bonés"
         ],
         "level": 1,
-        "id_nuvemshop": 35704979,
+        "id_nuvemshop": 35714828,
         "id_magento": "83"
       },
       {
@@ -1148,7 +1148,7 @@
           "Máscaras e Protetores Faciais"
         ],
         "level": 1,
-        "id_nuvemshop": 35704980,
+        "id_nuvemshop": 35714829,
         "id_magento": "90"
       },
       {
@@ -1168,7 +1168,7 @@
           "Cremes e Protetores"
         ],
         "level": 1,
-        "id_nuvemshop": 35704981,
+        "id_nuvemshop": 35714830,
         "id_magento": "94"
       },
       {
@@ -1188,7 +1188,7 @@
           "Óculos e Viseiras de Proteção"
         ],
         "level": 1,
-        "id_nuvemshop": 35704982,
+        "id_nuvemshop": 35714831,
         "id_magento": "89"
       },
       {
@@ -1208,7 +1208,7 @@
           "Proteção Auricular"
         ],
         "level": 1,
-        "id_nuvemshop": 35704983,
+        "id_nuvemshop": 35714832,
         "id_magento": "86"
       },
       {
@@ -1226,7 +1226,7 @@
           "Jaquetas de Proteção"
         ],
         "level": 1,
-        "id_nuvemshop": 35704987,
+        "id_nuvemshop": 35714833,
         "id_magento": "683"
       },
       {
@@ -1244,7 +1244,7 @@
           "Cintas, Talabartes e Trava-Quedas"
         ],
         "level": 1,
-        "id_nuvemshop": 35704988,
+        "id_nuvemshop": 35714834,
         "id_magento": "85"
       },
       {
@@ -1262,7 +1262,7 @@
           "Repelentes"
         ],
         "level": 1,
-        "id_nuvemshop": 35704990,
+        "id_nuvemshop": 35714835,
         "id_magento": "684"
       },
       {
@@ -1282,7 +1282,7 @@
           "Higienie Pessoal"
         ],
         "level": 1,
-        "id_nuvemshop": 35704991,
+        "id_nuvemshop": 35714836,
         "id_magento": "682"
       },
       {
@@ -1300,7 +1300,7 @@
           "Calças e Macacões"
         ],
         "level": 1,
-        "id_nuvemshop": 35704992,
+        "id_nuvemshop": 35714837,
         "id_magento": "472"
       },
       {
@@ -1319,7 +1319,7 @@
           "Máscaras de Solda"
         ],
         "level": 1,
-        "id_nuvemshop": 35704993,
+        "id_nuvemshop": 35714839,
         "id_magento": "129"
       },
       {
@@ -1335,7 +1335,7 @@
           "Jalecos e Aventais"
         ],
         "level": 1,
-        "id_nuvemshop": 35704997,
+        "id_nuvemshop": 35714840,
         "id_magento": "84"
       },
       {
@@ -1351,7 +1351,7 @@
           "Conjuntos de Proteção"
         ],
         "level": 1,
-        "id_nuvemshop": 35704998,
+        "id_nuvemshop": 35714842,
         "id_magento": "681"
       }
     ],
@@ -1359,7 +1359,7 @@
       "EPIs"
     ],
     "level": 0,
-    "id_nuvemshop": 35704922,
+    "id_nuvemshop": 35714778,
     "id_magento": ""
   },
   {
@@ -1387,7 +1387,7 @@
           "Fechaduras e Maçanetas"
         ],
         "level": 1,
-        "id_nuvemshop": 35704999,
+        "id_nuvemshop": 35714843,
         "id_magento": "693"
       },
       {
@@ -1412,7 +1412,7 @@
           "Parafusos e Rebites"
         ],
         "level": 1,
-        "id_nuvemshop": 35705000,
+        "id_nuvemshop": 35714844,
         "id_magento": "700"
       },
       {
@@ -1433,7 +1433,7 @@
           "Porcas e Arruelas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705001,
+        "id_nuvemshop": 35714845,
         "id_magento": "703"
       },
       {
@@ -1455,7 +1455,7 @@
           "Buchas e Chumbadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705002,
+        "id_nuvemshop": 35714846,
         "id_magento": "687"
       },
       {
@@ -1482,7 +1482,7 @@
           "Sargentos, Pregos e Grampos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705003,
+        "id_nuvemshop": 35714847,
         "id_magento": "705"
       },
       {
@@ -1503,7 +1503,7 @@
           "Suportes e Ganchos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705004,
+        "id_nuvemshop": 35714849,
         "id_magento": "706"
       },
       {
@@ -1525,7 +1525,7 @@
           "Correntes, Cordas e Cintas de Amarração"
         ],
         "level": 1,
-        "id_nuvemshop": 35705006,
+        "id_nuvemshop": 35714851,
         "id_magento": "690"
       },
       {
@@ -1543,7 +1543,7 @@
           "Cadeados e Acessórios"
         ],
         "level": 1,
-        "id_nuvemshop": 35705009,
+        "id_nuvemshop": 35714852,
         "id_magento": "689"
       },
       {
@@ -1564,7 +1564,7 @@
           "Lonas e Lençóis de Borracha"
         ],
         "level": 1,
-        "id_nuvemshop": 35705011,
+        "id_nuvemshop": 35714853,
         "id_magento": "117"
       },
       {
@@ -1583,7 +1583,7 @@
           "Abraçadeiras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705014,
+        "id_nuvemshop": 35714854,
         "id_magento": "685"
       },
       {
@@ -1606,7 +1606,7 @@
           "Sinalização e Proteção"
         ],
         "level": 1,
-        "id_nuvemshop": 35705015,
+        "id_nuvemshop": 35714855,
         "id_magento": "88"
       },
       {
@@ -1627,7 +1627,7 @@
           "Cabos de Aço e Acessórios"
         ],
         "level": 1,
-        "id_nuvemshop": 35705016,
+        "id_nuvemshop": 35714856,
         "id_magento": "688"
       },
       {
@@ -1645,7 +1645,7 @@
           "Dobradiças"
         ],
         "level": 1,
-        "id_nuvemshop": 35705017,
+        "id_nuvemshop": 35714857,
         "id_magento": "691"
       },
       {
@@ -1663,7 +1663,7 @@
           "Grades"
         ],
         "level": 1,
-        "id_nuvemshop": 35705020,
+        "id_nuvemshop": 35714858,
         "id_magento": "699"
       },
       {
@@ -1683,7 +1683,7 @@
           "Fitas Diversas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705022,
+        "id_nuvemshop": 35714859,
         "id_magento": "697"
       },
       {
@@ -1699,7 +1699,7 @@
           "Espaçadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705024,
+        "id_nuvemshop": 35714865,
         "id_magento": "692"
       },
       {
@@ -1715,7 +1715,7 @@
           "Ferragens e Acessórios para Móveis"
         ],
         "level": 1,
-        "id_nuvemshop": 35705025,
+        "id_nuvemshop": 35714866,
         "id_magento": "694"
       },
       {
@@ -1734,7 +1734,7 @@
           "Mosquetões e Manilhas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705026,
+        "id_nuvemshop": 35714867,
         "id_magento": "698"
       },
       {
@@ -1753,7 +1753,7 @@
           "Protetor de Pontas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705028,
+        "id_nuvemshop": 35714868,
         "id_magento": "704"
       },
       {
@@ -1771,7 +1771,7 @@
           "Trilhos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705030,
+        "id_nuvemshop": 35714869,
         "id_magento": "707"
       },
       {
@@ -1790,7 +1790,7 @@
           "Polias e Roldanas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705031,
+        "id_nuvemshop": 35714870,
         "id_magento": "702"
       },
       {
@@ -1809,7 +1809,7 @@
           "Placas de Junção"
         ],
         "level": 1,
-        "id_nuvemshop": 35705033,
+        "id_nuvemshop": 35714871,
         "id_magento": "701"
       },
       {
@@ -1825,7 +1825,7 @@
           "Fios e Barbantes de Amarração"
         ],
         "level": 1,
-        "id_nuvemshop": 35705034,
+        "id_nuvemshop": 35714873,
         "id_magento": "696"
       },
       {
@@ -1844,7 +1844,7 @@
           "Barras Roscadas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705035,
+        "id_nuvemshop": 35714874,
         "id_magento": "686"
       },
       {
@@ -1862,7 +1862,7 @@
           "Filmes de Cobertura"
         ],
         "level": 1,
-        "id_nuvemshop": 35705036,
+        "id_nuvemshop": 35714875,
         "id_magento": "695"
       }
     ],
@@ -1870,7 +1870,7 @@
       "Ferragens, Fixação e Cobertura"
     ],
     "level": 0,
-    "id_nuvemshop": 35704923,
+    "id_nuvemshop": 35714779,
     "id_magento": ""
   },
   {
@@ -1920,7 +1920,7 @@
                   "Serras Circulares"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705544,
+                "id_nuvemshop": 35715358,
                 "id_magento": "818"
               },
               {
@@ -1943,7 +1943,7 @@
                   "Serras Sabre"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705545,
+                "id_nuvemshop": 35715360,
                 "id_magento": "824"
               },
               {
@@ -1966,7 +1966,7 @@
                   "Serras Policorte"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705546,
+                "id_nuvemshop": 35715361,
                 "id_magento": "823"
               },
               {
@@ -1989,7 +1989,7 @@
                   "Serras Fita"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705547,
+                "id_nuvemshop": 35715362,
                 "id_magento": "821"
               },
               {
@@ -2013,7 +2013,7 @@
                   "Serras Tico-Tico"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705549,
+                "id_nuvemshop": 35715363,
                 "id_magento": "825"
               },
               {
@@ -2036,7 +2036,7 @@
                   "Serras de Mesa"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705551,
+                "id_nuvemshop": 35715365,
                 "id_magento": "820"
               },
               {
@@ -2059,7 +2059,7 @@
                   "Serras Mármore"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705553,
+                "id_nuvemshop": 35715366,
                 "id_magento": "822"
               },
               {
@@ -2080,7 +2080,7 @@
                   "Serras de Broca"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705554,
+                "id_nuvemshop": 35715368,
                 "id_magento": "819"
               },
               {
@@ -2101,7 +2101,7 @@
                   "Mini Serras"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705556,
+                "id_nuvemshop": 35715369,
                 "id_magento": "816"
               },
               {
@@ -2121,7 +2121,7 @@
                   "Multicortadoras"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705557,
+                "id_nuvemshop": 35715370,
                 "id_magento": "817"
               }
             ],
@@ -2131,7 +2131,7 @@
               "Serras Elétricas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705234,
+            "id_nuvemshop": 35715100,
             "id_magento": ""
           },
           {
@@ -2168,7 +2168,7 @@
               "Chaves de Impacto"
             ],
             "level": 2,
-            "id_nuvemshop": 35705235,
+            "id_nuvemshop": 35715101,
             "id_magento": "270"
           },
           {
@@ -2205,7 +2205,7 @@
               "Esmerilhadeiras e Politrizes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705236,
+            "id_nuvemshop": 35715102,
             "id_magento": "265"
           },
           {
@@ -2243,7 +2243,7 @@
               "Furadeiras e Parafusadeiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705238,
+            "id_nuvemshop": 35715104,
             "id_magento": "195"
           },
           {
@@ -2273,7 +2273,7 @@
               "Lixadeiras Elétricas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705239,
+            "id_nuvemshop": 35715105,
             "id_magento": "269"
           },
           {
@@ -2305,7 +2305,7 @@
               "Marteletes Perfuradores e Rompedores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705240,
+            "id_nuvemshop": 35715106,
             "id_magento": "264"
           },
           {
@@ -2335,7 +2335,7 @@
               "Martelos Demolidores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705241,
+            "id_nuvemshop": 35715107,
             "id_magento": "530"
           },
           {
@@ -2369,7 +2369,7 @@
               "Micro Retífica e Multiferramenta"
             ],
             "level": 2,
-            "id_nuvemshop": 35705247,
+            "id_nuvemshop": 35715108,
             "id_magento": "275"
           },
           {
@@ -2398,7 +2398,7 @@
               "Plainas Elétricas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705248,
+            "id_nuvemshop": 35715110,
             "id_magento": "826"
           },
           {
@@ -2427,7 +2427,7 @@
               "Sopradores Térmicos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705249,
+            "id_nuvemshop": 35715111,
             "id_magento": "274"
           },
           {
@@ -2447,7 +2447,7 @@
               "Tesouras Elétricas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705250,
+            "id_nuvemshop": 35715112,
             "id_magento": "502"
           }
         ],
@@ -2456,7 +2456,7 @@
           "Ferramentas Elétricas e à Bateria"
         ],
         "level": 1,
-        "id_nuvemshop": 35705037,
+        "id_nuvemshop": 35714876,
         "id_magento": ""
       },
       {
@@ -2495,7 +2495,7 @@
               "Eletrodos e Carretéis"
             ],
             "level": 2,
-            "id_nuvemshop": 35705251,
+            "id_nuvemshop": 35715114,
             "id_magento": "134"
           },
           {
@@ -2520,7 +2520,7 @@
               "Acessórios para Solda"
             ],
             "level": 2,
-            "id_nuvemshop": 35705252,
+            "id_nuvemshop": 35715115,
             "id_magento": "131"
           },
           {
@@ -2547,7 +2547,7 @@
               "Máquinas de Solda"
             ],
             "level": 2,
-            "id_nuvemshop": 35705253,
+            "id_nuvemshop": 35715116,
             "id_magento": "128"
           },
           {
@@ -2568,7 +2568,7 @@
               "Acessórios para Oxiacetileno"
             ],
             "level": 2,
-            "id_nuvemshop": 35705254,
+            "id_nuvemshop": 35715117,
             "id_magento": "876"
           },
           {
@@ -2588,7 +2588,7 @@
               "Arames de Solda"
             ],
             "level": 2,
-            "id_nuvemshop": 35705256,
+            "id_nuvemshop": 35715118,
             "id_magento": "133"
           },
           {
@@ -2609,7 +2609,7 @@
               "Tochas e Bicos de Contato"
             ],
             "level": 2,
-            "id_nuvemshop": 35705257,
+            "id_nuvemshop": 35715120,
             "id_magento": "130"
           },
           {
@@ -2631,7 +2631,7 @@
               "Ferros de Solda"
             ],
             "level": 2,
-            "id_nuvemshop": 35705258,
+            "id_nuvemshop": 35715121,
             "id_magento": ""
           }
         ],
@@ -2640,7 +2640,7 @@
           "Máquinas de Solda e Consumíveis"
         ],
         "level": 1,
-        "id_nuvemshop": 35705038,
+        "id_nuvemshop": 35714877,
         "id_magento": ""
       },
       {
@@ -2691,7 +2691,7 @@
                   "Misturadores de Tinta e Argamassa"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705558,
+                "id_nuvemshop": 35715371,
                 "id_magento": "854"
               },
               {
@@ -2712,7 +2712,7 @@
                   "Pistolas para Pintura"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705559,
+                "id_nuvemshop": 35715372,
                 "id_magento": "855"
               },
               {
@@ -2743,7 +2743,7 @@
                   "Acessórios para Pisos"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705560,
+                "id_nuvemshop": 35715373,
                 "id_magento": "851"
               },
               {
@@ -2769,7 +2769,7 @@
                   "Cortadoras de Piso"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705561,
+                "id_nuvemshop": 35715375,
                 "id_magento": "395"
               },
               {
@@ -2790,7 +2790,7 @@
                   "Alinhador de Monobloco"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705563,
+                "id_nuvemshop": 35715376,
                 "id_magento": "852"
               },
               {
@@ -2811,7 +2811,7 @@
                   "Máquinas de Pintura"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705564,
+                "id_nuvemshop": 35715377,
                 "id_magento": "147"
               },
               {
@@ -2833,7 +2833,7 @@
                   "Máquinas de Assentar Piso"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705566,
+                "id_nuvemshop": 35715379,
                 "id_magento": "853"
               },
               {
@@ -2856,7 +2856,7 @@
                   "Pincéis, Broxas e Rolos para Pintura"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705567,
+                "id_nuvemshop": 35715380,
                 "id_magento": "417"
               },
               {
@@ -2876,7 +2876,7 @@
                   "Ventosas para Piso"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705568,
+                "id_nuvemshop": 35715381,
                 "id_magento": "856"
               }
             ],
@@ -2886,7 +2886,7 @@
               "Piso, Pintura e Acabamento"
             ],
             "level": 2,
-            "id_nuvemshop": 35705259,
+            "id_nuvemshop": 35715122,
             "id_magento": ""
           },
           {
@@ -2936,7 +2936,7 @@
               "Cabos e Forcados"
             ],
             "level": 2,
-            "id_nuvemshop": 35705260,
+            "id_nuvemshop": 35715123,
             "id_magento": "837"
           },
           {
@@ -2958,7 +2958,7 @@
               "Desempenadeiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705261,
+            "id_nuvemshop": 35715124,
             "id_magento": "411"
           },
           {
@@ -2980,7 +2980,7 @@
               "Espátulas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705262,
+            "id_nuvemshop": 35715125,
             "id_magento": "427"
           },
           {
@@ -3003,7 +3003,7 @@
               "Machados e Foices"
             ],
             "level": 2,
-            "id_nuvemshop": 35705263,
+            "id_nuvemshop": 35715126,
             "id_magento": "842"
           },
           {
@@ -3030,7 +3030,7 @@
               "Pás e Enxadas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705265,
+            "id_nuvemshop": 35715127,
             "id_magento": "844"
           },
           {
@@ -3055,7 +3055,7 @@
               "Réguas e Peneiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705266,
+            "id_nuvemshop": 35715128,
             "id_magento": "849"
           },
           {
@@ -3077,7 +3077,7 @@
               "Talhas e Guinchos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705267,
+            "id_nuvemshop": 35715129,
             "id_magento": "850"
           },
           {
@@ -3096,7 +3096,7 @@
               "Betoneiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705268,
+            "id_nuvemshop": 35715131,
             "id_magento": "390"
           },
           {
@@ -3122,7 +3122,7 @@
               "Baldes e Masseiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705270,
+            "id_nuvemshop": 35715132,
             "id_magento": "415"
           },
           {
@@ -3142,7 +3142,7 @@
               "Carrinhos de Mão"
             ],
             "level": 2,
-            "id_nuvemshop": 35705271,
+            "id_nuvemshop": 35715133,
             "id_magento": "838"
           },
           {
@@ -3163,7 +3163,7 @@
               "Cavaletes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705272,
+            "id_nuvemshop": 35715134,
             "id_magento": "839"
           },
           {
@@ -3184,7 +3184,7 @@
               "Pé de Cabra, Barras e Alavancas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705273,
+            "id_nuvemshop": 35715135,
             "id_magento": "845"
           },
           {
@@ -3204,7 +3204,7 @@
               "Perfuradores de Solo"
             ],
             "level": 2,
-            "id_nuvemshop": 35705274,
+            "id_nuvemshop": 35715136,
             "id_magento": "846"
           },
           {
@@ -3224,7 +3224,7 @@
               "Prumos e Colheres"
             ],
             "level": 2,
-            "id_nuvemshop": 35705275,
+            "id_nuvemshop": 35715137,
             "id_magento": "429"
           },
           {
@@ -3245,7 +3245,7 @@
               "Vibradores de Concreto e Imersão"
             ],
             "level": 2,
-            "id_nuvemshop": 35705276,
+            "id_nuvemshop": 35715138,
             "id_magento": "403"
           },
           {
@@ -3266,7 +3266,7 @@
               "Escadas Extensíveis e Profissionais"
             ],
             "level": 2,
-            "id_nuvemshop": 35705278,
+            "id_nuvemshop": 35715139,
             "id_magento": "113"
           },
           {
@@ -3286,7 +3286,7 @@
               "Alisadora de Concreto"
             ],
             "level": 2,
-            "id_nuvemshop": 35705279,
+            "id_nuvemshop": 35715140,
             "id_magento": "414"
           },
           {
@@ -3307,7 +3307,7 @@
               "Compactadores de Solo"
             ],
             "level": 2,
-            "id_nuvemshop": 35705280,
+            "id_nuvemshop": 35715141,
             "id_magento": "841"
           },
           {
@@ -3328,7 +3328,7 @@
               "Máquinas para Cortar Vergalhão"
             ],
             "level": 2,
-            "id_nuvemshop": 35705281,
+            "id_nuvemshop": 35715142,
             "id_magento": "843"
           },
           {
@@ -3348,7 +3348,7 @@
               "Placas Vibratórias"
             ],
             "level": 2,
-            "id_nuvemshop": 35705282,
+            "id_nuvemshop": 35715143,
             "id_magento": "848"
           },
           {
@@ -3368,7 +3368,7 @@
               "Picaretas e Cavadeiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705283,
+            "id_nuvemshop": 35715144,
             "id_magento": "847"
           },
           {
@@ -3385,7 +3385,7 @@
               "Chapas e Chaves de Dobrar Ferro"
             ],
             "level": 2,
-            "id_nuvemshop": 35705284,
+            "id_nuvemshop": 35715145,
             "id_magento": "840"
           },
           {
@@ -3402,7 +3402,7 @@
               "Linhas e Marcadores para Pedreiro"
             ],
             "level": 2,
-            "id_nuvemshop": 35705285,
+            "id_nuvemshop": 35715146,
             "id_magento": "421"
           }
         ],
@@ -3411,7 +3411,7 @@
           "Ferramentas Para Construção"
         ],
         "level": 1,
-        "id_nuvemshop": 35705039,
+        "id_nuvemshop": 35714878,
         "id_magento": ""
       },
       {
@@ -3439,7 +3439,7 @@
               "Conexões e Acessórios de Compressor"
             ],
             "level": 2,
-            "id_nuvemshop": 35705286,
+            "id_nuvemshop": 35715148,
             "id_magento": "878"
           },
           {
@@ -3458,7 +3458,7 @@
               "Compressores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705287,
+            "id_nuvemshop": 35715149,
             "id_magento": "67"
           },
           {
@@ -3477,7 +3477,7 @@
               "Geradores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705289,
+            "id_nuvemshop": 35715150,
             "id_magento": "66"
           },
           {
@@ -3496,7 +3496,7 @@
               "Motores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705292,
+            "id_nuvemshop": 35715151,
             "id_magento": "69"
           },
           {
@@ -3516,7 +3516,7 @@
               "Prensas Hidráulicas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705293,
+            "id_nuvemshop": 35715152,
             "id_magento": "533"
           },
           {
@@ -3536,7 +3536,7 @@
               "Motor de Popa"
             ],
             "level": 2,
-            "id_nuvemshop": 35705294,
+            "id_nuvemshop": 35715153,
             "id_magento": "879"
           },
           {
@@ -3556,7 +3556,7 @@
               "Máquina Recicladora"
             ],
             "level": 2,
-            "id_nuvemshop": 35705297,
+            "id_nuvemshop": 35715154,
             "id_magento": "877"
           }
         ],
@@ -3565,7 +3565,7 @@
           "Máquinas Elétricas e Equipamentos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705040,
+        "id_nuvemshop": 35714879,
         "id_magento": ""
       },
       {
@@ -3597,7 +3597,7 @@
               "Chaves de Impacto Pneumáticas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705299,
+            "id_nuvemshop": 35715155,
             "id_magento": "308"
           },
           {
@@ -3617,7 +3617,7 @@
               "Parafusadeiras Pneumáticas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705300,
+            "id_nuvemshop": 35715156,
             "id_magento": "321"
           },
           {
@@ -3637,7 +3637,7 @@
               "Esmerilhadeiras Pneumáticas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705301,
+            "id_nuvemshop": 35715157,
             "id_magento": "324"
           },
           {
@@ -3657,7 +3657,7 @@
               "Lixadeiras Pneumáticas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705302,
+            "id_nuvemshop": 35715158,
             "id_magento": "313"
           }
         ],
@@ -3666,7 +3666,7 @@
           "Ferramentas Pneumáticas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705041,
+        "id_nuvemshop": 35714880,
         "id_magento": ""
       },
       {
@@ -3697,7 +3697,7 @@
               "Alicates"
             ],
             "level": 2,
-            "id_nuvemshop": 35705303,
+            "id_nuvemshop": 35715159,
             "id_magento": "209"
           },
           {
@@ -3725,7 +3725,7 @@
               "Chaves Allen e Torx"
             ],
             "level": 2,
-            "id_nuvemshop": 35705304,
+            "id_nuvemshop": 35715160,
             "id_magento": "224"
           },
           {
@@ -3750,7 +3750,7 @@
               "Chaves Combinadas e Catracadas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705305,
+            "id_nuvemshop": 35715161,
             "id_magento": "215"
           },
           {
@@ -3773,7 +3773,7 @@
               "Chaves de Fenda e Philips"
             ],
             "level": 2,
-            "id_nuvemshop": 35705306,
+            "id_nuvemshop": 35715162,
             "id_magento": "214"
           },
           {
@@ -3796,7 +3796,7 @@
               "Chaves Fixas e Estrelas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705308,
+            "id_nuvemshop": 35715163,
             "id_magento": "249"
           },
           {
@@ -3820,7 +3820,7 @@
               "Chaves Inglesas e Grifo"
             ],
             "level": 2,
-            "id_nuvemshop": 35705309,
+            "id_nuvemshop": 35715164,
             "id_magento": "565"
           },
           {
@@ -3843,7 +3843,7 @@
               "Chaves Philips"
             ],
             "level": 2,
-            "id_nuvemshop": 35705311,
+            "id_nuvemshop": 35715165,
             "id_magento": ""
           },
           {
@@ -3881,7 +3881,7 @@
               "Estiletes, Canivetes e Lâminas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705312,
+            "id_nuvemshop": 35715166,
             "id_magento": "409"
           },
           {
@@ -3904,7 +3904,7 @@
               "Formões e Limas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705313,
+            "id_nuvemshop": 35715168,
             "id_magento": "830"
           },
           {
@@ -3934,7 +3934,7 @@
               "Martelos e Marretas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705314,
+            "id_nuvemshop": 35715169,
             "id_magento": "223"
           },
           {
@@ -3961,7 +3961,7 @@
               "Tornos e Morsas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705315,
+            "id_nuvemshop": 35715170,
             "id_magento": "104"
           },
           {
@@ -4033,7 +4033,7 @@
               "Serras e Serrotes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705317,
+            "id_nuvemshop": 35715171,
             "id_magento": "834"
           },
           {
@@ -4056,7 +4056,7 @@
               "Soquetes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705328,
+            "id_nuvemshop": 35715172,
             "id_magento": "217"
           },
           {
@@ -4083,7 +4083,7 @@
               "Tesouras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705329,
+            "id_nuvemshop": 35715173,
             "id_magento": "836"
           },
           {
@@ -4103,7 +4103,7 @@
               "Chaves de Roda"
             ],
             "level": 2,
-            "id_nuvemshop": 35705330,
+            "id_nuvemshop": 35715174,
             "id_magento": "828"
           },
           {
@@ -4123,7 +4123,7 @@
               "Chaves Canhão"
             ],
             "level": 2,
-            "id_nuvemshop": 35705331,
+            "id_nuvemshop": 35715175,
             "id_magento": "230"
           },
           {
@@ -4144,7 +4144,7 @@
               "Chaves L e Biela"
             ],
             "level": 2,
-            "id_nuvemshop": 35705332,
+            "id_nuvemshop": 35715176,
             "id_magento": "219"
           },
           {
@@ -4164,7 +4164,7 @@
               "Chaves Meia-Lua"
             ],
             "level": 2,
-            "id_nuvemshop": 35705333,
+            "id_nuvemshop": 35715177,
             "id_magento": ""
           },
           {
@@ -4181,7 +4181,7 @@
               "Arco de Pua e Acessórios"
             ],
             "level": 2,
-            "id_nuvemshop": 35705334,
+            "id_nuvemshop": 35715179,
             "id_magento": "827"
           },
           {
@@ -4201,7 +4201,7 @@
               "Jogo de Ferramentas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705335,
+            "id_nuvemshop": 35715180,
             "id_magento": "68"
           },
           {
@@ -4218,7 +4218,7 @@
               "Lixadeira Manual"
             ],
             "level": 2,
-            "id_nuvemshop": 35705336,
+            "id_nuvemshop": 35715181,
             "id_magento": "832"
           },
           {
@@ -4235,7 +4235,7 @@
               "Chaves Especiais"
             ],
             "level": 2,
-            "id_nuvemshop": 35705337,
+            "id_nuvemshop": 35715182,
             "id_magento": "258"
           },
           {
@@ -4252,7 +4252,7 @@
               "Jogo de Chaves"
             ],
             "level": 2,
-            "id_nuvemshop": 35705338,
+            "id_nuvemshop": 35715183,
             "id_magento": "515"
           },
           {
@@ -4272,7 +4272,7 @@
               "Tassos, Cunhas e Punções"
             ],
             "level": 2,
-            "id_nuvemshop": 35705339,
+            "id_nuvemshop": 35715184,
             "id_magento": "835"
           },
           {
@@ -4292,7 +4292,7 @@
               "Furadeiras de Peito"
             ],
             "level": 2,
-            "id_nuvemshop": 35705340,
+            "id_nuvemshop": 35715185,
             "id_magento": "831"
           },
           {
@@ -4311,7 +4311,7 @@
               "Pegadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705341,
+            "id_nuvemshop": 35715186,
             "id_magento": "833"
           }
         ],
@@ -4320,7 +4320,7 @@
           "Ferramentas Manuais Gerais"
         ],
         "level": 1,
-        "id_nuvemshop": 35705042,
+        "id_nuvemshop": 35714881,
         "id_magento": ""
       },
       {
@@ -4348,7 +4348,7 @@
               "Furadeiras de Bancada"
             ],
             "level": 2,
-            "id_nuvemshop": 35705342,
+            "id_nuvemshop": 35715188,
             "id_magento": "781"
           },
           {
@@ -4368,7 +4368,7 @@
               "Moto Esmeris"
             ],
             "level": 2,
-            "id_nuvemshop": 35705344,
+            "id_nuvemshop": 35715189,
             "id_magento": "271"
           }
         ],
@@ -4377,7 +4377,7 @@
           "Ferramentas de Oficina"
         ],
         "level": 1,
-        "id_nuvemshop": 35705043,
+        "id_nuvemshop": 35714882,
         "id_magento": ""
       },
       {
@@ -4407,7 +4407,7 @@
               "Brocas e Kits"
             ],
             "level": 2,
-            "id_nuvemshop": 35705345,
+            "id_nuvemshop": 35715190,
             "id_magento": "881"
           },
           {
@@ -4427,7 +4427,7 @@
               "Serras Copo"
             ],
             "level": 2,
-            "id_nuvemshop": 35705346,
+            "id_nuvemshop": 35715191,
             "id_magento": "780"
           },
           {
@@ -4447,7 +4447,7 @@
               "Discos Diamantados"
             ],
             "level": 2,
-            "id_nuvemshop": 35705347,
+            "id_nuvemshop": 35715192,
             "id_magento": "764"
           },
           {
@@ -4467,7 +4467,7 @@
               "Discos de Corte"
             ],
             "level": 2,
-            "id_nuvemshop": 35705349,
+            "id_nuvemshop": 35715193,
             "id_magento": "762"
           },
           {
@@ -4487,7 +4487,7 @@
               "Folhas de Lixa"
             ],
             "level": 2,
-            "id_nuvemshop": 35705350,
+            "id_nuvemshop": 35715194,
             "id_magento": "139"
           },
           {
@@ -4515,7 +4515,7 @@
               "Baterias e Carregadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705351,
+            "id_nuvemshop": 35715196,
             "id_magento": "593"
           },
           {
@@ -4535,7 +4535,7 @@
               "Escovas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705354,
+            "id_nuvemshop": 35715197,
             "id_magento": "767"
           },
           {
@@ -4557,7 +4557,7 @@
               "Discos para Serras Circulares"
             ],
             "level": 2,
-            "id_nuvemshop": 35705356,
+            "id_nuvemshop": 35715200,
             "id_magento": "766"
           },
           {
@@ -4577,7 +4577,7 @@
               "Ponteiros e Talhadeiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705357,
+            "id_nuvemshop": 35715201,
             "id_magento": "777"
           },
           {
@@ -4599,7 +4599,7 @@
               "Discos de Desbaste e Acabamento"
             ],
             "level": 2,
-            "id_nuvemshop": 35705358,
+            "id_nuvemshop": 35715202,
             "id_magento": "136"
           },
           {
@@ -4620,7 +4620,7 @@
               "Discos de Borracha e Boinas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705359,
+            "id_nuvemshop": 35715203,
             "id_magento": "628"
           },
           {
@@ -4642,7 +4642,7 @@
               "Lâminas, Correntes e Facas para Ferramentas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705360,
+            "id_nuvemshop": 35715204,
             "id_magento": "772"
           },
           {
@@ -4662,7 +4662,7 @@
               "Discos Flap"
             ],
             "level": 2,
-            "id_nuvemshop": 35705361,
+            "id_nuvemshop": 35715205,
             "id_magento": "765"
           },
           {
@@ -4681,7 +4681,7 @@
               "Mandris e Acessórios"
             ],
             "level": 2,
-            "id_nuvemshop": 35705362,
+            "id_nuvemshop": 35715206,
             "id_magento": "773"
           },
           {
@@ -4707,7 +4707,7 @@
               "Químicos de Manutenção"
             ],
             "level": 2,
-            "id_nuvemshop": 35705364,
+            "id_nuvemshop": 35715207,
             "id_magento": "106"
           },
           {
@@ -4726,7 +4726,7 @@
               "Rebolos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705365,
+            "id_nuvemshop": 35715209,
             "id_magento": "778"
           },
           {
@@ -4745,7 +4745,7 @@
               "Fresas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705366,
+            "id_nuvemshop": 35715210,
             "id_magento": "138"
           },
           {
@@ -4766,7 +4766,7 @@
               "Fios de Corte"
             ],
             "level": 2,
-            "id_nuvemshop": 35705367,
+            "id_nuvemshop": 35715211,
             "id_magento": "769"
           },
           {
@@ -4785,7 +4785,7 @@
               "Cremalheiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705369,
+            "id_nuvemshop": 35715212,
             "id_magento": "627"
           },
           {
@@ -4805,7 +4805,7 @@
               "Rodas de Lixa"
             ],
             "level": 2,
-            "id_nuvemshop": 35705373,
+            "id_nuvemshop": 35715213,
             "id_magento": "779"
           },
           {
@@ -4825,7 +4825,7 @@
               "Pontas e Bits"
             ],
             "level": 2,
-            "id_nuvemshop": 35705375,
+            "id_nuvemshop": 35715214,
             "id_magento": "775"
           },
           {
@@ -4845,7 +4845,7 @@
               "Cintas de Lixa"
             ],
             "level": 2,
-            "id_nuvemshop": 35705376,
+            "id_nuvemshop": 35715215,
             "id_magento": "626"
           },
           {
@@ -4862,7 +4862,7 @@
               "Pontas para Micro Retífica"
             ],
             "level": 2,
-            "id_nuvemshop": 35705377,
+            "id_nuvemshop": 35715216,
             "id_magento": "776"
           },
           {
@@ -4883,7 +4883,7 @@
               "Mantas e Espumas Abrasivas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705378,
+            "id_nuvemshop": 35715217,
             "id_magento": "774"
           },
           {
@@ -4903,7 +4903,7 @@
               "Filtros de Ar"
             ],
             "level": 2,
-            "id_nuvemshop": 35705379,
+            "id_nuvemshop": 35715218,
             "id_magento": "768"
           }
         ],
@@ -4912,7 +4912,7 @@
           "Consumíveis para Ferramentas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705044,
+        "id_nuvemshop": 35714887,
         "id_magento": ""
       },
       {
@@ -4956,7 +4956,7 @@
                   "Rodas e Rodízios"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705569,
+                "id_nuvemshop": 35715382,
                 "id_magento": "511"
               },
               {
@@ -4984,7 +4984,7 @@
                   "Carrinhos"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705570,
+                "id_nuvemshop": 35715384,
                 "id_magento": "621"
               },
               {
@@ -5005,7 +5005,7 @@
                   "Pneus e Câmaras"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705571,
+                "id_nuvemshop": 35715386,
                 "id_magento": "622"
               },
               {
@@ -5026,7 +5026,7 @@
                   "Transpallets e Empilhadeiras"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705572,
+                "id_nuvemshop": 35715387,
                 "id_magento": "624"
               },
               {
@@ -5047,7 +5047,7 @@
                   "Carretinhas"
                 ],
                 "level": 3,
-                "id_nuvemshop": 35705573,
+                "id_nuvemshop": 35715388,
                 "id_magento": "620"
               }
             ],
@@ -5057,7 +5057,7 @@
               "Carrinhos de Carga e Rodas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705381,
+            "id_nuvemshop": 35715219,
             "id_magento": ""
           },
           {
@@ -5078,7 +5078,7 @@
               "Caixas de Ferramentas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705383,
+            "id_nuvemshop": 35715220,
             "id_magento": "211"
           },
           {
@@ -5101,7 +5101,7 @@
               "Bolsas e Mochilas para Ferramentas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705384,
+            "id_nuvemshop": 35715221,
             "id_magento": "92"
           },
           {
@@ -5121,7 +5121,7 @@
               "Baú de Ferramentas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705386,
+            "id_nuvemshop": 35715222,
             "id_magento": "616"
           }
         ],
@@ -5130,7 +5130,7 @@
           "Armazenagem e Transporte"
         ],
         "level": 1,
-        "id_nuvemshop": 35705045,
+        "id_nuvemshop": 35714888,
         "id_magento": ""
       },
       {
@@ -5172,7 +5172,7 @@
               "Tupias e Plainas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705387,
+            "id_nuvemshop": 35715223,
             "id_magento": "267"
           },
           {
@@ -5199,7 +5199,7 @@
               "Rebitadeiras e Grampeadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705390,
+            "id_nuvemshop": 35715224,
             "id_magento": "811"
           },
           {
@@ -5219,7 +5219,7 @@
               "Tarrachas e Cossinetes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705392,
+            "id_nuvemshop": 35715225,
             "id_magento": "813"
           },
           {
@@ -5241,7 +5241,7 @@
               "Tesouras e Cortadores de Tubos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705393,
+            "id_nuvemshop": 35715226,
             "id_magento": "815"
           },
           {
@@ -5261,7 +5261,7 @@
               "Finca Pinos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705396,
+            "id_nuvemshop": 35715227,
             "id_magento": "807"
           },
           {
@@ -5281,7 +5281,7 @@
               "Alargadores e Flangeadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705398,
+            "id_nuvemshop": 35715228,
             "id_magento": "805"
           },
           {
@@ -5302,7 +5302,7 @@
               "Cortador de Pedra e Ferro"
             ],
             "level": 2,
-            "id_nuvemshop": 35705400,
+            "id_nuvemshop": 35715229,
             "id_magento": "806"
           },
           {
@@ -5322,7 +5322,7 @@
               "Cortadora de Parede"
             ],
             "level": 2,
-            "id_nuvemshop": 35705401,
+            "id_nuvemshop": 35715230,
             "id_magento": ""
           },
           {
@@ -5342,7 +5342,7 @@
               "Sacadores e Extratores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705403,
+            "id_nuvemshop": 35715231,
             "id_magento": "812"
           },
           {
@@ -5362,7 +5362,7 @@
               "Pistolas de Ar e Jateamento"
             ],
             "level": 2,
-            "id_nuvemshop": 35705404,
+            "id_nuvemshop": 35715232,
             "id_magento": "809"
           },
           {
@@ -5382,7 +5382,7 @@
               "Pistolas de Calafetagem"
             ],
             "level": 2,
-            "id_nuvemshop": 35705407,
+            "id_nuvemshop": 35715233,
             "id_magento": "810"
           },
           {
@@ -5401,7 +5401,7 @@
               "Termofusores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705408,
+            "id_nuvemshop": 35715234,
             "id_magento": "814"
           },
           {
@@ -5418,7 +5418,7 @@
               "Abafador de Incêndio"
             ],
             "level": 2,
-            "id_nuvemshop": 35705409,
+            "id_nuvemshop": 35715236,
             "id_magento": "804"
           },
           {
@@ -5435,7 +5435,7 @@
               "Gravadores Elétricos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705410,
+            "id_nuvemshop": 35715237,
             "id_magento": "808"
           }
         ],
@@ -5444,7 +5444,7 @@
           "Ferramentas do Especialista"
         ],
         "level": 1,
-        "id_nuvemshop": 35705046,
+        "id_nuvemshop": 35714889,
         "id_magento": ""
       },
       {
@@ -5485,7 +5485,7 @@
               "Trenas e Níveis a Laser"
             ],
             "level": 2,
-            "id_nuvemshop": 35705411,
+            "id_nuvemshop": 35715238,
             "id_magento": "874"
           },
           {
@@ -5505,7 +5505,7 @@
               "Escalas de Aço"
             ],
             "level": 2,
-            "id_nuvemshop": 35705412,
+            "id_nuvemshop": 35715239,
             "id_magento": "868"
           },
           {
@@ -5525,7 +5525,7 @@
               "Multímetros e Detectores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705413,
+            "id_nuvemshop": 35715240,
             "id_magento": "303"
           },
           {
@@ -5545,7 +5545,7 @@
               "Equipamentos de Precisão"
             ],
             "level": 2,
-            "id_nuvemshop": 35705415,
+            "id_nuvemshop": 35715241,
             "id_magento": "867"
           },
           {
@@ -5564,7 +5564,7 @@
               "Esquadros"
             ],
             "level": 2,
-            "id_nuvemshop": 35705416,
+            "id_nuvemshop": 35715242,
             "id_magento": "870"
           },
           {
@@ -5583,7 +5583,7 @@
               "Níveis"
             ],
             "level": 2,
-            "id_nuvemshop": 35705417,
+            "id_nuvemshop": 35715243,
             "id_magento": ""
           },
           {
@@ -5602,7 +5602,7 @@
               "Trenas e Níveis"
             ],
             "level": 2,
-            "id_nuvemshop": 35705418,
+            "id_nuvemshop": 35715245,
             "id_magento": "398"
           },
           {
@@ -5622,7 +5622,7 @@
               "Alicates Amperímetro"
             ],
             "level": 2,
-            "id_nuvemshop": 35705420,
+            "id_nuvemshop": 35715246,
             "id_magento": "442"
           },
           {
@@ -5641,7 +5641,7 @@
               "Anemômetro"
             ],
             "level": 2,
-            "id_nuvemshop": 35705421,
+            "id_nuvemshop": 35715247,
             "id_magento": "863"
           },
           {
@@ -5660,7 +5660,7 @@
               "Balanças"
             ],
             "level": 2,
-            "id_nuvemshop": 35705422,
+            "id_nuvemshop": 35715248,
             "id_magento": "864"
           },
           {
@@ -5680,7 +5680,7 @@
               "Câmeras Térmicas e de Inspeção"
             ],
             "level": 2,
-            "id_nuvemshop": 35705425,
+            "id_nuvemshop": 35715249,
             "id_magento": "866"
           },
           {
@@ -5699,7 +5699,7 @@
               "Termômetros"
             ],
             "level": 2,
-            "id_nuvemshop": 35705426,
+            "id_nuvemshop": 35715250,
             "id_magento": "304"
           },
           {
@@ -5719,7 +5719,7 @@
               "Instrumentos de Teste"
             ],
             "level": 2,
-            "id_nuvemshop": 35705427,
+            "id_nuvemshop": 35715253,
             "id_magento": "871"
           },
           {
@@ -5740,7 +5740,7 @@
               "Rodas de Medição de Distância"
             ],
             "level": 2,
-            "id_nuvemshop": 35705429,
+            "id_nuvemshop": 35715254,
             "id_magento": "873"
           },
           {
@@ -5760,7 +5760,7 @@
               "Réguas de Medição"
             ],
             "level": 2,
-            "id_nuvemshop": 35705430,
+            "id_nuvemshop": 35715255,
             "id_magento": "872"
           },
           {
@@ -5777,7 +5777,7 @@
               "Acessórios para Instrumentos de Medição"
             ],
             "level": 2,
-            "id_nuvemshop": 35705432,
+            "id_nuvemshop": 35715256,
             "id_magento": "862"
           },
           {
@@ -5794,7 +5794,7 @@
               "Trilhos e Guias"
             ],
             "level": 2,
-            "id_nuvemshop": 35705433,
+            "id_nuvemshop": 35715257,
             "id_magento": "875"
           },
           {
@@ -5814,7 +5814,7 @@
               "Calibradores de Folga"
             ],
             "level": 2,
-            "id_nuvemshop": 35705435,
+            "id_nuvemshop": 35715258,
             "id_magento": "865"
           },
           {
@@ -5833,7 +5833,7 @@
               "Megômetros"
             ],
             "level": 2,
-            "id_nuvemshop": 35705436,
+            "id_nuvemshop": 35715259,
             "id_magento": ""
           }
         ],
@@ -5842,7 +5842,7 @@
           "Instrumentos de Medição e Precisão"
         ],
         "level": 1,
-        "id_nuvemshop": 35705047,
+        "id_nuvemshop": 35714890,
         "id_magento": ""
       },
       {
@@ -5867,7 +5867,7 @@
               "Lavadoras e Aspiradores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705437,
+            "id_nuvemshop": 35715260,
             "id_magento": ""
           },
           {
@@ -5889,7 +5889,7 @@
               "Cortadores de Grama"
             ],
             "level": 2,
-            "id_nuvemshop": 35705438,
+            "id_nuvemshop": 35715262,
             "id_magento": "203"
           },
           {
@@ -5908,7 +5908,7 @@
               "Lavadoras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705439,
+            "id_nuvemshop": 35715263,
             "id_magento": "335"
           },
           {
@@ -5927,7 +5927,7 @@
               "Aspiradores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705440,
+            "id_nuvemshop": 35715265,
             "id_magento": "123"
           },
           {
@@ -5949,7 +5949,7 @@
               "Motosserras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705441,
+            "id_nuvemshop": 35715266,
             "id_magento": "366"
           },
           {
@@ -5968,7 +5968,7 @@
               "Aparadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705443,
+            "id_nuvemshop": 35715267,
             "id_magento": "857"
           },
           {
@@ -5987,7 +5987,7 @@
               "Pulverizadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705444,
+            "id_nuvemshop": 35715269,
             "id_magento": "374"
           },
           {
@@ -6006,7 +6006,7 @@
               "Roçadeiras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705445,
+            "id_nuvemshop": 35715272,
             "id_magento": "368"
           },
           {
@@ -6025,7 +6025,7 @@
               "Sopradores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705446,
+            "id_nuvemshop": 35715275,
             "id_magento": "276"
           },
           {
@@ -6048,7 +6048,7 @@
               "Rastelos e Vassouras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705449,
+            "id_nuvemshop": 35715276,
             "id_magento": "859"
           },
           {
@@ -6070,7 +6070,7 @@
               "Cortador de Galhos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705451,
+            "id_nuvemshop": 35715277,
             "id_magento": "858"
           },
           {
@@ -6090,7 +6090,7 @@
               "Motopodas e Podadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705452,
+            "id_nuvemshop": 35715278,
             "id_magento": "532"
           },
           {
@@ -6109,7 +6109,7 @@
               "Sachos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705453,
+            "id_nuvemshop": 35715279,
             "id_magento": "860"
           },
           {
@@ -6129,7 +6129,7 @@
               "Tesouras de Poda"
             ],
             "level": 2,
-            "id_nuvemshop": 35705454,
+            "id_nuvemshop": 35715281,
             "id_magento": "861"
           },
           {
@@ -6148,7 +6148,7 @@
               "Varredoras"
             ],
             "level": 2,
-            "id_nuvemshop": 35705455,
+            "id_nuvemshop": 35715282,
             "id_magento": "540"
           }
         ],
@@ -6157,7 +6157,7 @@
           "Ferramentas para Exteriores e Limpeza"
         ],
         "level": 1,
-        "id_nuvemshop": 35705048,
+        "id_nuvemshop": 35714891,
         "id_magento": ""
       }
     ],
@@ -6165,7 +6165,7 @@
       "Ferramentas e Máquinas"
     ],
     "level": 0,
-    "id_nuvemshop": 35704925,
+    "id_nuvemshop": 35714781,
     "id_magento": ""
   },
   {
@@ -6192,7 +6192,7 @@
           "Fitas e Painéis de LED"
         ],
         "level": 1,
-        "id_nuvemshop": 35705051,
+        "id_nuvemshop": 35714892,
         "id_magento": "710"
       },
       {
@@ -6210,7 +6210,7 @@
           "Plafons"
         ],
         "level": 1,
-        "id_nuvemshop": 35705053,
+        "id_nuvemshop": 35714893,
         "id_magento": "715"
       },
       {
@@ -6228,7 +6228,7 @@
           "Lâmpadas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705056,
+        "id_nuvemshop": 35714894,
         "id_magento": "711"
       },
       {
@@ -6246,7 +6246,7 @@
           "Luminárias"
         ],
         "level": 1,
-        "id_nuvemshop": 35705057,
+        "id_nuvemshop": 35714895,
         "id_magento": "713"
       },
       {
@@ -6264,7 +6264,7 @@
           "Spots"
         ],
         "level": 1,
-        "id_nuvemshop": 35705058,
+        "id_nuvemshop": 35714897,
         "id_magento": "717"
       },
       {
@@ -6282,7 +6282,7 @@
           "Refletores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705059,
+        "id_nuvemshop": 35714898,
         "id_magento": "716"
       },
       {
@@ -6303,7 +6303,7 @@
           "Tartarugas e Balizadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705060,
+        "id_nuvemshop": 35714899,
         "id_magento": "718"
       },
       {
@@ -6321,7 +6321,7 @@
           "Arandelas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705061,
+        "id_nuvemshop": 35714903,
         "id_magento": "708"
       },
       {
@@ -6339,7 +6339,7 @@
           "Pendentes"
         ],
         "level": 1,
-        "id_nuvemshop": 35705062,
+        "id_nuvemshop": 35714904,
         "id_magento": "714"
       },
       {
@@ -6357,7 +6357,7 @@
           "Lanternas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705063,
+        "id_nuvemshop": 35714906,
         "id_magento": "712"
       },
       {
@@ -6373,7 +6373,7 @@
           "Bocais"
         ],
         "level": 1,
-        "id_nuvemshop": 35705064,
+        "id_nuvemshop": 35714907,
         "id_magento": "709"
       }
     ],
@@ -6381,7 +6381,7 @@
       "Iluminação"
     ],
     "level": 0,
-    "id_nuvemshop": 35704926,
+    "id_nuvemshop": 35714782,
     "id_magento": ""
   },
   {
@@ -6417,7 +6417,7 @@
               "Telas para Cerca"
             ],
             "level": 2,
-            "id_nuvemshop": 35705456,
+            "id_nuvemshop": 35715283,
             "id_magento": "731"
           },
           {
@@ -6437,7 +6437,7 @@
               "Telas Tapume"
             ],
             "level": 2,
-            "id_nuvemshop": 35705457,
+            "id_nuvemshop": 35715284,
             "id_magento": "732"
           },
           {
@@ -6457,7 +6457,7 @@
               "Telas de Sinalização"
             ],
             "level": 2,
-            "id_nuvemshop": 35705458,
+            "id_nuvemshop": 35715285,
             "id_magento": "724"
           },
           {
@@ -6477,7 +6477,7 @@
               "Telas Mosquiteiro"
             ],
             "level": 2,
-            "id_nuvemshop": 35705459,
+            "id_nuvemshop": 35715286,
             "id_magento": "730"
           },
           {
@@ -6497,7 +6497,7 @@
               "Telas de Sombreamento"
             ],
             "level": 2,
-            "id_nuvemshop": 35705460,
+            "id_nuvemshop": 35715287,
             "id_magento": "728"
           },
           {
@@ -6517,7 +6517,7 @@
               "Telas Estruturantes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705462,
+            "id_nuvemshop": 35715288,
             "id_magento": "729"
           }
         ],
@@ -6526,7 +6526,7 @@
           "Telas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705065,
+        "id_nuvemshop": 35714908,
         "id_magento": ""
       },
       {
@@ -6549,7 +6549,7 @@
           "Arames e Cordoalhas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705066,
+        "id_nuvemshop": 35714909,
         "id_magento": "719"
       },
       {
@@ -6565,7 +6565,7 @@
           "Estrutura Metálica"
         ],
         "level": 1,
-        "id_nuvemshop": 35705067,
+        "id_nuvemshop": 35714910,
         "id_magento": "720"
       },
       {
@@ -6584,7 +6584,7 @@
           "Mantas Térmicas e Asfálticas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705068,
+        "id_nuvemshop": 35714916,
         "id_magento": "721"
       },
       {
@@ -6604,7 +6604,7 @@
           "Perfis de Borracha e Limitadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705069,
+        "id_nuvemshop": 35714917,
         "id_magento": "722"
       }
     ],
@@ -6612,7 +6612,7 @@
       "Materiais de Construção"
     ],
     "level": 0,
-    "id_nuvemshop": 35704928,
+    "id_nuvemshop": 35714783,
     "id_magento": ""
   },
   {
@@ -6648,7 +6648,7 @@
               "Cabos Flexíveis"
             ],
             "level": 2,
-            "id_nuvemshop": 35705463,
+            "id_nuvemshop": 35715289,
             "id_magento": "646"
           },
           {
@@ -6668,7 +6668,7 @@
               "Cabos Atox"
             ],
             "level": 2,
-            "id_nuvemshop": 35705464,
+            "id_nuvemshop": 35715290,
             "id_magento": "644"
           },
           {
@@ -6689,7 +6689,7 @@
               "Cabos PP e Múltiplos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705465,
+            "id_nuvemshop": 35715291,
             "id_magento": "649"
           },
           {
@@ -6708,7 +6708,7 @@
               "Eletrofitas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705466,
+            "id_nuvemshop": 35715292,
             "id_magento": "651"
           },
           {
@@ -6728,7 +6728,7 @@
               "Cabos Paralelos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705467,
+            "id_nuvemshop": 35715294,
             "id_magento": "648"
           },
           {
@@ -6748,7 +6748,7 @@
               "Cobre Nu"
             ],
             "level": 2,
-            "id_nuvemshop": 35705469,
+            "id_nuvemshop": 35715295,
             "id_magento": "650"
           },
           {
@@ -6768,7 +6768,7 @@
               "Cabos com Plugue"
             ],
             "level": 2,
-            "id_nuvemshop": 35705470,
+            "id_nuvemshop": 35715296,
             "id_magento": "645"
           },
           {
@@ -6788,7 +6788,7 @@
               "Cabos Para Energia Solar"
             ],
             "level": 2,
-            "id_nuvemshop": 35705471,
+            "id_nuvemshop": 35715297,
             "id_magento": "647"
           },
           {
@@ -6808,7 +6808,7 @@
               "Alças Preformadas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705472,
+            "id_nuvemshop": 35715298,
             "id_magento": "643"
           }
         ],
@@ -6817,7 +6817,7 @@
           "Fios e Cabos Elétricos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705070,
+        "id_nuvemshop": 35714918,
         "id_magento": ""
       },
       {
@@ -6847,7 +6847,7 @@
               "Eletrodutos e Conexões"
             ],
             "level": 2,
-            "id_nuvemshop": 35705473,
+            "id_nuvemshop": 35715300,
             "id_magento": "656"
           },
           {
@@ -6866,7 +6866,7 @@
               "Conduletes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705474,
+            "id_nuvemshop": 35715301,
             "id_magento": "655"
           },
           {
@@ -6890,7 +6890,7 @@
               "Caixinhas de Embutir"
             ],
             "level": 2,
-            "id_nuvemshop": 35705475,
+            "id_nuvemshop": 35715302,
             "id_magento": "653"
           },
           {
@@ -6909,7 +6909,7 @@
               "Canaletas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705476,
+            "id_nuvemshop": 35715303,
             "id_magento": "654"
           }
         ],
@@ -6918,7 +6918,7 @@
           "Infraestrutura Elétrica"
         ],
         "level": 1,
-        "id_nuvemshop": 35705071,
+        "id_nuvemshop": 35714919,
         "id_magento": ""
       },
       {
@@ -6947,7 +6947,7 @@
               "Botões e Sinalizadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705477,
+            "id_nuvemshop": 35715304,
             "id_magento": "669"
           },
           {
@@ -6971,7 +6971,7 @@
               "Chaves Comutadoras e de Partida"
             ],
             "level": 2,
-            "id_nuvemshop": 35705478,
+            "id_nuvemshop": 35715305,
             "id_magento": "670"
           },
           {
@@ -6990,7 +6990,7 @@
               "Relés"
             ],
             "level": 2,
-            "id_nuvemshop": 35705480,
+            "id_nuvemshop": 35715306,
             "id_magento": "673"
           },
           {
@@ -7009,7 +7009,7 @@
               "Contatores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705483,
+            "id_nuvemshop": 35715309,
             "id_magento": "671"
           },
           {
@@ -7028,7 +7028,7 @@
               "Fusíveis"
             ],
             "level": 2,
-            "id_nuvemshop": 35705484,
+            "id_nuvemshop": 35715310,
             "id_magento": "672"
           },
           {
@@ -7050,7 +7050,7 @@
               "Aterramento"
             ],
             "level": 2,
-            "id_nuvemshop": 35705487,
+            "id_nuvemshop": 35715311,
             "id_magento": "668"
           },
           {
@@ -7069,7 +7069,7 @@
               "Disjuntores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705489,
+            "id_nuvemshop": 35715312,
             "id_magento": "676"
           }
         ],
@@ -7078,7 +7078,7 @@
           "Proteção Elétrica"
         ],
         "level": 1,
-        "id_nuvemshop": 35705072,
+        "id_nuvemshop": 35714921,
         "id_magento": ""
       },
       {
@@ -7105,7 +7105,7 @@
               "Terminais"
             ],
             "level": 2,
-            "id_nuvemshop": 35705490,
+            "id_nuvemshop": 35715313,
             "id_magento": "636"
           },
           {
@@ -7125,7 +7125,7 @@
               "Fitas Isolantes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705491,
+            "id_nuvemshop": 35715314,
             "id_magento": "631"
           },
           {
@@ -7145,7 +7145,7 @@
               "Passa Fio"
             ],
             "level": 2,
-            "id_nuvemshop": 35705492,
+            "id_nuvemshop": 35715315,
             "id_magento": "634"
           },
           {
@@ -7167,7 +7167,7 @@
               "Fixa Fios e Organizadores para Cabo"
             ],
             "level": 2,
-            "id_nuvemshop": 35705495,
+            "id_nuvemshop": 35715317,
             "id_magento": "632"
           },
           {
@@ -7187,7 +7187,7 @@
               "Prensa Cabos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705498,
+            "id_nuvemshop": 35715318,
             "id_magento": "635"
           },
           {
@@ -7207,7 +7207,7 @@
               "Identificador de Cabos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705499,
+            "id_nuvemshop": 35715319,
             "id_magento": "633"
           },
           {
@@ -7226,7 +7226,7 @@
               "Espaguetes Isolantes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705507,
+            "id_nuvemshop": 35715320,
             "id_magento": "630"
           }
         ],
@@ -7235,7 +7235,7 @@
           "Acessórios para Cabos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705073,
+        "id_nuvemshop": 35714922,
         "id_magento": ""
       },
       {
@@ -7267,7 +7267,7 @@
               "Plugues e Tomadas Móveis"
             ],
             "level": 2,
-            "id_nuvemshop": 35705508,
+            "id_nuvemshop": 35715321,
             "id_magento": "661"
           },
           {
@@ -7287,7 +7287,7 @@
               "Extensões e Multi Tomadas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705509,
+            "id_nuvemshop": 35715322,
             "id_magento": "659"
           },
           {
@@ -7307,7 +7307,7 @@
               "Filtros de Linha e Protetores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705512,
+            "id_nuvemshop": 35715327,
             "id_magento": "660"
           },
           {
@@ -7329,7 +7329,7 @@
               "Adaptadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705513,
+            "id_nuvemshop": 35715328,
             "id_magento": "658"
           },
           {
@@ -7348,7 +7348,7 @@
               "Transformadores e Autotransformadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705514,
+            "id_nuvemshop": 35715330,
             "id_magento": "662"
           }
         ],
@@ -7357,7 +7357,7 @@
           "Plugues, Adaptadores, Extensões e Filtros de Linha"
         ],
         "level": 1,
-        "id_nuvemshop": 35705074,
+        "id_nuvemshop": 35714924,
         "id_magento": ""
       },
       {
@@ -7385,7 +7385,7 @@
               "Sensores de Presença"
             ],
             "level": 2,
-            "id_nuvemshop": 35705515,
+            "id_nuvemshop": 35715331,
             "id_magento": "641"
           },
           {
@@ -7405,7 +7405,7 @@
               "Relés Fotoelétricos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705516,
+            "id_nuvemshop": 35715332,
             "id_magento": "640"
           },
           {
@@ -7424,7 +7424,7 @@
               "Minuterias"
             ],
             "level": 2,
-            "id_nuvemshop": 35705518,
+            "id_nuvemshop": 35715333,
             "id_magento": "639"
           },
           {
@@ -7443,7 +7443,7 @@
               "Dimmers"
             ],
             "level": 2,
-            "id_nuvemshop": 35705519,
+            "id_nuvemshop": 35715334,
             "id_magento": "638"
           }
         ],
@@ -7452,7 +7452,7 @@
           "Dimmers e Sensores de Presença"
         ],
         "level": 1,
-        "id_nuvemshop": 35705075,
+        "id_nuvemshop": 35714925,
         "id_magento": ""
       },
       {
@@ -7480,7 +7480,7 @@
               "Tomadas Industriais"
             ],
             "level": 2,
-            "id_nuvemshop": 35705521,
+            "id_nuvemshop": 35715335,
             "id_magento": "666"
           },
           {
@@ -7500,7 +7500,7 @@
               "Plugues Industriais"
             ],
             "level": 2,
-            "id_nuvemshop": 35705522,
+            "id_nuvemshop": 35715336,
             "id_magento": "665"
           },
           {
@@ -7520,7 +7520,7 @@
               "Acoplamentos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705523,
+            "id_nuvemshop": 35715337,
             "id_magento": "891"
           }
         ],
@@ -7529,7 +7529,7 @@
           "Plugues, Tomadas Industriais e Acoplamentos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705076,
+        "id_nuvemshop": 35714927,
         "id_magento": ""
       },
       {
@@ -7551,7 +7551,7 @@
           "Interruptores e Tomadas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705077,
+        "id_nuvemshop": 35714928,
         "id_magento": "677"
       },
       {
@@ -7578,7 +7578,7 @@
           "Caixas, Painéis e Quadros de Comando"
         ],
         "level": 1,
-        "id_nuvemshop": 35705078,
+        "id_nuvemshop": 35714929,
         "id_magento": "527"
       },
       {
@@ -7599,7 +7599,7 @@
           "Pilhas e Baterias"
         ],
         "level": 1,
-        "id_nuvemshop": 35705079,
+        "id_nuvemshop": 35714930,
         "id_magento": "556"
       },
       {
@@ -7620,7 +7620,7 @@
           "Painéis Solares"
         ],
         "level": 1,
-        "id_nuvemshop": 35705080,
+        "id_nuvemshop": 35714931,
         "id_magento": "119"
       },
       {
@@ -7641,7 +7641,7 @@
           "Inversores de Tensão e Frequência"
         ],
         "level": 1,
-        "id_nuvemshop": 35705081,
+        "id_nuvemshop": 35714932,
         "id_magento": "538"
       },
       {
@@ -7659,7 +7659,7 @@
           "Conectores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705082,
+        "id_nuvemshop": 35714933,
         "id_magento": "674"
       },
       {
@@ -7677,7 +7677,7 @@
           "Componentes Elétricos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705083,
+        "id_nuvemshop": 35714934,
         "id_magento": "485"
       },
       {
@@ -7696,7 +7696,7 @@
           "Controladores de Carga"
         ],
         "level": 1,
-        "id_nuvemshop": 35705084,
+        "id_nuvemshop": 35714935,
         "id_magento": "675"
       }
     ],
@@ -7704,7 +7704,7 @@
       "Materiais Elétricos"
     ],
     "level": 0,
-    "id_nuvemshop": 35704929,
+    "id_nuvemshop": 35714784,
     "id_magento": ""
   },
   {
@@ -7741,7 +7741,7 @@
               "Extintores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705524,
+            "id_nuvemshop": 35715339,
             "id_magento": "741"
           },
           {
@@ -7760,7 +7760,7 @@
               "Hidrantes e Acessórios"
             ],
             "level": 2,
-            "id_nuvemshop": 35705525,
+            "id_nuvemshop": 35715340,
             "id_magento": "742"
           },
           {
@@ -7779,7 +7779,7 @@
               "Sprinklers"
             ],
             "level": 2,
-            "id_nuvemshop": 35705526,
+            "id_nuvemshop": 35715342,
             "id_magento": "743"
           }
         ],
@@ -7788,7 +7788,7 @@
           "Combate a Incêndio"
         ],
         "level": 1,
-        "id_nuvemshop": 35705085,
+        "id_nuvemshop": 35714936,
         "id_magento": ""
       },
       {
@@ -7824,7 +7824,7 @@
               "Caixas D'Água e Tanques"
             ],
             "level": 2,
-            "id_nuvemshop": 35705527,
+            "id_nuvemshop": 35715343,
             "id_magento": "79"
           },
           {
@@ -7843,7 +7843,7 @@
               "Torneiras Boia"
             ],
             "level": 2,
-            "id_nuvemshop": 35705528,
+            "id_nuvemshop": 35715344,
             "id_magento": "738"
           },
           {
@@ -7862,7 +7862,7 @@
               "Cisternas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705529,
+            "id_nuvemshop": 35715345,
             "id_magento": "736"
           },
           {
@@ -7884,7 +7884,7 @@
               "Biodigestores e Fossas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705530,
+            "id_nuvemshop": 35715346,
             "id_magento": "554"
           },
           {
@@ -7901,7 +7901,7 @@
               "Ralos e Caixas Sifonadas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705531,
+            "id_nuvemshop": 35715347,
             "id_magento": "737"
           }
         ],
@@ -7910,7 +7910,7 @@
           "Reservatórios"
         ],
         "level": 1,
-        "id_nuvemshop": 35705086,
+        "id_nuvemshop": 35714937,
         "id_magento": ""
       },
       {
@@ -7957,7 +7957,7 @@
               "Bombas, Bombeadores e Motobombas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705535,
+            "id_nuvemshop": 35715348,
             "id_magento": "80"
           },
           {
@@ -7976,7 +7976,7 @@
               "Pressurizadores"
             ],
             "level": 2,
-            "id_nuvemshop": 35705536,
+            "id_nuvemshop": 35715350,
             "id_magento": "545"
           },
           {
@@ -8001,7 +8001,7 @@
               "Acessórios para Bombas"
             ],
             "level": 2,
-            "id_nuvemshop": 35705537,
+            "id_nuvemshop": 35715351,
             "id_magento": "81"
           }
         ],
@@ -8010,7 +8010,7 @@
           "Bombas Hidráulicas e para Fluidos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705087,
+        "id_nuvemshop": 35714938,
         "id_magento": ""
       },
       {
@@ -8033,7 +8033,7 @@
           "Tubos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705091,
+        "id_nuvemshop": 35714939,
         "id_magento": "77"
       },
       {
@@ -8052,7 +8052,7 @@
           "Aquecedores de Água"
         ],
         "level": 1,
-        "id_nuvemshop": 35705092,
+        "id_nuvemshop": 35714940,
         "id_magento": "733"
       },
       {
@@ -8074,7 +8074,7 @@
           "Mangueiras em Geral"
         ],
         "level": 1,
-        "id_nuvemshop": 35705093,
+        "id_nuvemshop": 35714941,
         "id_magento": "76"
       },
       {
@@ -8094,7 +8094,7 @@
           "Torneiras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705094,
+        "id_nuvemshop": 35714942,
         "id_magento": "744"
       },
       {
@@ -8112,7 +8112,7 @@
           "Aspersores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705095,
+        "id_nuvemshop": 35714944,
         "id_magento": "517"
       },
       {
@@ -8136,7 +8136,7 @@
           "Controle e Automação"
         ],
         "level": 1,
-        "id_nuvemshop": 35705096,
+        "id_nuvemshop": 35714945,
         "id_magento": "734"
       },
       {
@@ -8159,7 +8159,7 @@
           "Filtros"
         ],
         "level": 1,
-        "id_nuvemshop": 35705097,
+        "id_nuvemshop": 35714946,
         "id_magento": "746"
       },
       {
@@ -8177,7 +8177,7 @@
           "Válvulas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705100,
+        "id_nuvemshop": 35714947,
         "id_magento": "751"
       },
       {
@@ -8231,7 +8231,7 @@
           "Conexões e Acessórios"
         ],
         "level": 1,
-        "id_nuvemshop": 35705102,
+        "id_nuvemshop": 35714948,
         "id_magento": "75"
       },
       {
@@ -8249,7 +8249,7 @@
           "Tampas e Tampões"
         ],
         "level": 1,
-        "id_nuvemshop": 35705103,
+        "id_nuvemshop": 35714949,
         "id_magento": "750"
       },
       {
@@ -8267,7 +8267,7 @@
           "Gotejadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705104,
+        "id_nuvemshop": 35714950,
         "id_magento": "747"
       },
       {
@@ -8285,7 +8285,7 @@
           "Reguladores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705105,
+        "id_nuvemshop": 35714951,
         "id_magento": "749"
       },
       {
@@ -8303,7 +8303,7 @@
           "Esguichos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705106,
+        "id_nuvemshop": 35714952,
         "id_magento": "745"
       },
       {
@@ -8321,7 +8321,7 @@
           "Microtubos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705107,
+        "id_nuvemshop": 35714953,
         "id_magento": "748"
       }
     ],
@@ -8329,7 +8329,7 @@
       "Materiais Hidráulicos e Pneumáticos"
     ],
     "level": 0,
-    "id_nuvemshop": 35704930,
+    "id_nuvemshop": 35714785,
     "id_magento": ""
   },
   {
@@ -8357,7 +8357,7 @@
           "Vernizes"
         ],
         "level": 1,
-        "id_nuvemshop": 35705108,
+        "id_nuvemshop": 35714954,
         "id_magento": "145"
       },
       {
@@ -8376,7 +8376,7 @@
           "Tintas Spray"
         ],
         "level": 1,
-        "id_nuvemshop": 35705109,
+        "id_nuvemshop": 35714955,
         "id_magento": "143"
       },
       {
@@ -8397,7 +8397,7 @@
           "Thinners e Removedores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705110,
+        "id_nuvemshop": 35714956,
         "id_magento": "144"
       },
       {
@@ -8417,7 +8417,7 @@
           "Tintas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705111,
+        "id_nuvemshop": 35714957,
         "id_magento": "489"
       },
       {
@@ -8445,7 +8445,7 @@
           "Vedantes, Impermeabilizantes e Aditivos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705112,
+        "id_nuvemshop": 35714958,
         "id_magento": "206"
       },
       {
@@ -8464,7 +8464,7 @@
           "Colas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705113,
+        "id_nuvemshop": 35714959,
         "id_magento": "753"
       },
       {
@@ -8482,7 +8482,7 @@
           "Vaselinas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705114,
+        "id_nuvemshop": 35714960,
         "id_magento": "760"
       },
       {
@@ -8500,7 +8500,7 @@
           "Silicones e Espumas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705115,
+        "id_nuvemshop": 35714961,
         "id_magento": "759"
       },
       {
@@ -8520,7 +8520,7 @@
           "Adesivos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705116,
+        "id_nuvemshop": 35714962,
         "id_magento": "752"
       },
       {
@@ -8538,7 +8538,7 @@
           "Corantes"
         ],
         "level": 1,
-        "id_nuvemshop": 35705117,
+        "id_nuvemshop": 35714963,
         "id_magento": "754"
       },
       {
@@ -8556,7 +8556,7 @@
           "Grafite"
         ],
         "level": 1,
-        "id_nuvemshop": 35705118,
+        "id_nuvemshop": 35714964,
         "id_magento": "756"
       },
       {
@@ -8574,7 +8574,7 @@
           "Esmaltes e Selantes"
         ],
         "level": 1,
-        "id_nuvemshop": 35705119,
+        "id_nuvemshop": 35714965,
         "id_magento": "755"
       },
       {
@@ -8592,7 +8592,7 @@
           "Primers e Soluções Preparadoras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705120,
+        "id_nuvemshop": 35714967,
         "id_magento": "758"
       },
       {
@@ -8612,7 +8612,7 @@
           "Massas Plásticas e de Calafetagem"
         ],
         "level": 1,
-        "id_nuvemshop": 35705121,
+        "id_nuvemshop": 35714968,
         "id_magento": "757"
       }
     ],
@@ -8620,7 +8620,7 @@
       "Tintas, Adesivos e Compostos Químicos"
     ],
     "level": 0,
-    "id_nuvemshop": 35704931,
+    "id_nuvemshop": 35714786,
     "id_magento": ""
   },
   {
@@ -8648,7 +8648,7 @@
           "Correias Automotivas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705122,
+        "id_nuvemshop": 35714969,
         "id_magento": "897"
       },
       {
@@ -8672,7 +8672,7 @@
           "Correias Industriais"
         ],
         "level": 1,
-        "id_nuvemshop": 35705123,
+        "id_nuvemshop": 35714970,
         "id_magento": "898"
       },
       {
@@ -8691,7 +8691,7 @@
           "Correias Laminadas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705124,
+        "id_nuvemshop": 35714971,
         "id_magento": "899"
       },
       {
@@ -8710,7 +8710,7 @@
           "Rolamentos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705127,
+        "id_nuvemshop": 35714972,
         "id_magento": "924"
       },
       {
@@ -8728,7 +8728,7 @@
           "Reparos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705128,
+        "id_nuvemshop": 35714974,
         "id_magento": "922"
       },
       {
@@ -8747,7 +8747,7 @@
           "Induzidos e Estatores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705129,
+        "id_nuvemshop": 35714977,
         "id_magento": "905"
       },
       {
@@ -8766,7 +8766,7 @@
           "Acessórios para Trituradores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705130,
+        "id_nuvemshop": 35714978,
         "id_magento": "889"
       },
       {
@@ -8782,7 +8782,7 @@
           "Acessórios para Betoneira"
         ],
         "level": 1,
-        "id_nuvemshop": 35705131,
+        "id_nuvemshop": 35714979,
         "id_magento": "880"
       },
       {
@@ -8798,7 +8798,7 @@
           "Peças para Betoneira"
         ],
         "level": 1,
-        "id_nuvemshop": 35705132,
+        "id_nuvemshop": 35714980,
         "id_magento": "909"
       },
       {
@@ -8814,7 +8814,7 @@
           "Eixos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705133,
+        "id_nuvemshop": 35714981,
         "id_magento": "900"
       },
       {
@@ -8830,7 +8830,7 @@
           "Interruptores para Ferramentas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705134,
+        "id_nuvemshop": 35714982,
         "id_magento": "906"
       },
       {
@@ -8846,7 +8846,7 @@
           "Anéis para Ferramentas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705135,
+        "id_nuvemshop": 35714984,
         "id_magento": "892"
       },
       {
@@ -8865,7 +8865,7 @@
           "Acessórios para Furadeiras e Parafusadeiras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705136,
+        "id_nuvemshop": 35714985,
         "id_magento": "882"
       },
       {
@@ -8883,7 +8883,7 @@
           "Engrenagens"
         ],
         "level": 1,
-        "id_nuvemshop": 35705137,
+        "id_nuvemshop": 35714986,
         "id_magento": "901"
       },
       {
@@ -8899,7 +8899,7 @@
           "Acessórios para Lavadoras, Aspiradores e Sopradores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705138,
+        "id_nuvemshop": 35714987,
         "id_magento": "883"
       },
       {
@@ -8915,7 +8915,7 @@
           "Porcas e Arruelas para Ferramentas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705139,
+        "id_nuvemshop": 35714989,
         "id_magento": "919"
       },
       {
@@ -8931,7 +8931,7 @@
           "Ganchos para Talhas e Guinchos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705141,
+        "id_nuvemshop": 35714990,
         "id_magento": "903"
       },
       {
@@ -8949,7 +8949,7 @@
           "Capas e Carcaças"
         ],
         "level": 1,
-        "id_nuvemshop": 35705142,
+        "id_nuvemshop": 35714993,
         "id_magento": "895"
       },
       {
@@ -8965,7 +8965,7 @@
           "Parafusos para Ferramentas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705143,
+        "id_nuvemshop": 35714994,
         "id_magento": "908"
       },
       {
@@ -8984,7 +8984,7 @@
           "Juntas e Cabeçotes"
         ],
         "level": 1,
-        "id_nuvemshop": 35705144,
+        "id_nuvemshop": 35714995,
         "id_magento": "907"
       },
       {
@@ -9002,7 +9002,7 @@
           "Sabres para Serra"
         ],
         "level": 1,
-        "id_nuvemshop": 35705145,
+        "id_nuvemshop": 35714996,
         "id_magento": "925"
       },
       {
@@ -9020,7 +9020,7 @@
           "Flanges para Ferramentas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705146,
+        "id_nuvemshop": 35714997,
         "id_magento": "902"
       },
       {
@@ -9036,7 +9036,7 @@
           "Punhos e Cabos para Ferramentas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705147,
+        "id_nuvemshop": 35714998,
         "id_magento": "921"
       },
       {
@@ -9055,7 +9055,7 @@
           "Protetor de Cabos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705148,
+        "id_nuvemshop": 35714999,
         "id_magento": "920"
       },
       {
@@ -9073,7 +9073,7 @@
           "Acoplamentos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705149,
+        "id_nuvemshop": 35715001,
         "id_magento": "891"
       },
       {
@@ -9091,7 +9091,7 @@
           "Chapas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705150,
+        "id_nuvemshop": 35715002,
         "id_magento": "896"
       },
       {
@@ -9107,7 +9107,7 @@
           "Acessórios para Serras Elétricas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705151,
+        "id_nuvemshop": 35715003,
         "id_magento": "888"
       },
       {
@@ -9126,7 +9126,7 @@
           "Buchas e Mancais"
         ],
         "level": 1,
-        "id_nuvemshop": 35705152,
+        "id_nuvemshop": 35715006,
         "id_magento": "894"
       },
       {
@@ -9142,7 +9142,7 @@
           "Peças para Furadeiras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705153,
+        "id_nuvemshop": 35715007,
         "id_magento": "912"
       },
       {
@@ -9158,7 +9158,7 @@
           "Acessórios para Motosserra"
         ],
         "level": 1,
-        "id_nuvemshop": 35705155,
+        "id_nuvemshop": 35715008,
         "id_magento": "887"
       },
       {
@@ -9174,7 +9174,7 @@
           "Peças para Bomba"
         ],
         "level": 1,
-        "id_nuvemshop": 35705156,
+        "id_nuvemshop": 35715009,
         "id_magento": "910"
       },
       {
@@ -9192,7 +9192,7 @@
           "Retentores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705157,
+        "id_nuvemshop": 35715010,
         "id_magento": "923"
       },
       {
@@ -9210,7 +9210,7 @@
           "Gaxetas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705158,
+        "id_nuvemshop": 35715011,
         "id_magento": "904"
       },
       {
@@ -9229,7 +9229,7 @@
           "Breques e Roletes"
         ],
         "level": 1,
-        "id_nuvemshop": 35705159,
+        "id_nuvemshop": 35715013,
         "id_magento": "893"
       },
       {
@@ -9245,7 +9245,7 @@
           "Acessórios para Vibradores de Concreto"
         ],
         "level": 1,
-        "id_nuvemshop": 35705161,
+        "id_nuvemshop": 35715014,
         "id_magento": "890"
       },
       {
@@ -9261,7 +9261,7 @@
           "Peças para Marteletes"
         ],
         "level": 1,
-        "id_nuvemshop": 35705163,
+        "id_nuvemshop": 35715015,
         "id_magento": "913"
       },
       {
@@ -9277,7 +9277,7 @@
           "Acessórios para Micro Retífica"
         ],
         "level": 1,
-        "id_nuvemshop": 35705164,
+        "id_nuvemshop": 35715016,
         "id_magento": "884"
       },
       {
@@ -9293,7 +9293,7 @@
           "Peças para Motosserras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705165,
+        "id_nuvemshop": 35715017,
         "id_magento": "914"
       },
       {
@@ -9309,7 +9309,7 @@
           "Peças para Roçadeiras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705166,
+        "id_nuvemshop": 35715018,
         "id_magento": "915"
       },
       {
@@ -9325,7 +9325,7 @@
           "Acessórios para Motocultivadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705167,
+        "id_nuvemshop": 35715019,
         "id_magento": "885"
       },
       {
@@ -9341,7 +9341,7 @@
           "Acessórios para Motopodas e Podadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705169,
+        "id_nuvemshop": 35715021,
         "id_magento": "886"
       },
       {
@@ -9357,7 +9357,7 @@
           "Peças para Sopradores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705170,
+        "id_nuvemshop": 35715034,
         "id_magento": "918"
       },
       {
@@ -9373,7 +9373,7 @@
           "Peças para Esmerilhadeiras"
         ],
         "level": 1,
-        "id_nuvemshop": 35705171,
+        "id_nuvemshop": 35715037,
         "id_magento": "911"
       },
       {
@@ -9389,7 +9389,7 @@
           "Peças para Serras Elétricas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705172,
+        "id_nuvemshop": 35715038,
         "id_magento": "917"
       },
       {
@@ -9405,7 +9405,7 @@
           "Velas de Ignição"
         ],
         "level": 1,
-        "id_nuvemshop": 35705174,
+        "id_nuvemshop": 35715039,
         "id_magento": "926"
       },
       {
@@ -9421,7 +9421,7 @@
           "Peças para Rompedor"
         ],
         "level": 1,
-        "id_nuvemshop": 35705177,
+        "id_nuvemshop": 35715040,
         "id_magento": "916"
       }
     ],
@@ -9429,7 +9429,7 @@
       "Peças de Reposição e Acessórios"
     ],
     "level": 0,
-    "id_nuvemshop": 35704932,
+    "id_nuvemshop": 35714787,
     "id_magento": ""
   },
   {
@@ -9462,7 +9462,7 @@
               "Aromatizantes"
             ],
             "level": 2,
-            "id_nuvemshop": 35705538,
+            "id_nuvemshop": 35715352,
             "id_magento": "499"
           },
           {
@@ -9482,7 +9482,7 @@
               "Ceras e Polidores Automotivos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705539,
+            "id_nuvemshop": 35715353,
             "id_magento": "611"
           },
           {
@@ -9502,7 +9502,7 @@
               "Shampoos e Desincrustantes Automotivos"
             ],
             "level": 2,
-            "id_nuvemshop": 35705540,
+            "id_nuvemshop": 35715354,
             "id_magento": "614"
           },
           {
@@ -9521,7 +9521,7 @@
               "Luvas e Toalhas para Limpeza Automotiva"
             ],
             "level": 2,
-            "id_nuvemshop": 35705541,
+            "id_nuvemshop": 35715355,
             "id_magento": "612"
           },
           {
@@ -9538,7 +9538,7 @@
               "Outros Químicos para Limpeza Automotiva"
             ],
             "level": 2,
-            "id_nuvemshop": 35705542,
+            "id_nuvemshop": 35715356,
             "id_magento": "613"
           },
           {
@@ -9555,7 +9555,7 @@
               "Utensílios para Limpeza Automotiva"
             ],
             "level": 2,
-            "id_nuvemshop": 35705543,
+            "id_nuvemshop": 35715357,
             "id_magento": "615"
           }
         ],
@@ -9564,7 +9564,7 @@
           "Limpeza Automotiva"
         ],
         "level": 1,
-        "id_nuvemshop": 35705178,
+        "id_nuvemshop": 35715041,
         "id_magento": ""
       },
       {
@@ -9586,7 +9586,7 @@
           "Mangueiras Automotivas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705179,
+        "id_nuvemshop": 35715042,
         "id_magento": "604"
       },
       {
@@ -9604,7 +9604,7 @@
           "Vulcanizadores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705180,
+        "id_nuvemshop": 35715043,
         "id_magento": "608"
       },
       {
@@ -9623,7 +9623,7 @@
           "Auxiliar de Partida"
         ],
         "level": 1,
-        "id_nuvemshop": 35705181,
+        "id_nuvemshop": 35715045,
         "id_magento": "595"
       },
       {
@@ -9642,7 +9642,7 @@
           "Banqueta"
         ],
         "level": 1,
-        "id_nuvemshop": 35705182,
+        "id_nuvemshop": 35715046,
         "id_magento": "296"
       },
       {
@@ -9663,7 +9663,7 @@
           "Mesas e Bancadas de Trabalho"
         ],
         "level": 1,
-        "id_nuvemshop": 35705183,
+        "id_nuvemshop": 35715047,
         "id_magento": "605"
       },
       {
@@ -9682,7 +9682,7 @@
           "Coletor de Óleo"
         ],
         "level": 1,
-        "id_nuvemshop": 35705185,
+        "id_nuvemshop": 35715048,
         "id_magento": "598"
       },
       {
@@ -9700,7 +9700,7 @@
           "Calibradores e Bombas de Encher"
         ],
         "level": 1,
-        "id_nuvemshop": 35705186,
+        "id_nuvemshop": 35715049,
         "id_magento": "105"
       },
       {
@@ -9720,7 +9720,7 @@
           "Descolador de Pneus"
         ],
         "level": 1,
-        "id_nuvemshop": 35705187,
+        "id_nuvemshop": 35715050,
         "id_magento": "599"
       },
       {
@@ -9738,7 +9738,7 @@
           "Desforcímetro"
         ],
         "level": 1,
-        "id_nuvemshop": 35705189,
+        "id_nuvemshop": 35715051,
         "id_magento": "600"
       },
       {
@@ -9756,7 +9756,7 @@
           "Macacos para Oficina"
         ],
         "level": 1,
-        "id_nuvemshop": 35705190,
+        "id_nuvemshop": 35715053,
         "id_magento": "535"
       },
       {
@@ -9774,7 +9774,7 @@
           "Estopas"
         ],
         "level": 1,
-        "id_nuvemshop": 35705191,
+        "id_nuvemshop": 35715054,
         "id_magento": "602"
       },
       {
@@ -9790,7 +9790,7 @@
           "Propulsoras para Graxa e Óleo"
         ],
         "level": 1,
-        "id_nuvemshop": 35705194,
+        "id_nuvemshop": 35715056,
         "id_magento": "606"
       },
       {
@@ -9809,7 +9809,7 @@
           "Scanners Automotivos"
         ],
         "level": 1,
-        "id_nuvemshop": 35705196,
+        "id_nuvemshop": 35715057,
         "id_magento": "300"
       },
       {
@@ -9828,7 +9828,7 @@
           "Remendos para Câmara de Ar"
         ],
         "level": 1,
-        "id_nuvemshop": 35705197,
+        "id_nuvemshop": 35715058,
         "id_magento": "607"
       },
       {
@@ -9847,7 +9847,7 @@
           "Bicos Infladores"
         ],
         "level": 1,
-        "id_nuvemshop": 35705198,
+        "id_nuvemshop": 35715059,
         "id_magento": "596"
       },
       {
@@ -9863,7 +9863,7 @@
           "Carrinhos para Oficina"
         ],
         "level": 1,
-        "id_nuvemshop": 35705199,
+        "id_nuvemshop": 35715061,
         "id_magento": "551"
       },
       {
@@ -9879,7 +9879,7 @@
           "Cabos de Transferência de Carga"
         ],
         "level": 1,
-        "id_nuvemshop": 35705200,
+        "id_nuvemshop": 35715062,
         "id_magento": "597"
       },
       {
@@ -9897,7 +9897,7 @@
           "Acessórios para Carros"
         ],
         "level": 1,
-        "id_nuvemshop": 35705202,
+        "id_nuvemshop": 35715064,
         "id_magento": "103"
       },
       {
@@ -9915,7 +9915,7 @@
           "Galões, Jarras e Funis"
         ],
         "level": 1,
-        "id_nuvemshop": 35705203,
+        "id_nuvemshop": 35715065,
         "id_magento": "603"
       },
       {
@@ -9933,7 +9933,7 @@
           "Funis"
         ],
         "level": 1,
-        "id_nuvemshop": 35705204,
+        "id_nuvemshop": 35715066,
         "id_magento": ""
       },
       {
@@ -9952,7 +9952,7 @@
           "Esticador Hidráulico"
         ],
         "level": 1,
-        "id_nuvemshop": 35705205,
+        "id_nuvemshop": 35715068,
         "id_magento": "601"
       },
       {
@@ -9968,7 +9968,7 @@
           "Automotiva Bosch"
         ],
         "level": 1,
-        "id_nuvemshop": 35705207,
+        "id_nuvemshop": 35715069,
         "id_magento": "507"
       }
     ],
@@ -9976,7 +9976,7 @@
       "Oficina Mecânica"
     ],
     "level": 0,
-    "id_nuvemshop": 35704933,
+    "id_nuvemshop": 35714788,
     "id_magento": ""
   }
 ]

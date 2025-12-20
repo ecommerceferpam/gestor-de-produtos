@@ -1,1 +1,1 @@
-from . import magento, meli, gemini, buscar_produto, filtrar_dado, nuvemshop, categorias
+from . import magento, meli, gemini, buscar_produto, filtrar_dado, nuvemshop, categorias, ferramentas
